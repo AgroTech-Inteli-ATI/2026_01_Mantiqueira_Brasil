@@ -154,7 +154,7 @@ A documentação também pode ser acessada em: [Acessar Docusaurus](#)
 | Líder Técnico | [Stefanne Soares](https://www.linkedin.com/in/stefannesoares/) (AgroTech Inteli) |
 | Líder de Negócio | [Matheus Ferreira](https://www.linkedin.com/in/matheusferreirads-/) e [Paulo Fernandes](https://www.linkedin.com/in/paulo-henrique0601/) (AgroTech Inteli) |
 | Líder Executivo | [Leandro Testa](https://www.linkedin.com/in/leandro-attie-testa-857092202/) e [João Martins](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-martins-28a8661aa/) (Mantiqueira Brasil) |
-| Equipe de Trainees | [Julia Bezerra](https://www.linkedin.com/in/julia-jesus-bezerra-a872b5321/), [Mateus Galatro](https://www.linkedin.com/in/mateus-galatro/), [Anna Castellini](https://www.linkedin.com/in/annacastellini/), [Miguel Augusto]() e [Gabrielli Battini](https://www.linkedin.com/in/gabrielibattini/) |
+| Equipe de Trainees | [Julia Bezerra](https://www.linkedin.com/in/julia-jesus-bezerra-a872b5321/), [Mateus Galatro](https://www.linkedin.com/in/mateus-galatro/), [Anna Castellini](https://www.linkedin.com/in/annacastellini/), [Miguel Augusto](https://www.linkedin.com/in/miguel-rodrigues-1b72863b0/) e [Gabrielli Battini](https://www.linkedin.com/in/gabrielibattini/) |
 
 ---
 
