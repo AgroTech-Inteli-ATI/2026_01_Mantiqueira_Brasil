@@ -43,12 +43,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       navbar: {
         title: 'AgroTech Inteli',
         logo: {
           alt: 'AgroTech Inteli',
           src: 'img/logo.png',
+          href: '/intro',
         },
         items: [
           {
