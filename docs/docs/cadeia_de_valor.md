@@ -59,3 +59,21 @@ Nesse cenário, a compostagem permite transformar um passivo ambiental em um ati
 ### 4.4 Aplicação Agrícola
 
 &ensp; Após a maturação, o composto pode ser utilizado em atividades agrícolas ou comercializado como fertilizante orgânico. Valor gerado: redução de custos com fertilizantes minerais; melhoria da fertilidade do solo; possibilidade de geração de receita; fortalecimento da economia circular.
+
+## 5. Benefícios da Compostagem para a Mantiqueira Brasil
+
+### Benefícios Ambientais
+- redução da contaminação ambiental;
+- diminuição da emissão de gases de efeito estufa;
+- reaproveitamento sustentável dos resíduos.
+
+### Benefícios Econômicos
+- redução de custos operacionais;
+- menor dependência de fertilizantes químicos;
+- possibilidade de comercialização do composto orgânico.
+
+### Benefícios Estratégicos
+- fortalecimento das práticas ESG;
+- melhoria da imagem institucional;
+- alinhamento às tendências de sustentabilidade do agronegócio;
+- aumento da competitividade no mercado.
