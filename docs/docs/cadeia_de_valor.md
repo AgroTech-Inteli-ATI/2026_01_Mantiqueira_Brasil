@@ -77,3 +77,9 @@ Nesse cenário, a compostagem permite transformar um passivo ambiental em um ati
 - melhoria da imagem institucional;
 - alinhamento às tendências de sustentabilidade do agronegócio;
 - aumento da competitividade no mercado.
+
+## 6. Tendências de Mercado
+
+&ensp; O mercado de compostagem e fertilizantes orgânicos vem crescendo devido: ao aumento do custo dos fertilizantes minerais; à busca por práticas agrícolas sustentáveis; à valorização de empresas alinhadas à economia circular e ESG.
+
+&ensp; Nesse cenário, a compostagem representa uma oportunidade estratégica para empresas do agronegócio, especialmente para organizações de grande porte como a Mantiqueira Brasil, que possuem elevada geração de resíduos orgânicos e potencial de reaproveitamento interno.
