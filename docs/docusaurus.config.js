@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AgroTech Inteli',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Documentação estratégica da vertical SoloBom',
   favicon: 'img/favicon.ico',
 
   url: 'https://AgroTech-Inteli-ATI.github.io', // Atualize conforme sua organização
@@ -84,7 +84,7 @@ const config = {
           },
           // Resto do footer continua igual
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AgroTech Inteli. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
