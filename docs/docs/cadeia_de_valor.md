@@ -83,3 +83,11 @@ Nesse cenário, a compostagem permite transformar um passivo ambiental em um ati
 &ensp; O mercado de compostagem e fertilizantes orgânicos vem crescendo devido: ao aumento do custo dos fertilizantes minerais; à busca por práticas agrícolas sustentáveis; à valorização de empresas alinhadas à economia circular e ESG.
 
 &ensp; Nesse cenário, a compostagem representa uma oportunidade estratégica para empresas do agronegócio, especialmente para organizações de grande porte como a Mantiqueira Brasil, que possuem elevada geração de resíduos orgânicos e potencial de reaproveitamento interno.
+
+## 7. Conclusão
+
+&ensp; A análise da cadeia de valor da compostagem demonstra que o esterco de galinha possui elevado potencial de reaproveitamento econômico, ambiental e agrícola. Quando inserido em um sistema estruturado de compostagem, o resíduo deixa de representar apenas um passivo ambiental e passa a atuar como recurso estratégico dentro da cadeia produtiva.
+
+&ensp; Para a Mantiqueira Brasil, a compostagem pode contribuir para redução de custos, fortalecimento das práticas sustentáveis, melhoria da gestão de resíduos e ampliação da eficiência operacional.
+Além disso, o reaproveitamento do esterco como fertilizante orgânico fortalece práticas de economia circular e posiciona a empresa de forma alinhada às principais tendências do agronegócio sustentável.
+
