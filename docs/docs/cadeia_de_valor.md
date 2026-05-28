@@ -14,3 +14,28 @@
 
 &ensp; Entretanto, quando descartado inadequadamente, esse resíduo pode causar impactos ambientais relevantes, como: contaminação do solo e da água; emissão de odores; proliferação de patógenos; emissão de gases provenientes da decomposição descontrolada.
 Nesse cenário, a compostagem permite transformar um passivo ambiental em um ativo produtivo, promovendo o reaproveitamento sustentável do resíduo dentro da própria cadeia do agronegócio.
+
+## 3. Processo de Compostagem
+
+&ensp; A compostagem ocorre por meio da ação de fungos e bactérias que decompõem a matéria orgânica em condições controladas de temperatura, umidade e oxigenação.
+
+
+&ensp; O processo ocorre em três fases principais:
+
+| Fase       | Características                                                  |
+|------------|------------------------------------------------------------------|
+| Mesofílica | Início da decomposição e aumento gradual da temperatura          |
+| Termofílica | Alta atividade microbiana e eliminação de patógenos            |
+| Maturação  | Estabilização do composto e formação do húmus                   |
+
+&ensp; Para garantir eficiência no processo, alguns fatores precisam ser monitorados:
+
+| Parâmetro      | Faixa Ideal          |
+|----------------|----------------------|
+| Umidade        | 50 - 60%             |
+| Temperatura    | 55 - 70 °C           |
+| Relação C/N    | 25:1 a 30:1          |
+| pH             | 5,5–8,0              |
+| Aeração        | Revolvimento periódico |
+
+&ensp; O esterco de galinha apresenta baixa relação carbono/nitrogênio, sendo frequentemente combinado com materiais ricos em carbono, como serragem e palhada, para equilibrar o processo.
