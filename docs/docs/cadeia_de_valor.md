@@ -7,3 +7,10 @@
 &ensp; No contexto da Mantiqueira Brasil, empresa de grande porte do agronegócio avícola, o elevado volume de resíduos gerados diariamente torna o gerenciamento desses materiais uma questão estratégica. Dessa forma, a compostagem surge não apenas como solução ambiental, mas também como oportunidade de geração de valor econômico, redução de custos e fortalecimento das práticas sustentáveis da empresa.
 
 &ensp; Além disso, o crescimento da demanda por modelos produtivos sustentáveis e alinhados aos princípios ESG aumenta a relevância da compostagem dentro da cadeia produtiva agroindustrial.
+
+## 2. Matéria-Prima: Esterco de Galinha
+
+&ensp; O esterco de galinha possui elevado potencial agronômico devido à alta concentração de nutrientes essenciais para o desenvolvimento das plantas, principalmente nitrogênio (N), fósforo (P) e potássio (K). Além disso, apresenta grande quantidade de matéria orgânica, contribuindo para a melhoria das propriedades físicas, químicas e biológicas do solo.
+
+&ensp; Entretanto, quando descartado inadequadamente, esse resíduo pode causar impactos ambientais relevantes, como: contaminação do solo e da água; emissão de odores; proliferação de patógenos; emissão de gases provenientes da decomposição descontrolada.
+Nesse cenário, a compostagem permite transformar um passivo ambiental em um ativo produtivo, promovendo o reaproveitamento sustentável do resíduo dentro da própria cadeia do agronegócio.
