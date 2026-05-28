@@ -9,12 +9,17 @@ const config = {
 
   url: 'https://AgroTech-Inteli-ATI.github.io', // Atualize conforme sua organização
   baseUrl: '/2026_01_Mantiqueira_Brasil/',
+  trailingSlash: true,
 
   organizationName: 'AgroTech-Inteli-ATI', // Atualize conforme sua organização
   projectName: '2026_01_Mantiqueira_Brasil',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -49,7 +54,7 @@ const config = {
         logo: {
           alt: 'AgroTech Inteli',
           src: 'img/logo.png',
-          href: '/intro',
+          href: '/',
         },
         items: [
           {
