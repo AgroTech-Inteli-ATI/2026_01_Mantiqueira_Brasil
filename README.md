@@ -141,7 +141,7 @@ npm run start
 http://localhost:3000
 ```
 
-A documentação também pode ser acessada em: [Acessar Docusaurus](#)
+A documentação também pode ser acessada em: [Acessar Docusaurus](https://agrotech-inteli-ati.github.io/2026_01_Mantiqueira_Brasil/)
 
 
 ---
