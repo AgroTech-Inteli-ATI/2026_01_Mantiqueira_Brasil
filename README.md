@@ -40,7 +40,7 @@ O projeto busca:
 
 ## 🔗 Links do Projeto
 
-- 📄 Documentação: [Acessar Docusaurus](#)
+- 📄 Documentação: [Acessar Docusaurus](https://agrotech-inteli-ati.github.io/2026_01_Mantiqueira_Brasil/)
 - 🚀 Deploy: [Abrir aplicação](#)
 
 ---
