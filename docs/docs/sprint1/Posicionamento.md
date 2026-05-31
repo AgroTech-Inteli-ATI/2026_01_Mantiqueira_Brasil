@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Visão Geral Estratégica
 
 ## 1. Proposta de Valor

@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Cadeia de Valor da Compostagem 
 
 ## 1. Introdução
@@ -46,19 +50,23 @@ Nesse cenário, a compostagem permite transformar um passivo ambiental em um ati
 
 ### 4.1 Geração do Resíduo
 
-&ensp; A cadeia inicia-se nas granjas da Mantiqueira Brasil, onde ocorre a geração contínua de esterco e cama de aviário. Valor gerado: disponibilidade constante de matéria-prima; reaproveitamento de resíduos; redução de desperdícios.
+&ensp; A cadeia inicia-se nas granjas da Mantiqueira Brasil, onde ocorre a geração contínua de esterco e cama de aviário. 
+- **Valor gerado:** disponibilidade constante de matéria-prima; reaproveitamento de resíduos; redução de desperdícios.
 
 ### 4.2 Coleta e Logística
 
-&ensp; Após a geração, os resíduos passam pelas etapas de coleta, armazenamento e transporte até as áreas de compostagem. Valor gerado: controle sanitário; redução de perdas; maior eficiência operacional; organização logística.
+&ensp; Após a geração, os resíduos passam pelas etapas de coleta, armazenamento e transporte até as áreas de compostagem. 
+- **Valor gerado:** controle sanitário; redução de perdas; maior eficiência operacional; organização logística.
 
 ### 4.3 Processamento e Compostagem
 
-&ensp; Nesta etapa ocorre a decomposição controlada da matéria orgânica, transformando o resíduo em composto estabilizado e seguro para uso agrícola. Valor gerado: transformação do passivo ambiental em fertilizante; agregação de valor econômico; redução de impactos ambientais; fortalecimento das práticas sustentáveis.
+&ensp; Nesta etapa ocorre a decomposição controlada da matéria orgânica, transformando o resíduo em composto estabilizado e seguro para uso agrícola. 
+- **Valor gerado:** transformação do passivo ambiental em fertilizante; agregação de valor econômico; redução de impactos ambientais; fortalecimento das práticas sustentáveis.
 
 ### 4.4 Aplicação Agrícola
 
-&ensp; Após a maturação, o composto pode ser utilizado em atividades agrícolas ou comercializado como fertilizante orgânico. Valor gerado: redução de custos com fertilizantes minerais; melhoria da fertilidade do solo; possibilidade de geração de receita; fortalecimento da economia circular.
+&ensp; Após a maturação, o composto pode ser utilizado em atividades agrícolas ou comercializado como fertilizante orgânico. 
+- **Valor gerado:** redução de custos com fertilizantes minerais; melhoria da fertilidade do solo; possibilidade de geração de receita; fortalecimento da economia circular.
 
 ## 5. Benefícios da Compostagem para a Mantiqueira Brasil
 

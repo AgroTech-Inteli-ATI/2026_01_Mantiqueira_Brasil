@@ -1,6 +1,11 @@
+---
+title: Contexto do Setor
+sidebar_position: 1
+---
+
 # 1. Contexto do Setor de Fertilizantes Orgânicos, Compostagem e Biometano no Brasil
 
-A operação da SoloBom/Mantiqueira deve ser compreendida dentro de uma agenda mais ampla do que a simples comercialização de composto orgânico. O caso envolve a valorização de um resíduo agroindustrial em larga escala - o esterco aviário - e sua conversão em produtos ou rotas de valor ligadas à fertilidade do solo, à economia circular e à transição energética.
+A operação da **SoloBom** da Mantiqueira Brasil deve ser compreendida dentro de uma agenda mais ampla do que a simples comercialização de composto orgânico. O caso envolve a valorização de um resíduo agroindustrial em larga escala - o esterco aviário - e sua conversão em produtos ou rotas de valor ligadas à fertilidade do solo, à economia circular e à transição energética.
 
 Segundo o entendimento inicial do case, a Mantiqueira Brasil produz mais de 500 mil toneladas de esterco por ano, volume que representa simultaneamente um desafio logístico, ambiental e econômico. Esse material deixou de ser tratado apenas como resíduo ou subproduto e passou a ser avaliado como ativo com potencial de geração de valor em compostagem orgânica, agricultura regenerativa, fertilizantes organominerais e biogás/biometano (ENTENDIMENTO DO CASE - MANTIQUEIRA, 2026).
 
@@ -60,7 +65,7 @@ A atratividade econômica do biometano, porém, depende de variáveis diferentes
 
 Como não há uma fonte pública única que dimensione especificamente o mercado brasileiro de composto orgânico aviário, o dimensionamento foi feito por aproximações. A leitura mais adequada separa os dois mercados de interesse: o mercado agrícola de fertilizantes, orgânicos, condicionadores e tecnologias de solo; e o mercado energético de biogás/biometano.
 
-### 1.5.1 TAM, SAM e SOM - mercado agrícola de fertilizantes, orgânicos e tecnologias de solo
+### 1.5.1 TAM, SAM e SOM: Mercado agrícola de fertilizantes, orgânicos e tecnologias de solo
 
 | Dimensão | Recorte adotado | Indicador de referência | Análise de mercado |
 |---|---:|---:|---|
@@ -80,7 +85,7 @@ Em volume, Mato Grosso, São Paulo, Minas Gerais e Goiás somaram 23,51 milhões
 
 O SOM físico inicial pode ser aproximado pela capacidade produtiva declarada. As unidades de Primavera do Leste e Campanha somam 200 mil toneladas/ano, equivalentes a cerca de 0,44% das entregas nacionais de fertilizantes em 2024. Considerando apenas o volume de MT, SP, MG e GO, essa capacidade equivaleria a cerca de 0,85% do volume entregue nesses quatro estados. Essa comparação é apenas indicativa, pois o composto orgânico não disputa todo o volume mineral; porém, ajuda a dimensionar a escala relativa da SoloBom.
 
-### 1.5.2 TAM, SAM e SOM - mercado de biogás e biometano
+### 1.5.2 TAM, SAM e SOM: Mercado de biogás e biometano
 
 | Dimensão | Recorte adotado | Indicador de referência | Análise de mercado |
 |---|---:|---:|---|
@@ -148,7 +153,7 @@ A análise de TAM, SAM e SOM mostra que a SoloBom atua em estados com forte rele
 
 No mercado de biometano, a oportunidade é distinta. O Brasil ainda está em fase de expansão de capacidade, com projeção de crescimento acelerado até 2027 e potencial técnico de longo prazo muito superior à capacidade atual. Para a Mantiqueira, o diferencial está na disponibilidade recorrente de biomassa, o que pode viabilizar projetos integrados de biodigestão, biometano e aproveitamento do digestato.
 
-A conclusão estratégica é que a empresa deve evitar uma leitura restrita do composto orgânico como produto isolado. A oportunidade mais robusta está em posicionar a SoloBom/Mantiqueira como plataforma circular de valorização do esterco aviário, combinando fertilidade do solo, compostagem, organominerais, biofertilizantes, digestato, biogás, biometano e redução de impacto ambiental.
+A conclusão estratégica é que a empresa deve evitar uma leitura restrita do composto orgânico como produto isolado. A oportunidade mais robusta está em posicionar a SoloBom como plataforma circular de valorização do esterco aviário, combinando fertilidade do solo, compostagem, organominerais, biofertilizantes, digestato, biogás, biometano e redução de impacto ambiental.
 
 # Referências
 
