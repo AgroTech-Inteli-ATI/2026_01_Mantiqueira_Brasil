@@ -1,159 +1,208 @@
-# 11. Biogás e biometano como segunda unidade de negócio da Mantiqueira/SoloBom
+# 11. Modelo por assinatura para produtores recorrentes
 
-A estruturação de biogás e biometano como segunda unidade de negócio representa uma frente estratégica de alto potencial para a Mantiqueira/SoloBom, especialmente porque a empresa possui uma condição de partida que muitos projetos energéticos não têm: disponibilidade recorrente, concentrada e rastreável de biomassa orgânica. O esterco aviário gerado pela Mantiqueira, estimado em mais de 500 mil toneladas por ano, cria um desafio logístico, ambiental e econômico, mas também oferece base para criação de uma plataforma energética e agrícola integrada.
+O modelo por assinatura representa uma oportunidade estratégica para a SoloBom aumentar previsibilidade de receita, fidelizar clientes e reduzir a sazonalidade típica do mercado de compostos orgânicos. Diferentemente de uma assinatura mensal tradicional, mais comum em serviços digitais, a proposta mais adequada ao agronegócio seria um modelo de fornecimento recorrente por safra, por ciclo produtivo ou por hectare contratado. Nesse formato, o produtor não compraria apenas uma carga pontual de composto, mas aderiria a um programa contínuo de manejo de solo, com entregas programadas, suporte técnico, previsibilidade de preço e acompanhamento agronômico.
 
-A lógica dessa estratégia é transformar parte do passivo orgânico em uma fonte adicional de receita. Por meio da biodigestão anaeróbia, o esterco pode gerar biogás; com etapas adicionais de purificação, esse biogás pode ser convertido em biometano. Esse biometano pode ser usado para autoconsumo energético, abastecimento de frota própria ou parceira, venda para transportadoras, fornecimento a indústrias consumidoras de gás, comercialização via distribuidoras ou geração de atributos ambientais por meio de certificados.
+Essa estratégia faz sentido porque o mercado de compostos orgânicos é nichado, fragmentado e sazonal, com maior concentração de vendas em períodos de safra. Ao criar contratos recorrentes, a SoloBom poderia transformar parte dessa demanda sazonal em uma carteira previsível de clientes, melhorando planejamento produtivo, logística, fluxo de caixa e ocupação da capacidade industrial. Para o produtor, o benefício estaria na segurança de abastecimento, no planejamento antecipado da adubação, na possibilidade de pagamento parcelado e no acesso a uma recomendação técnica mais estruturada.
 
-Ao mesmo tempo, o digestato gerado no processo pode retornar à cadeia agrícola como fração sólida para compostagem, base para fertilizantes ou eventual biofertilizante líquido, desde que atendidas as exigências técnicas, sanitárias e ambientais. Dessa forma, a rota energética não elimina a frente agrícola; ao contrário, pode reforçá-la se for integrada corretamente ao modelo de negócios da SoloBom.
+## 11.1 Oportunidade de mercado
 
-## 11.1 Contexto de mercado e crescimento do setor
+O mercado agrícola brasileiro possui características favoráveis para modelos de recorrência, desde que adaptados à lógica da safra. O produtor rural já trabalha com planejamento antecipado de insumos, compra programada, contratos de fornecimento, financiamento agrícola e pacotes tecnológicos. Dessa forma, a assinatura da SoloBom não deve ser comunicada como uma mensalidade genérica, mas como um programa de manejo recorrente.
 
-O mercado brasileiro de biogás e biometano está em expansão, impulsionado por fatores energéticos, ambientais, regulatórios e econômicos. A busca por combustíveis renováveis, a necessidade de reduzir emissões, o avanço do mercado de gás, a valorização de resíduos agropecuários e a criação de instrumentos como o Certificado de Garantia de Origem do Biometano fortalecem a atratividade do setor.
+O mercado de fertilizantes especiais movimenta dezenas de bilhões de reais e reúne categorias como fertilizantes minerais especiais, orgânicos, organominerais, biofertilizantes, condicionadores de solo e inoculantes. Esse ambiente favorece soluções que consigam demonstrar valor técnico e econômico. Ao mesmo tempo, a forte dependência brasileira de fertilizantes importados torna mais relevante a busca por alternativas nacionais e por modelos que ofereçam maior previsibilidade ao produtor.
 
-Estudos setoriais indicam que o Brasil possui grande potencial técnico para produção de biometano a partir de resíduos agropecuários, sucroenergéticos, urbanos e de saneamento. Esse potencial é especialmente relevante em um país com forte presença do agronegócio, elevada geração de resíduos orgânicos e grande demanda por combustíveis no transporte de cargas.
+Para a SoloBom, o modelo por assinatura pode ser uma forma de diferenciar o produto em um mercado onde concorrentes regionais competem por preço e players de nutrição vegetal competem por tecnologia, canal e assistência técnica. Ao estruturar uma assinatura, a empresa deixaria de vender apenas “toneladas de composto” e passaria a vender um programa de construção de solo, com acompanhamento, recorrência e proposta de longo prazo.
 
-Para a Mantiqueira, essa tendência é estratégica porque a empresa já possui biomassa disponível em escala. Enquanto muitos projetos precisam construir uma cadeia de suprimento de resíduos, a Mantiqueira já gera o insumo central de forma recorrente. Essa característica reduz uma das maiores barreiras do setor: garantir volume contínuo e previsível de matéria orgânica.
+## 11.2 Formatos possíveis de assinatura
 
-## 11.2 Disponibilidade geográfica e leitura por unidade
+A assinatura pode ser estruturada em diferentes formatos, conforme o perfil do produtor, a cultura atendida e a região.
 
-A viabilidade do biogás e do biometano depende fortemente da localização. Diferentemente de um mercado puramente nacional, a captura de valor do biometano depende da proximidade entre biomassa, planta de processamento, infraestrutura logística, pontos de consumo e potenciais clientes.
+| Modelo                            | Como funcionaria                                                                        | Público mais adequado                                | Benefício principal                                 |
+| --------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- |
+| Assinatura por safra              | O produtor contrata volume, entrega e suporte para uma safra específica                 | Grãos, cana e grandes propriedades                   | Previsibilidade de demanda e planejamento logístico |
+| Assinatura anual por hectare      | O produtor paga por um pacote anual de manejo de solo, calculado por hectare            | Café, hortifrúti, orgânicos e culturas perenes       | Fidelização e venda por valor agronômico            |
+| Assinatura técnica premium        | Inclui produto, análise de solo, recomendação, visitas técnicas e relatório de evolução | Produtores tecnificados e clientes de maior margem   | Diferenciação e aumento do ticket médio             |
+| Assinatura via cooperativa        | Cooperativa contrata volume recorrente para seus cooperados                             | Cooperativas agrícolas e revendas                    | Ganho de escala e capilaridade comercial            |
+| Assinatura de recuperação de solo | Programa contínuo para áreas degradadas ou em transição regenerativa                    | Produtores em recuperação de solo e projetos ESG     | Posicionamento ambiental e recorrência              |
+| Assinatura orgânica certificada   | Fornecimento recorrente do SB Premium para produtores orgânicos                         | Orgânicos certificados, hortifrúti e cafés especiais | Valorização da certificação e conformidade          |
 
-A Mantiqueira possui unidades citadas em Campanha, Primavera do Leste, Formosa, Itanhandu e Lorena, além das unidades industriais da SoloBom em Campanha/MG e Primavera do Leste/MT. Isso sugere que a estratégia deve ser construída unidade por unidade, considerando o volume de esterco disponível, a distância até consumidores potenciais, o perfil agrícola e industrial da região e a possibilidade de uso interno.
+O modelo mais promissor no curto prazo seria a assinatura por safra ou por hectare, pois se adapta melhor à lógica de compra do produtor rural. O modelo premium, com assistência técnica e relatórios, pode ser utilizado para clientes de maior valor agregado, especialmente café, hortifrúti, orgânicos e culturas perenes.
 
-| Unidade/região            | Potencial estratégico                                                               | Possíveis clientes ou usos                                                                 | Pontos de atenção                                                               |
-| ------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| **Primavera do Leste/MT** | Forte aderência ao agronegócio de larga escala e à logística de grãos               | Frota agrícola, transportadoras, produtores, cooperativas e operações logísticas regionais | Distâncias longas e necessidade de infraestrutura de abastecimento              |
-| **Campanha/MG**           | Proximidade com mercados de café, hortifrúti, orgânicos e rotas do Sudeste          | Frota própria/parceira, produtores, indústrias regionais e uso integrado com compostagem   | Avaliar volume local de esterco e demanda próxima por gás/energia               |
-| **Itanhandu/MG**          | Possível conexão com rotas entre MG, SP e RJ                                        | Transportadoras parceiras, logística interna e indústrias regionais                        | Necessidade de mapear consumo energético local                                  |
-| **Lorena/SP**             | Proximidade com eixo São Paulo–Rio de Janeiro e potenciais consumidores industriais | Indústrias, operadores logísticos, mercado de gás e consumidores com metas ESG             | Maior potencial de clientes, mas também maior exigência regulatória e comercial |
-| **Formosa/GO**            | Conexão com eixo Goiás/Distrito Federal e agronegócio regional                      | Agroindústrias, cooperativas, transportadoras e consumo regional                           | Avaliar infraestrutura e demanda por biometano comprimido                       |
+## 11.3 Considerações geográficas
 
-A conclusão geográfica é que a Mantiqueira não deve tratar o biometano como uma oportunidade homogênea. Cada unidade pode ter uma rota mais adequada. Em algumas regiões, o melhor caminho pode ser autoconsumo ou frota parceira. Em outras, pode haver maior potencial para venda industrial, comercialização via parceiros ou monetização por certificados.
+A viabilidade do modelo por assinatura depende fortemente da geografia. Como o composto orgânico é volumoso e sensível ao custo de transporte, a SoloBom deve priorizar regiões próximas às suas unidades ou mercados onde o cliente reconheça valor suficiente para compensar o frete.
 
-## 11.3 Potenciais clientes e rotas comerciais
+| Região                         | Potencial para assinatura | Justificativa                                                                                               | Probabilidade estratégica |
+| ------------------------------ | ------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Campanha/MG e Sul de Minas     | Alto                      | Proximidade da unidade, presença de café, hortifrúti, orgânicos e produtores com maior valorização de solo  | Alta                      |
+| Primavera do Leste/MT          | Médio/alto                | Região de grãos em larga escala, alta demanda por insumos e possibilidade de contratos por safra            | Média/alta                |
+| Itanhandu/MG e eixo MG/SP      | Alto                      | Potencial para culturas de maior valor, café, hortifrúti, orgânicos e proximidade com mercados consumidores | Alta                      |
+| Lorena/SP e Vale do Paraíba    | Médio/alto                | Proximidade com SP/RJ, possibilidade de clientes premium e propriedades de menor/médio porte                | Média/alta                |
+| Formosa/GO e entorno do DF     | Médio                     | Potencial em grãos, hortifrúti e produtores tecnificados, mas exige validação de demanda e logística        | Média                     |
+| Mato Grosso do Sul             | Médio                     | Potencial em grãos e pecuária, mas dependente de custo logístico e canais parceiros                         | Média                     |
+| Regiões distantes das unidades | Baixo                     | Frete pode reduzir margem e competitividade frente a compostos locais                                       | Baixa                     |
 
-A venda de biometano pode seguir diferentes rotas comerciais, cada uma com nível distinto de complexidade, investimento e risco.
+A maior probabilidade de sucesso está em regiões onde há proximidade física da produção, culturas de maior valor agregado e produtores que percebem o composto como investimento em solo, não apenas como insumo de menor custo. Por isso, Sul de Minas, eixo MG/SP, café, hortifrúti e orgânicos devem ser priorizados para os primeiros testes.
 
-| Cliente potencial                             | Como compra valor                                              | Atratividade para a Mantiqueira                                | Principais barreiras                                                    |
-| --------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Frota própria ou logística parceira**       | Substituição parcial de diesel por combustível renovável       | Alta, pois reduz exposição ao diesel e fortalece ESG logístico | Exige veículos compatíveis, abastecimento e previsibilidade operacional |
-| **Transportadoras e operadores logísticos**   | Redução de emissões e diferenciação para clientes embarcadores | Alta, especialmente em rotas recorrentes próximas às unidades  | Necessidade de contratos, volume e infraestrutura                       |
-| **Indústrias consumidoras de gás**            | Substituição parcial de gás natural fóssil por gás renovável   | Média/alta, dependendo da proximidade e do consumo             | Exige regularidade, qualidade, compressão, transporte ou conexão        |
-| **Distribuidoras e comercializadoras de gás** | Compra da molécula ou intermediação comercial                  | Média/alta                                                     | Depende de escala, regulação e infraestrutura                           |
-| **Empresas com metas ESG**                    | Compra de biometano ou atributo ambiental                      | Alta no médio prazo                                            | Necessidade de certificação e governança                                |
-| **Compradores de certificados de origem**     | Valorização do atributo ambiental do biometano                 | Potencialmente alta                                            | Mercado ainda em consolidação e dependente de regras claras             |
+## 11.4 Clientes potenciais
 
-A rota de autoconsumo ou frota parceira tende a ser a mais controlável no curto prazo. Ela permite que a Mantiqueira valide o processo, reduza custos logísticos e gere evidências de impacto ambiental antes de depender de clientes externos. Em seguida, a empresa pode avançar para transportadoras, indústrias e comercializadoras.
+O modelo por assinatura não deve ser oferecido para todos os clientes da mesma forma. Ele funciona melhor com produtores que possuem demanda recorrente, área estável, planejamento de manejo e disposição para relacionamento contínuo.
 
-## 11.4 Modelo de negócios recomendado
+| Cliente potencial                  | Aderência ao modelo | Oportunidade                                                           |
+| ---------------------------------- | ------------------- | ---------------------------------------------------------------------- |
+| Produtores de café                 | Alta                | Cultura perene, manejo recorrente e valorização de solo                |
+| Produtores orgânicos certificados  | Alta                | Necessidade contínua de insumos conformes e rastreáveis                |
+| Hortifrúti                         | Alta                | Ciclos frequentes, maior valor por hectare e demanda por solo saudável |
+| Grandes produtores de grãos        | Média               | Alto volume, mas maior pressão por preço e operação mecanizada         |
+| Cooperativas                       | Alta                | Permitem escala, previsibilidade e distribuição para vários cooperados |
+| Revendas agrícolas                 | Média/alta          | Podem vender pacotes recorrentes e criar carteira regional             |
+| Produtores de cana                 | Média               | Potencial de volume, mas concorrência com subprodutos locais           |
+| Produtores muito sensíveis a preço | Baixa               | Tendem a preferir compras pontuais e fornecedores regionais baratos    |
 
-A frente de biogás e biometano pode ser estruturada como uma unidade de negócio complementar, com três fontes principais de valor:
+A assinatura tem maior potencial em produtores que já entendem o valor da construção de solo. Em clientes que compram apenas pelo menor preço por tonelada, o modelo tende a ter menor adesão.
 
-| Fonte de valor           | Como gera retorno                                                                    | Relação com a SoloBom                                                      |
-| ------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| **Energia renovável**    | Venda ou autoconsumo de biogás/biometano                                             | Diversifica receita e reduz exposição a custos energéticos                 |
-| **Coprodutos agrícolas** | Uso do digestato sólido ou líquido em compostagem, fertilizantes ou biofertilizantes | Reforça a vertical de compostos orgânicos e potenciais novas linhas        |
-| **Atributo ambiental**   | Certificados, rastreabilidade, redução de emissões e narrativa ESG                   | Fortalece o posicionamento da Mantiqueira/SoloBom como plataforma circular |
+## 11.5 Probabilidade de adoção por segmento
 
-Essa lógica evita que o biometano seja visto apenas como venda de gás. O maior potencial está em construir uma plataforma circular, na qual o esterco é valorizado em múltiplas rotas: energia, fertilizante e sustentabilidade.
+As probabilidades abaixo são estimativas qualitativas de priorização, considerando adequação do produto, recorrência da demanda, disposição a pagar, proximidade geográfica e facilidade comercial.
 
-## 11.5 Integração com o digestato
+| Segmento                                 | Probabilidade estimada de adoção | Justificativa                                                                                                |
+| ---------------------------------------- | -------------------------------: | ------------------------------------------------------------------------------------------------------------ |
+| Café em MG/SP                            |            Alta, entre 70% e 80% | Cultura perene, maior valorização de solo, proximidade da unidade de Campanha e possibilidade de plano anual |
+| Orgânicos certificados                   |            Alta, entre 70% e 85% | Necessidade de conformidade, rastreabilidade e fornecimento confiável                                        |
+| Hortifrúti                               |            Alta, entre 65% e 75% | Ciclos produtivos frequentes, maior valor por hectare e maior abertura a programas de manejo                 |
+| Cooperativas regionais                   |      Média/alta, entre 60% e 75% | Podem consolidar demanda e facilitar recorrência, mas exigem negociação comercial robusta                    |
+| Revendas agrícolas                       |      Média/alta, entre 55% e 70% | Possuem capilaridade, mas precisam de margem e suporte técnico                                               |
+| Grandes produtores de grãos              |           Média, entre 45% e 60% | Alto volume, porém maior pressão por preço e necessidade de produto mecanizável                              |
+| Cana-de-açúcar                           |           Média, entre 40% e 55% | Potencial de volume, mas concorrência com torta de filtro, vinhaça e compostos locais                        |
+| Produtores de baixo investimento técnico |           Baixa, entre 20% e 35% | Menor disposição a pagar por recorrência, suporte e diferenciação                                            |
 
-Um ponto crítico da estratégia é o destino do digestato. A biodigestão reduz parte da carga orgânica e gera biogás, mas não elimina completamente a necessidade de gerir o material remanescente. Se o digestato não for planejado, o projeto pode apenas transformar o problema do esterco em outro passivo.
+O melhor ponto de entrada é o produtor que possui dor recorrente de manejo de solo e já valoriza previsibilidade. Isso inclui café, orgânicos, hortifrúti e cooperativas que atendem produtores tecnificados.
 
-Por isso, o digestato deve ser tratado como coproduto estratégico. A fração sólida pode ser direcionada à compostagem, à formulação de fertilizantes ou à composição de linhas organominerais. A fração líquida pode ser estudada para uso como biofertilizante ou fertirrigação, desde que haja viabilidade técnica, ambiental, sanitária e regulatória.
+## 11.6 Proposta de valor da assinatura
 
-A integração entre digestato e SoloBom pode gerar vantagens competitivas relevantes:
+A assinatura deve ser comunicada como um programa de manejo contínuo, e não apenas como uma compra parcelada de composto. A proposta de valor pode ser organizada em três dimensões.
 
-* redução do passivo orgânico;
-* maior aproveitamento por tonelada de esterco;
-* possibilidade de novas linhas de produto;
-* fortalecimento da narrativa de economia circular;
-* redução da dependência exclusiva do composto tradicional;
-* aproveitamento conjunto das rotas agrícola e energética.
+| Dimensão       | Valor para o produtor                                                            | Valor para a SoloBom                            |
+| -------------- | -------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Planejamento   | Garante produto na época certa, com volume programado e previsibilidade de custo | Permite prever demanda, produção e logística    |
+| Técnica        | Inclui recomendação por cultura, dose, época de aplicação e acompanhamento       | Diferencia a marca e reduz comparação por preço |
+| Relacionamento | Cria vínculo contínuo com fornecedor confiável                                   | Aumenta recompra, retenção e ticket médio       |
 
-## 11.6 Dados necessários para viabilidade
+A mensagem central poderia ser:
 
-O potencial capturável do biometano não deve ser estimado apenas pelo tamanho do mercado nacional. Ele precisa ser calculado por unidade produtiva, considerando fatores técnicos, econômicos, logísticos e comerciais.
+> O modelo por assinatura da SoloBom transforma a compra de composto orgânico em um programa contínuo de construção de solo, com fornecimento planejado, suporte técnico e previsibilidade para cada safra.
 
-A Mantiqueira deve levantar, para cada unidade:
+## 11.7 Estrutura de pacotes recomendada
 
-| Dado necessário                         | Por que é importante                         |
-| --------------------------------------- | -------------------------------------------- |
-| Volume diário de esterco                | Define escala potencial de produção          |
-| Teor de sólidos totais                  | Influencia rendimento da biodigestão         |
-| Teor de sólidos voláteis                | Indica fração orgânica convertível em biogás |
-| Potencial bioquímico de metano          | Estima produtividade energética              |
-| Eficiência esperada do biodigestor      | Afeta volume real de biogás                  |
-| Custo de biodigestor                    | Define CAPEX inicial                         |
-| Custo de purificação                    | Necessário para conversão em biometano       |
-| Custo de compressão e transporte        | Afeta viabilidade comercial                  |
-| Existência de clientes próximos         | Reduz risco de demanda                       |
-| Distância até consumidores              | Impacta frete e margem                       |
-| Destinação do digestato                 | Evita criação de novo passivo                |
-| Licenciamento e exigências regulatórias | Define prazo e complexidade de implantação   |
-| Possibilidade de certificação           | Permite monetizar atributo ambiental         |
+A SoloBom poderia criar pacotes de assinatura com níveis diferentes de serviço e valor agregado.
 
-Sem esses dados, a análise de biometano permanece apenas como potencial teórico. Para transformar a frente em unidade de negócio, a Mantiqueira precisa construir um business case local, começando pelas unidades com maior volume de esterco e maior proximidade a potenciais consumidores.
+| Pacote               | Conteúdo                                                                      | Público-alvo                                    | Objetivo                              |
+| -------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------- |
+| SoloBom Essencial    | Volume programado por safra, entrega agendada e condição comercial recorrente | Produtores convencionais e clientes recorrentes | Garantir recompra e previsibilidade   |
+| SoloBom Técnico      | Produto + recomendação por cultura + acompanhamento remoto                    | Produtores tecnificados e revendas              | Vender valor agronômico               |
+| SoloBom Premium      | Produto + análise de solo + visita técnica + relatório anual                  | Café, hortifrúti e orgânicos                    | Aumentar margem e fidelização         |
+| SoloBom Cooperativas | Contrato anual com volume reservado para cooperados                           | Cooperativas e associações                      | Ganhar escala comercial               |
+| SoloBom Regenerativo | Programa para recuperação de solo e agricultura regenerativa                  | Clientes ESG e áreas degradadas                 | Posicionar sustentabilidade e impacto |
 
-## 11.7 Estratégia de entrada recomendada
+A criação de pacotes permite capturar diferentes níveis de disposição a pagar. Clientes mais sensíveis a preço podem entrar pelo pacote Essencial. Clientes de maior valor podem aderir ao Técnico ou Premium. Cooperativas podem ser atendidas por contratos customizados.
 
-A entrada na frente de biogás e biometano deve ocorrer de forma gradual.
+## 11.8 Benefícios financeiros para a SoloBom
 
-### Fase 1 — Diagnóstico técnico por unidade
+O modelo por assinatura pode gerar benefícios financeiros relevantes para a SoloBom:
 
-Levantar volume de esterco, composição do material, potencial de produção de biogás, disponibilidade de área, custo de implantação, exigências ambientais e possibilidades de uso do digestato.
+* previsibilidade de receita por safra;
+* melhor planejamento de produção;
+* redução de estoque parado;
+* otimização de frete;
+* maior taxa de recompra;
+* menor custo de aquisição de clientes;
+* possibilidade de antecipação de caixa;
+* aumento do ticket médio com serviços técnicos;
+* maior fidelização de produtores;
+* menor dependência de vendas pontuais em períodos de safra.
 
-### Fase 2 — Mapeamento de demanda regional
+Esse modelo também ajuda a reduzir o risco de sazonalidade. Como o mercado de compostos orgânicos tende a vender mais em épocas de safra, contratos recorrentes permitiriam à empresa planejar melhor produção, armazenamento e entrega.
 
-Identificar frotas próprias, transportadoras parceiras, indústrias consumidoras de gás, cooperativas, agroindústrias e potenciais compradores de atributo ambiental nas regiões próximas às unidades.
+## 11.9 Riscos e pontos de atenção
 
-### Fase 3 — Piloto de autoconsumo ou frota parceira
+Apesar do potencial, o modelo por assinatura apresenta riscos importantes.
 
-Iniciar por uma aplicação mais controlável, como substituição parcial de diesel em rotas recorrentes ou uso energético interno. Essa etapa reduz o risco comercial e permite validar produção, abastecimento e operação.
+| Risco                              | Impacto                                                      | Como mitigar                                                           |
+| ---------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Baixa adesão inicial               | Produtor pode estranhar o termo “assinatura”                 | Comunicar como “programa por safra” ou “contrato recorrente de manejo” |
+| Pressão por preço                  | Produtor pode comparar com composto regional barato          | Vender por hectare, não apenas por tonelada                            |
+| Risco logístico                    | Entregas recorrentes podem aumentar complexidade operacional | Começar por regiões próximas às unidades                               |
+| Inadimplência                      | Contratos recorrentes exigem gestão financeira               | Usar entrada, parcelas por safra e análise de crédito                  |
+| Promessa técnica excessiva         | Risco de prometer produtividade sem comprovação              | Trabalhar com áreas demonstrativas e relatórios agronômicos            |
+| Dependência de assistência técnica | O modelo exige equipe ou parceiros técnicos                  | Usar consultores, revendas e cooperativas como canais                  |
+| Baixa aderência em grãos           | Grandes produtores podem priorizar preço e mecanização       | Associar assinatura a organomineral/granulado no médio prazo           |
 
-### Fase 4 — Venda regional
+O principal cuidado é não vender a assinatura como uma mensalidade desconectada da realidade do agro. O produtor pensa em safra, talhão, cultura, dose, custo por hectare e retorno. Portanto, o modelo deve ser desenhado a partir desses elementos.
 
-Após a validação operacional, avançar para contratos com transportadoras, indústrias ou comercializadoras de gás.
+## 11.10 Estratégia de entrada recomendada
 
-### Fase 5 — Monetização de certificados e atributos ambientais
+A implementação deve ser feita em etapas.
 
-Com a operação madura, estruturar certificação, rastreabilidade, documentação de emissões evitadas e eventual comercialização de atributos ambientais.
+### Fase 1 — Piloto com clientes atuais
 
-## 11.8 Riscos e pontos de atenção
+Selecionar produtores que já compram SoloBom de forma recorrente e oferecer um contrato por safra com volume reservado, entrega planejada e condição comercial diferenciada.
 
-O maior risco dessa estratégia é tratar o biometano apenas como oportunidade de mercado sem resolver a lógica operacional. Projetos de biometano exigem escala, CAPEX, tecnologia, contratos, gestão regulatória e destino adequado para o digestato.
+### Fase 2 — Pacote para culturas de maior aderência
 
-Os principais riscos são:
+Criar pacotes específicos para café, hortifrúti e orgânicos, com recomendação técnica e acompanhamento. Essas culturas tendem a ter maior disposição a pagar e maior percepção de valor em manejo de solo.
 
-* CAPEX elevado para biodigestão, purificação e compressão;
-* dificuldade de garantir cliente comprador no curto prazo;
-* distância entre produção e consumo;
-* ausência de infraestrutura de abastecimento;
-* necessidade de veículos compatíveis no caso de uso em frota;
-* incerteza sobre monetização de certificados;
-* complexidade regulatória;
-* risco de o digestato se tornar novo passivo;
-* necessidade de operação técnica contínua.
+### Fase 3 — Parcerias com cooperativas e revendas
 
-Por outro lado, se bem estruturado, o biometano pode transformar a Mantiqueira em uma operação circular mais robusta, com redução de passivo ambiental, nova receita energética, fortalecimento ESG e integração com a SoloBom.
+Oferecer contratos regionais para cooperativas, associações e revendas, permitindo que esses canais distribuam o produto em formato de programa para seus produtores.
 
-## 11.9 Síntese estratégica
+### Fase 4 — Integração com organominerais
 
-A principal tese estratégica é que a Mantiqueira/SoloBom pode evoluir de uma operação de compostagem para uma plataforma circular de valorização do esterco aviário. Nessa plataforma, os organominerais aumentam valor agregado no mercado agrícola; o biogás e o biometano criam uma segunda unidade de negócio energética; e o digestato retorna como insumo para compostagem, fertilizante ou biofertilizante.
+No médio prazo, a assinatura pode incluir produtos organominerais ou granulados, ampliando aderência a grandes lavouras e reduzindo barreiras operacionais.
 
-Essa integração amplia a captura de valor por tonelada de esterco, diversifica receitas e torna a operação menos dependente de um único mercado. No curto prazo, o caminho mais seguro é construir business cases por unidade e iniciar por aplicações controláveis, como autoconsumo ou frota parceira. No médio e longo prazo, a Mantiqueira pode avançar para venda externa, contratos industriais, comercialização com transportadoras e monetização de atributos ambientais.
+### Fase 5 — Dashboard de acompanhamento
+
+Criar uma base simples de acompanhamento por cliente, contendo área atendida, cultura, dose aplicada, data de entrega, histórico de compra, análise de solo e taxa de recompra.
+
+## 11.11 Indicadores para acompanhar
+
+| Indicador                             | Objetivo                           |
+| ------------------------------------- | ---------------------------------- |
+| Número de clientes assinantes         | Medir adesão ao modelo             |
+| Receita recorrente por safra          | Avaliar previsibilidade financeira |
+| Taxa de renovação                     | Medir fidelização                  |
+| Ticket médio por cliente              | Avaliar captura de valor           |
+| Margem após frete                     | Medir viabilidade geográfica       |
+| Volume contratado antecipadamente     | Melhorar planejamento produtivo    |
+| Custo de aquisição de cliente         | Avaliar eficiência comercial       |
+| Número de hectares atendidos          | Medir penetração de mercado        |
+| Taxa de recompra                      | Medir satisfação e recorrência     |
+| Participação de cooperativas/revendas | Avaliar capilaridade               |
+
+## 11.12 Síntese estratégica
+
+O modelo por assinatura pode ser uma alternativa relevante para transformar a SoloBom de fornecedora pontual de composto orgânico em parceira recorrente de manejo de solo. A oportunidade é maior em culturas perenes, orgânicos, hortifrúti, cooperativas e produtores tecnificados, especialmente em regiões próximas às unidades de Campanha/MG e Primavera do Leste/MT.
+
+No curto prazo, a assinatura deve ser testada como contrato por safra ou programa anual por hectare, evitando o termo “mensalidade” e priorizando a linguagem do produtor rural. No médio prazo, o modelo pode ser integrado a linhas organominerais, assistência técnica, análises de solo e programas por cultura.
+
+A principal vantagem para a SoloBom é criar previsibilidade de demanda e fidelização. A principal vantagem para o produtor é receber produto, suporte e planejamento na época certa. Se bem estruturado, o modelo por assinatura pode reduzir sazonalidade, aumentar margem, fortalecer canais e diferenciar a SoloBom em um mercado fragmentado e pressionado por preço.
 
 ---
 
 # Fontes utilizadas
 
-ABIOGÁS. **Mapeamento de plantas de biometano até 2032.** Associação Brasileira do Biogás.
+ABISOLO. Fertilizantes especiais apresentaram crescimento expressivo em 2024. Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
 
-ANP. **Regulamentação do biometano e Certificado de Garantia de Origem do Biometano — CGOB.** Agência Nacional do Petróleo, Gás Natural e Biocombustíveis.
+AGFEED. Mercado de fertilizantes especiais ganha 129 novas empresas em quatro anos. 2025.
 
-COMGÁS. **Biometano: aplicações em veículos, indústria, residências e energia.**
+ANDA. Relatório sobre o mercado de fertilizantes. Associação Nacional para Difusão de Adubos, 2025.
 
-EPE. **Resíduos rurais e o consumo de combustíveis: avaliação do potencial econômico com o SIEnergia.** Empresa de Pesquisa Energética, 2025.
+ANÁLISE COMPOSTO 2025. Relatório de ensaio LABFERT — fertilizante orgânico simples. Mantiqueira Alimentos Ltda., 2025.
 
+EMBRAPA. Materiais técnicos sobre fertilizantes organominerais, uso de resíduos orgânicos e tecnologias para nutrição vegetal.
 
+ENTENDIMENTO DO CASE — MANTIQUEIRA. Visão geral do problema e frentes de pesquisa para valorização do esterco aviário. Documento interno do projeto, 2026.
+
+MAPA. Plano Nacional de Fertilizantes 2022–2050. Ministério da Agricultura e Pecuária.
+
+MAPEAMENTO DE CONCORRENTES SOLOBOM. Documento interno do projeto, 2026.
+
+SOLOBOM. Apresentação institucional SoloBom 2023. Documento institucional fornecido no projeto, 2023.
