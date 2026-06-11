@@ -104,7 +104,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O principal desafio é o investimento inicial para escalar o sistema de purificação. Por isso, o caminho mais seguro é iniciar com um piloto em uma unidade, validar os números operacionais reais e, somente então, tomar a decisão de escalar.
 
-### Fontes Principais
+### Fontes Ultilizadas
 
 AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponível em: https://avinews.com/pt-br/na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
 
