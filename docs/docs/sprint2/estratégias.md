@@ -1,0 +1,327 @@
+# ANÁLISE ESTRATÉGICA - COMPOSTAGEM MANTIQUEIRA BRASIL
+
+## 1. Biometano na Frota: Produção Própria e Logística Independente
+
+### 1.1. Contexto operacional
+
+&ensp; A Mantiqueira Brasil já opera com biogás gerado pelo esterco das galinhas, principalmente na unidade de Lorena (SP), que foi projetada como granja 4.0 com sistema de produção de energia a partir da decomposição dos dejetos. A empresa também já utiliza biometano na frota de entrega, porém comprado de terceiros, o que representa um custo operacional contínuo e uma dependência externa que pode ser eliminada.
+
+&ensp; O diretor de negócios da Solobom declarou publicamente que o futuro da operação inclui "a transformação do esterco in natura em energia, seja elétrica, biogás ou biometano", sinalizando que a empresa já reconhece essa vocação estratégica mas ainda não a operacionaliza em escala própria para abastecimento da frota.
+
+&ensp; A Mantiqueira gera mais de 300 mil toneladas de esterco por ano em suas unidades. Esse volume representa uma matéria-prima abundante e de custo zero para produção de biometano, que hoje é subutilizada ou aproveitada apenas parcialmente.
+
+### 1.2. Problema identificado
+
+&ensp; A empresa paga por biometano de terceiros para abastecer sua frota enquanto possui internamente o insumo necessário para produzi-lo. Isso significa que há um duplo custo evitável: o custo de aquisição do biometano comprado e o custo de oportunidade do esterco que poderia estar gerando esse combustível.
+
+&ensp; Além disso, a dependência de fornecedores externos de biometano expõe a Mantiqueira à volatilidade de preço desse mercado. O preço do biometano no Brasil variou entre R$ 2,45 e R$ 2,77 por m³ em 2024, e tende a subir com o aumento da demanda impulsionado pela Lei do Combustível do Futuro (Lei 14.993/2024).
+
+### 1.3. Proposta Estratégica
+
+&ensp; A proposta se divide em duas fases com lógicas distintas de retorno:
+
+- **Fase 1 - Substituição:** escalar a produção própria de biometano a partir do esterco das galinhas para abastecer a frota da Mantiqueira, eliminando o custo de aquisição do combustível de terceiros.
+- **Fase 2 - Monetização:** se a produção superar o consumo da frota, comercializar o excedente para terceiros, transformando o biometano em uma nova linha de receita da Solobom.
+
+#### 1.3.1. Viabilidade técnica
+
+&ensp; O esterco de galinha poedeira é uma das matérias-primas de maior potencial para produção de biogás na avicultura. Estudos indicam uma produção média de 0,061 m³ de biogás por quilo de esterco, com composição de aproximadamente 58% de metano, a fração que é purificada para gerar biometano. Com 300 mil toneladas de esterco por ano disponíveis, o potencial de produção de biometano da Mantiqueira é expressivo.
+
+&ensp; A tecnologia de purificação do biogás em biometano já é madura no Brasil. Sistemas de biodigestão com módulo de upgrading (purificação) têm custo de implantação que varia entre R$ 200 e R$ 3.500 por m³ de capacidade instalada, dependendo do modelo tecnológico escolhido. Para uma operação no porte da Mantiqueira, o modelo CSTR com agitação e controle de temperatura é o mais indicado para garantir eficiência e regularidade de produção.
+
+#### 1.3.2. Referência de mercado
+
+&ensp; A Cocal, empresa do setor sucroenergético, inaugurou em 2025 uma planta de biometano que substituiu 2 milhões de litros de diesel em uma frota de 60 equipamentos entre caminhões, tratores e veículos leves. A Mantiqueira possui escala similar e matéria-prima própria em volume superior, o que coloca a operação dentro de parâmetros comprovados de viabilidade.
+
+#### 1.3.3. Mercado regulatório favorável
+
+&ensp; A aprovação da Lei do Combustível do Futuro em 2024 criou o primeiro marco regulatório nacional para o biometano, estruturando incentivos para produção e uso veicular. Produtores certificados no RenovaBio podem emitir CBIOs (Créditos de Descarbonização) a cada venda de biometano, gerando receita adicional sobre o combustível comercializado. Isso significa que na Fase 2, além do valor do biometano em si, a Mantiqueira poderia monetizar créditos de carbono associados à produção
+
+### 1.4. Análise Estratégica
+
+#### 1.4.1. Vantagens
+
+- **Eliminação do custo de aquisição de biometano:** A Mantiqueira deixa de pagar entre R$ 2,45 e R$ 2,77 por m³ a fornecedores externos e passa a produzir o próprio combustível a custo marginal de operação.
+Aproveitamento de matéria-prima já disponível: o esterco gerado pelas 11 milhões de galinhas é um insumo interno abundante, hoje parcialmente subutilizado para esse fim.
+
+- **Redução da dependência de diesel:** O biometano emite 89% menos gases de efeito estufa do que o diesel, o que reduz custos operacionais com combustível e fortalece o posicionamento ESG da empresa.
+
+- **Nova linha de receita no longo prazo:** Na Fase 2, o biometano excedente pode ser vendido para empresas do agronegócio, transportadoras ou distribuidoras de gás, com suporte do marco regulatório do RenovaBio.
+Geração de créditos de carbono: a certificação no RenovaBio permite emitir CBIOs por cada metro cúbico de biometano vendido, adicionando receita sobre o produto.
+
+- **Fortalecimento da narrativa de economia circular:** Transformar o esterco das galinhas em combustível para os caminhões que entregam os ovos é uma narrativa de economia circular completa e diferenciada, com alto valor para relatórios ESG, investidores e clientes.
+
+#### 1.4.2. Riscos e pontos de atenção
+
+- **Investimento inicial relevante:** A implantação de um sistema de biodigestão com purificação em escala industrial exige investimento significativo. É necessário um estudo de viabilidade econômica detalhado antes da decisão.
+
+- **Regularidade da produção:** A produção de biometano depende de controle rigoroso de temperatura, umidade e composição do substrato. Variações podem comprometer o abastecimento da frota se não houver estoque de reserva ou solução de contingência.
+
+- **Infraestrutura de abastecimento:** Caminhões a biometano precisam de ponto de abastecimento adequado nas unidades. Isso exige adaptação da infraestrutura logística e, possivelmente, adaptação ou substituição gradual de parte da frota.
+
+- **Conversão da frota:** A frota atual pode ser movida a diesel. A migração para veículos a biometano envolve custo de conversão ou substituição progressiva. Fabricantes como Scania e Volkswagen já oferecem modelos homologados para biometano no Brasil, o que reduz o risco tecnológico.
+
+- **Fase 2 depende de escala e distribuição:** A comercialização do excedente exige capacidade de armazenamento, compressão e logística de entrega para compradores externos, o que adiciona camadas de investimento e complexidade operacional.
+
+#### 1.4.3 Avaliação comparativa
+
+##### O Cenário Atual vs. O Futuro do Projeto
+
+
+- **Como é hoje:** A empresa compra biometano de terceiros por **R$ 2,45 a R$ 2,77/m³**. Isso gera dependência externa e desperdiça o potencial do esterco próprio, que não é aproveitado para esse fim.
+- **Proposta Fase 1 (Produção Própria):** Passamos a produzir o próprio biometano. O custo cai drasticamente (restando apenas o custo de operação), conquistamos independência dos fornecedores e fortalecemos a agenda ESG.
+- **Proposta Fase 2 (Venda do Excedente):** Além de abastecer o próprio negócio, vendemos a sobra de biometano no mercado. Isso gera uma nova fonte de receita, permite a emissão de CBIOs (créditos de descarbonização) e posiciona a Mantiqueira como produtora de energia renovável.
+
+##### Resumo dos Indicadores e Impacto
+
+| Indicador | Avaliação | Impacto / Justificativa |
+| :--- | :---: | :--- |
+| **Redução de Custo Operacional** | **Alto** | Economia direta ao parar de comprar de terceiros. |
+| **Potencial de Nova Receita (Fase 2)** | **Alto** | Venda do biometano excedente + geração de CBIOs. |
+| **Alinhamento ESG da Mantiqueira** | **Muito Alto** | Substituição de combustível fóssil e economia circular (uso do esterco). |
+| **Risco Regulatório** | **Baixo** | Cenário seguro, com marco legal favorável desde 2024. |
+| **Complexidade de Implantação** | **Alta** | Ponto de atenção: exige um estudo de viabilidade detalhado. |
+
+### 1.5. Caminho de implementação
+
+- **Etapa 1 - Diagnóstico:** levantar o volume exato de biometano comprado hoje, o custo total anual e o consumo da frota em m³. Isso define o tamanho mínimo de produção própria necessária para a Fase 1.
+
+- **Etapa 2 - Estudo de viabilidade:** contratar estudo técnico-econômico para dimensionar o sistema de biodigestão e purificação adequado ao volume de esterco disponível em cada unidade, com projeção de payback.
+
+- **Etapa 3 - Piloto em uma unidade:** implantar o sistema primeiramente na unidade com maior volume de esterco e frota mais concentrada, validando a operação antes de escalar.
+
+- **Etapa 4 - Certificação RenovaBio:** iniciar o processo de certificação como produtor de biometano junto à ANP para habilitar a emissão de CBIOs, preparando a operação para a Fase 2.
+
+- **Etapa 5 - Adaptação da frota:** em paralelo ao piloto, mapear a frota atual e iniciar a substituição gradual por veículos homologados para biometano nas rotas atendidas pelas unidades produtoras.
+
+- **Etapa 6 - Escala e comercialização:** após validação do piloto e com a frota adaptada, escalar a produção para as demais unidades e estruturar a comercialização do excedente para terceiros.
+
+### 1.6. Conclusão
+
+&ensp; Esta é a proposta com maior potencial de retorno financeiro de todo o portfólio analisado, porque atua simultaneamente na redução de custo (eliminação do biometano comprado) e na criação de nova receita (venda do excedente e CBIOs). A Mantiqueira já possui os três elementos essenciais para torná-la viável: matéria-prima em escala industrial, infraestrutura de biodigestão parcialmente existente e frota própria de entrega como mercado consumidor interno.
+
+&ensp; O momento regulatório também é favorável. A Lei do Combustível do Futuro aprovada em 2024 e o programa RenovaBio criam incentivos concretos para produtores de biometano certificados, reduzindo o risco de mercado da Fase 2.
+
+&ensp; O principal desafio é o investimento inicial para escalar o sistema de purificação. Por isso, o caminho mais seguro é iniciar com um piloto em uma unidade, validar os números operacionais reais e, somente então, tomar a decisão de escalar.
+
+## 2. Organominerais como via de expansão, diferenciação e aumento de margem
+
+&ensp; A ampliação da atuação da SoloBom para fertilizantes organominerais representa uma das vias mais consistentes para aumentar o valor agregado do portfólio, ampliar a competitividade comercial e reduzir a dependência de uma proposta baseada apenas no composto orgânico sólido. A empresa já possui uma base estratégica relevante para esse movimento: matéria-prima orgânica recorrente, origem rastreável vinculada à Mantiqueira Brasil, experiência em compostagem, presença em regiões agrícolas importantes e um produto atual com atributos técnicos associados à melhoria de solo, carbono orgânico, CTC, ácidos orgânicos e relação C:N equilibrada.
+
+&ensp; O fertilizante organomineral ocupa uma posição intermediária entre o fertilizante orgânico e o fertilizante mineral. Essa característica é estratégica porque combina os benefícios da fração orgânica, como melhoria da estrutura do solo, aumento de matéria orgânica, estímulo à microbiota e maior retenção de nutrientes, com a fração mineral, que entrega maior concentração nutricional e maior aderência à lógica de compra já conhecida pelo produtor rural. Para a SoloBom, essa combinação pode reduzir uma barreira comercial importante: o composto orgânico sólido tem valor agronômico, mas pode ser percebido como volumoso, menos concentrado e mais complexo de aplicar em grandes lavouras. O organomineral, especialmente em formato granulado ou peletizado, aproxima o produto da rotina operacional de produtores acostumados ao uso de NPK, distribuidores e cooperativas.
+
+### 2.1. Contexto de mercado e oportunidade setorial
+
+&ensp; O mercado brasileiro de fertilizantes especiais apresenta uma oportunidade relevante para soluções de maior valor agregado, mas também exige diferenciação clara. Segundo a ABISOLO, o setor de fertilizantes especiais movimentou R$ 26,9 bilhões em 2024, com crescimento expressivo em relação ao ano anterior. No entanto, o desempenho interno por categoria mostra que o crescimento não ocorreu de forma homogênea. Enquanto fertilizantes minerais especiais e biofertilizantes tiveram avanço, fertilizantes orgânicos e organominerais enfrentaram retração em faturamento.
+
+&ensp; Essa leitura é importante para a SoloBom porque mostra que o mercado não premia apenas produtos sustentáveis ou orgânicos por si só. O produtor rural tende a valorizar soluções que demonstrem eficiência, praticidade, retorno econômico e impacto produtivo. Assim, entrar no mercado de organominerais não deve significar apenas criar uma nova linha de produto, mas desenvolver uma solução com posicionamento técnico, aplicação prática e tese econômica bem definida.
+
+&ensp; Além disso, o cenário brasileiro de fertilizantes ainda é marcado por forte dependência de importações. O Plano Nacional de Fertilizantes 2022–2050 reforça a necessidade de ampliar a produção nacional de insumos, estimular o uso de fontes alternativas e valorizar resíduos agroindustriais com potencial agrícola. Nesse contexto, os organominerais aparecem como uma categoria alinhada à busca por maior segurança no abastecimento de nutrientes, menor dependência externa e melhor aproveitamento de matérias-primas nacionais.
+
+&ensp; Para a SoloBom, essa conjuntura cria uma oportunidade dupla: ampliar sua participação no mercado de fertilizantes especiais e, ao mesmo tempo, transformar o esterco aviário da Mantiqueira em uma solução de maior valor agregado, com apelo agronômico, ambiental e estratégico.
+
+### 2.2. Disponibilidade geográfica e aderência regional
+
+&ensp; A disponibilidade geográfica da SoloBom favorece a estratégia de expansão para organominerais. A empresa possui unidades industriais em Campanha/MG e Primavera do Leste/MT, além de atuação comercial declarada em Mato Grosso, Mato Grosso do Sul, Goiás, São Paulo e Minas Gerais. Esses estados são relevantes para a estratégia porque concentram parte expressiva da agricultura tecnificada, do consumo de fertilizantes e da demanda por soluções de nutrição vegetal.
+
+&ensp; Mato Grosso é especialmente estratégico por sua relevância na produção de grãos e no consumo nacional de fertilizantes. A presença da SoloBom em Primavera do Leste aproxima a empresa de uma região de alta intensidade agrícola, com forte demanda por insumos voltados a soja, milho, algodão e sistemas de produção em larga escala. Nesse contexto, uma linha organomineral granulada ou peletizada teria maior aderência operacional, pois poderia dialogar com produtores que já utilizam equipamentos de aplicação mecanizada e buscam soluções compatíveis com o manejo convencional.
+
+&ensp; Minas Gerais e São Paulo também são regiões importantes para a SoloBom. A unidade de Campanha/MG favorece o atendimento a mercados como café, hortifrúti, cana-de-açúcar, produtores orgânicos e sistemas agrícolas de maior valor agregado. No café, por exemplo, a valorização da qualidade do solo, da matéria orgânica, da retenção hídrica e da longevidade da lavoura pode tornar o organomineral uma solução mais facilmente justificável em termos de valor por hectare.
+
+&ensp; Goiás e Mato Grosso do Sul aparecem como regiões de expansão potencial, principalmente para culturas extensivas, cana-de-açúcar e integração com cooperativas e revendas. Nessas praças, a SoloBom deve avaliar cuidadosamente o custo logístico, pois fertilizantes de base orgânica tendem a ter menor concentração por tonelada e, portanto, maior sensibilidade ao frete.
+
+### 2.3. Clientes potenciais
+
+&ensp; A linha organomineral da SoloBom poderia atender diferentes perfis de clientes, desde produtores tecnificados até canais comerciais B2B. Os principais públicos potenciais são:
+
+| Cliente potencial                        | Interesse principal                                                                      | Oportunidade para a SoloBom                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Grandes produtores de grãos**          | Produto mecanizável, escala, previsibilidade e custo por hectare                         | Linha organomineral granulada para soja, milho e algodão         |
+| **Produtores de café**                   | Solo estruturado, CTC, matéria orgânica, retenção hídrica e produtividade de longo prazo | Linha premium para culturas perenes em MG e SP                   |
+| **Produtores de cana-de-açúcar**         | Condicionamento do solo, matéria orgânica e aproveitamento em áreas extensivas           | Competir com subprodutos da cana e compostos orgânicos regionais |
+| **Cooperativas agrícolas**               | Produtos com confiabilidade técnica, margem comercial e suporte ao cooperado             | Canal para ganho de escala e credibilidade                       |
+| **Revendas agrícolas**                   | Portfólio complementar e produto com diferenciação                                       | Capilaridade comercial regional                                  |
+| **Produtores orgânicos certificados**    | Conformidade, rastreabilidade e certificação                                             | Expansão da linha SB Premium                                     |
+| **Produtores em transição regenerativa** | Soluções com apelo ambiental e melhoria da saúde do solo                                 | Posicionamento como tecnologia orgânica de solo                  |
+
+&ensp; A venda para cooperativas e revendas é especialmente importante porque o organomineral precisa chegar ao produtor com recomendação técnica e linguagem comercial clara. Diferentemente de um composto vendido apenas por tonelada, o organomineral deve ser apresentado como parte de um programa de manejo, com indicação de dose, cultura, época de aplicação, custo por hectare e benefícios esperados.
+
+### 2.4 Análise competitiva
+
+&ensp; A entrada em organominerais responde diretamente à pressão de concorrentes indiretos e substitutos. No mapeamento de concorrentes, a Santa Safra aparece como um player relevante por atuar com fertilizantes organominerais granulados, combinando NPK com fração orgânica em formato mecanizável. Esse tipo de produto apresenta maior aderência a grandes lavouras e canais de revenda, pois se aproxima da lógica operacional dos fertilizantes minerais tradicionais.
+
+&ensp; Além da Santa Safra, players como Stoller e Timac Agro elevam o padrão técnico do mercado ao venderem soluções associadas à produtividade, eficiência de absorção, fisiologia vegetal e manejo especializado. Já empresas como Yara, Mosaic e Heringer, embora atuem principalmente com fertilizantes minerais, continuam sendo substitutos relevantes porque disputam o orçamento principal de nutrição agrícola do produtor.
+
+&ensp; Dessa forma, a SoloBom enfrenta pressões em três níveis. No primeiro, concorre com compostos orgânicos regionais, que podem competir por preço e proximidade logística. No segundo, disputa com organominerais granulados, que possuem maior facilidade de aplicação e maior aderência a grandes áreas. No terceiro, enfrenta a força dos fertilizantes minerais e das empresas de nutrição vegetal, que possuem canais comerciais robustos, marca consolidada e comunicação orientada à produtividade.
+
+&ensp; Para competir nesse ambiente, a SoloBom precisa transformar seus atributos técnicos em linguagem de valor. CTC, carbono orgânico, pH, ácidos orgânicos e relação C:N são argumentos relevantes, mas precisam ser traduzidos em benefícios objetivos para o produtor, como melhoria da estrutura do solo, maior retenção de nutrientes, estabilidade do manejo, complementaridade ao NPK e potencial de ganho econômico por hectare.
+
+### 2.5 Linhas de produto recomendadas
+
+&ensp; A estratégia mais promissora não seria criar um único organomineral genérico, mas desenvolver linhas segmentadas por cultura, região e perfil de cliente.
+
+| Linha sugerida             | Mercado prioritário                           | Proposta de valor                                                                                                      | Complexidade |
+| -------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **SB Organomineral Grãos** | MT, GO e MS                                   | Produto mecanizável para soja, milho e algodão, combinando fração orgânica rastreável e nutrição mineral               | Alta         |
+| **SB Organomineral Café**  | MG e SP                                       | Produto voltado a culturas perenes, com foco em solo, CTC, carbono orgânico, retenção hídrica e longevidade da lavoura | Média/alta   |
+| **SB Granulado Solo**      | Revendas e cooperativas                       | Produto com aplicação facilitada e maior aderência ao manejo convencional                                              | Média        |
+| **SB Premium Orgânico**    | Produtores orgânicos certificados             | Linha de maior valor agregado, com foco em conformidade, rastreabilidade e certificação                                | Média        |
+| **SB Recuperação de Solo** | Áreas degradadas ou em transição regenerativa | Solução voltada à reconstrução de matéria orgânica e melhoria da base produtiva                                        | Média        |
+
+&ensp; Essa segmentação permitiria que a SoloBom evitasse a armadilha de vender o mesmo produto para todos os públicos. Produtores de grãos tendem a priorizar escala, mecanização e custo por hectare. Produtores de café e hortifrúti podem valorizar mais qualidade do solo, retenção hídrica e resposta em culturas de maior valor. Produtores orgânicos valorizam certificação e conformidade. Já áreas degradadas demandam uma abordagem mais ligada à recuperação da capacidade produtiva do solo.
+
+### 2.6 Estratégia comercial e de precificação
+
+&ensp; A linha organomineral deve ser vendida por valor agronômico e por hectare, não apenas por tonelada. Essa mudança é essencial porque o produtor rural tende a comparar insumos pelo impacto no manejo e pelo retorno econômico esperado. Se a SoloBom vender organomineral apenas por tonelada, corre o risco de ser comparada com compostos regionais mais baratos ou com NPK convencional mais concentrado.
+
+&ensp; Ao vender por hectare, a empresa consegue mostrar dose, custo total, benefícios de solo, efeito complementar ao manejo mineral, praticidade de aplicação e valor de longo prazo. A comunicação deve deixar claro que o produto não substitui simplesmente o fertilizante mineral, mas fortalece a base do solo para que o sistema de nutrição funcione melhor.
+
+&ensp; Uma mensagem comercial possível seria:
+
+> A SoloBom não substitui simplesmente o NPK; ela melhora a base do solo para que o manejo nutricional seja mais eficiente, sustentável e consistente ao longo do tempo.
+
+&ensp; Além disso, a SoloBom pode desenvolver materiais comerciais por cultura, com informações sobre dose recomendada, época de aplicação, benefícios esperados, compatibilidade com o manejo mineral e comparação com alternativas disponíveis no mercado.
+
+### 2.7 Modelo de entrada recomendado
+
+&ensp; A entrada no mercado de organominerais deve ocorrer em fases, reduzindo o risco de investimento industrial antes da validação técnica e comercial.
+
+- **Fase 1  - Validação técnica:** Nesta etapa, a SoloBom deve testar formulações, granulometria, estabilidade, compatibilidade entre a fração orgânica e os nutrientes minerais, umidade, concentração final, necessidade de aditivos, viabilidade de granulação ou peletização e enquadramento regulatório.
+
+- **Fase 2  - Validação agronômica:** A empresa deve implantar áreas demonstrativas comparando o composto SoloBom, um possível organomineral SoloBom, NPK convencional, cama de frango regional e organominerais concorrentes. Essa etapa é essencial para gerar prova de campo e sustentar a comunicação comercial.
+
+- **Fase 3  - Piloto comercial:** A SoloBom deve testar o produto com cooperativas, revendas e grandes produtores em regiões próximas às unidades de Campanha/MG e Primavera do Leste/MT. O objetivo é validar aceitação, preço, logística, margem e taxa de recompra.
+
+- **Fase 4  - Escala industrial:** Somente após validação técnica, agronômica e comercial, a empresa deve avaliar o CAPEX necessário para granulação, peletização, mistura mineral, ensaque, armazenagem e controle de qualidade.
+
+### 2.8 Riscos e pontos de atenção
+
+&ensp; O principal risco é o organomineral nascer sem posicionamento claro. Se o produto for percebido apenas como um composto mais caro ou como um NPK menos concentrado, sua aceitação comercial pode ser limitada. Para evitar isso, a proposta deve ser construída como:
+
+> Fração orgânica rastreável + nutrição mineral + aplicação mecanizável + melhoria de solo + economia circular.
+
+&ensp; Outro risco está no CAPEX industrial. Granulação, peletização, mistura mineral, controle de umidade, ensaque e registro podem exigir investimentos relevantes. Por isso, a primeira etapa deve ser piloto, não expansão direta.
+
+&ensp; Também há risco logístico. Mesmo em formato organomineral, o produto pode continuar tendo maior volume por hectare do que fertilizantes minerais convencionais. Assim, a SoloBom deve definir raios econômicos de atendimento por unidade e priorizar clientes com maior margem ou maior aderência técnica.
+
+### 2.9 Síntese estratégica
+
+&ensp; A expansão para organominerais pode permitir que a SoloBom evolua de fornecedora de composto orgânico para empresa de tecnologia orgânica de solo. Essa frente amplia o potencial de margem, melhora a aderência a grandes lavouras, fortalece a proposta de valor da empresa e responde à pressão competitiva de organominerais granulados e fertilizantes minerais.
+
+&ensp; A oportunidade mais forte está em transformar o esterco aviário rastreável da Mantiqueira em uma linha de produtos mais sofisticada, segmentada por cultura e vendida por valor agronômico. Dessa forma, a SoloBom pode capturar mais valor por tonelada de matéria-prima, fortalecer sua diferenciação e ocupar um espaço estratégico entre os compostos regionais de baixo custo e os fertilizantes minerais de alta escala.
+
+## 3. Substituição do Cavaco de Madeira por Maravalha
+
+### 3.1. Contexto operacional
+
+&ensp; A compostagem da Mantiqueira Brasil é operada pela Solobom, braço do grupo responsável pela produção de fertilizantes orgânicos certificados pelo IBD. O processo ocorre em duas unidades produtivas estratégicas: Campanha (MG), com capacidade de até 100 mil toneladas por ano em uma área de 13.000 m², e Primavera do Leste (MT), apresentando igual capacidade de até 100 mil toneladas anuais instalada em uma área de 15.000 m².
+
+&ensp; O cavaco de eucalipto cumpre hoje duas funções críticas e estritamente complementares dentro do fluxo de processamento biológico:
+
+- **Função 1 - Estruturante da leira:** Atua diretamente na criação de canais de aeração e na absorção ideal de umidade durante a fase ativa da compostagem.
+- **Função 2 - Reutilização operacional:** Após o beneficiamento final realizado na peneira rotativa *Doppstadt*, o cavaco é recuperado com sucesso e reinserido de forma cíclica no início do processo.
+
+&ensp; O produto final, denominado Solobom, possui um grau de pureza de até 85% e é amplamente comercializado para fazendas de cana, soja, milho e café nos estados de SP, MG, GO, MT e MS, superando a marca histórica de 100 mil toneladas vendidas por ano. Atualmente, a Solobom já atua em forte parceria com produtores focados em agricultura regenerativa, a exemplo da renomada Fazenda Lagoinha Cafés Especiais, reforçando o seu posicionamento institucional no mercado de insumos orgânicos premium.
+
+### 3.2. Problema identificado
+
+&ensp; O cavaco industrializado consolidou-se como uma matéria-prima comprada diretamente no mercado tradicional, carregando um custo de aquisição altamente relevante. Diante do crescimento projetado para a Solobom e do plano de expansão contínua das granjas da Mantiqueira, o volume demandado desse insumo tende a crescer de forma proporcional, transformando a gestão de suprimentos e custos desta categoria em um fator extremamente crítico para a rentabilidade da operação.
+
+&ensp; **Cenário Comparativo de Mercado:**
+* **Cavaco de eucalipto industrializado:** Custo médio flutuando entre **R$ 270 a R$ 410 por tonelada**. Apresenta alta previsibilidade e disponibilidade regular o ano todo, porém impõe um pesado custo operacional à companhia.
+* **Maravalha de eucalipto (resíduo de serraria):** Custo bruto estimado entre **R$ 0 a R$ 100 por tonelada** (atrelado majoritariamente ao arranjo do frete). Encontra-se amplamente disponível nas regiões polo de Minas Gerais e Mato Grosso.
+
+### 3.3. Proposta Estratégica
+
+&ensp; A proposta consiste em substituir integralmente o cavaco de eucalipto industrializado por maravalha de eucalipto obtida como resíduo direto de serrarias e madeireiras locais, situadas estritamente dentro do raio logístico e econômico das unidades industriais de Campanha (MG) e Primavera do Leste (MT).
+
+#### 3.3.1. Por que a maravalha é o substituto ideal?
+&ensp; Diferente de outras biomassas e materiais agrícolas residuais comuns (como a palha de soja ou a casca de café), a maravalha origina-se da mesma madeira de eucalipto que compõe o cavaco atual. Isso assegura as seguintes vantagens competitivas:
+* **Compatibilidade técnica e biológica:** Detém a mesmíssima composição lignocelulósica, mantendo intactas as propriedades físicas essenciais de aeração estrutural e absorção de umidade nas leiras.
+* **Reutilização preservada:** Possui granulometria média em torno de 3 cm, dimensão perfeitamente adequada para o peneiramento na máquina rotativa *Doppstadt*, viabilizando a sua reutilização após o término de cada ciclo.
+* **Alinhamento com a Certificação IBD:** A entidade já certifica compostos que fazem uso de resíduos vegetais sem tratamento químico prévio, categoria regulatória na qual a maravalha de eucalipto bruto não tratado se enquadra perfeitamente.
+* **Custo de aquisição reduzido:** Por fazer parte de um subproduto residual do desdobro da madeira, as serrarias necessitam descartá-lo constantemente, oferecendo o material de forma gratuita ou cobrando valores de frete.
+
+#### 3.3.2. Disponibilidade regional por unidade produtiva
+* **Campanha (MG):** Município situado estrategicamente no Sul de Minas Gerais, região marcada por uma indústria madeireira altamente ativa. A disponibilidade local é classificada como **alta**, contando com fornecedores aptos a realizar a entrega de maravalha a granel através de frota própria.
+* **Primavera do Leste (MT):** Polo comercial cercado por indústrias madeireiras do Centro-Oeste com maciços florestais de eucalipto e pinus plantados. A disponibilidade é considerada **média**, demandando um mapeamento estruturado de fornecedores num raio limite de 100 km.
+
+### 3.4. Análise Estratégica
+
+#### 3.4.1. Vantagens
+* **Redução drástica de custo direto:** Eliminação ou decréscimo massivo no orçamento anual de aquisição do principal insumo estruturante do processo biológico.
+* **Economia circular e simbiose industrial:** A maravalha é comumente vista como um passivo ambiental para as serrarias. Absorvê-la na cadeia da Solobom cria uma narrativa ESG de alto impacto para o Grupo Mantiqueira.
+* **Alavancagem de margem operacional:** Com a redução expressiva do custo dos insumos, a Solobom ganha fôlego para ampliar o volume produzido e expandir substancialmente a margem de contribuição por tonelada comercializada.
+* **Estreitamento de relacionamento regional:** Aproxima a empresa dos atores econômicos locais, solidificando a força e a reputação da marca na cadeia de valor regional.
+
+#### 3.4.2. Riscos e pontos de atenção
+* **Homologação da Certificação IBD:** Qualquer alteração na matriz de insumos deve ser formalmente comunicada e validada pelo IBD antes de sua aplicação em escala comercial.
+* **Sazonalidade e constância de volume:** A oferta regular de maravalha caminha junto com o nível de atividade do setor de construção e serrarias. Torna-se mandatório diversificar a carteira de parceiros.
+* **Controle de qualidade e contaminantes:** Algumas madeireiras tratam o material com preservativos químicos (como CCA). É obrigatório exigir laudos assegurando que a maravalha provém de madeira bruta não tratada.
+* **Padronização física:** A granulometria pode variar de acordo com o maquinário do fornecedor, demandando rígida especificação técnica interna para manter a eficiência da aeração e a compatibilidade com a peneira rotativa.
+
+#### 3.4.3 Avaliação comparativa
+
+##### O Cenário Atual vs. O Futuro do Projeto
+* **Como é hoje:** Compra regular de cavaco de madeira industrializado no mercado tradicional por valores elevados (**R$ 270 a R$ 410/ton**), onerando as margens operacionais à medida que a produção expande.
+* **Cenário Proposto:** Substituição integral por maravalha residual sem tratamento proveniente de serrarias regionais parceiras. Redução extrema do custo logístico e ganho expressivo de apelo em economia circular.
+
+##### Resumo dos Indicadores e Impacto
+
+| Indicador | Avaliação | Impacto / Justificativa |
+| :--- | :---: | :--- |
+| **Potencial de Redução de Custo** | **Alto** | Queda imediata no valor por tonelada (R$ 270-410 vs. R$ 0-100). |
+| **Reutilização no Processo** | **Neutro** | Ambos os materiais performam de forma idêntica no peneiramento. |
+| **Valor de Narrativa ESG** | **Alto** | Transforma um passivo ambiental regional de serrarias em ativo de valor. |
+| **Risco de Qualidade** | **Médio** | Ponto de atenção: exige rígida fiscalização contra tratamentos químicos. |
+| **Complexidade de Implantação** | **Média** | Exige a revalidação documental e auditoria técnica junto ao IBD. |
+
+
+### 3.5. Caminho de implementação
+
+- **Etapa 1 - Mapeamento de Mercado:** Georreferenciar serrarias e indústrias madeireiras num raio de 50 km a 100 km das plantas de Campanha (MG) e Primavera do Leste (MT), levantando o volume mensal disponível.
+
+- **Etapa 2 - Especificação Técnica:** Instituir e fixar os parâmetros mínimos de granulometria, teor de umidade e total ausência de tratamentos químicos nocivos, coletando laudos prévios.
+
+- **Etapa 3 - Execução de Piloto:** Implementar lotes de compostagem em escala reduzida utilizando a maravalha homologada, monitorando de perto curvas de temperatura, umidade, tempo de maturação e pureza final.
+
+- **Etapa 4 - Validação com o IBD:** Submeter o relatório técnico compilado e as análises laboratoriais do piloto à auditoria da certificadora para obter o parecer favorável antes da virada de chave definitiva.
+
+- **Etapa 5 - Negociação e Contratos:** Formalizar parcerias de fornecimento de longo prazo com no mínimo dois players por região, mitigando riscos de quebra de estoque ou dependência exclusiva.
+
+- **Etapa 6 - Ganho de Escala:** Concluídas as etapas regulatórias, proceder com a substituição progressiva e sistemática do cavaco de eucalipto industrializado pela maravalha residual.
+
+### 3.6. Conclusão
+
+&ensp; A substituição do cavaco industrializado por maravalha de serraria desponta como a proposta mais equilibrada e viável entre a busca por eficiência financeira, a manutenção da qualidade biofísica do fertilizante e o cumprimento dos critérios de certificação do IBD. Contrapondo-se a outros resíduos vegetais comuns do agro, a maravalha de eucalipto simula com exatidão as propriedades do material atual e preserva o ciclo de reaproveitamento mecânico nas peneiras, um dos pilares do custo de produção da Solobom.
+
+&ensp; O núcleo de valor desta iniciativa transcende a simples redução imediata de custos: ela consolida o casamento perfeito entre ganho econômico direto e economia circular prática. O projeto robustece a vitrine ESG da Mantiqueira Brasil perante o mercado financeiro, investidores institucionais e grandes clientes finais, sobretudo no ecossistema da agricultura regenerativa, onde a Solobom já carimba o mercado através de parcerias de sucesso como a estabelecida com a Fazenda Lagoinha.
+
+## 12. Fontes Ultilizadas
+
+AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponível em: https://avinews.com/pt-br/na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
+
+INVESTING.COM BRASIL. Biometano: nasce o primeiro indicador de preço. Investing.com, 18 mar. 2024. Disponível em: https://br.investing.com/analysis/biometano-nasce-o-primeiro-indicador-de-preco-200463206. Acesso em: 8 jun. 2026.
+
+THE AGRIBIZ. Cocal dobra aposta no biometano e amplia produção nacional em 7,5%. The AgriBiz, 29 set. 2025. Disponível em: https://www.theagribiz.com/empresas/bioenergia/cocal-dobra-aposta-no-biometano-e-amplia-producao-nacional-em-75. Acesso em: 8 jun. 2026.
+
+CANAL RURAL INTERLIGADOS. Biodigestor na suinocultura e avicultura: como transformar resíduos em renda. Canal Rural, 3 jul. 2025. Disponível em: https://interligados.canalrural.com.br/avicultura/biodigestor-suinocultura-avicultura/. Acesso em: 8 jun. 2026.
+
+EMPRESA DE PESQUISA ENERGÉTICA (EPE). Panorama do biometano: setor sucroenergético. Ministério de Minas e Energia, dez. 2023. Disponível em: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-781/Panorama%20de%20Biometano.pdf. Acesso em: 8 jun. 2026.
+
+SOLOBOM. Apresentação SoloBom — Agricultura Regenerativa. Mantiqueira Brasil, [s.d.].
+
+ABISOLO. **Fertilizantes especiais apresentaram crescimento expressivo em 2024.** Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
+
+ANDA. **Comentários sobre o mercado brasileiro de fertilizantes em 2024.** Associação Nacional para Difusão de Adubos, 2025.
+
+EMBRAPA. **Materiais técnicos sobre fertilizantes organominerais, uso de resíduos orgânicos e tecnologias para nutrição vegetal.**
+
+ENTENDIMENTO DO CASE  - MANTIQUEIRA. **Visão geral do problema e frentes de pesquisa para valorização do esterco aviário.** Documento interno do projeto, 2026.
+
+MAPA. **Plano Nacional de Fertilizantes 2022–2050.** Ministério da Agricultura e Pecuária.
+
+MAPEAMENTO DE CONCORRENTES SOLOBOM. **Documento interno do projeto, 2026.**
+
+SOLOBOM. **Apresentação institucional SoloBom 2023.** Documento institucional fornecido no projeto, 2023.
+
