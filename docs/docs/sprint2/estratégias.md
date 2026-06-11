@@ -1,6 +1,34 @@
 # ANÁLISE ESTRATÉGICA - COMPOSTAGEM MANTIQUEIRA BRASIL
 
-## 1. Biometano na Frota: Produção Própria e Logística Independente
+## Sumário
+
+[1. Biometano na Frota: Produção Própria e Logística Independente](#c1)
+
+[2. Organominerais como via de expansão, diferenciação e aumento de margem](#c2)
+
+[3. Substituição do Cavaco de Madeira por Maravalha](#c3)
+
+[4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial](#c4)
+
+[5. Automação e Tecnologias de Reviramento de Leiras](#c5)
+
+[6. Estratégia de Logística e Frete de Retorno para Distribuição](#c6)
+
+[7. Certificações e Selos de Agricultura Sustentável e Regenerativa](#c7)
+
+[8. Plano de Marketing Digital e Posicionamento de Marca B2B](#c8)
+
+[9. Integração de Cadeia com Produtores Homologados](#c9)
+
+[10. Governança e Compliance Ambiental na Gestão de Resíduos](#c10)
+
+[11. Modelo por assinatura para produtores recorrentes](#c11)
+
+[12. Viabilidade Financeira Geral, Payback e Projeção de Margens](#c12)
+
+<br>
+
+## <a name="c1"></a>1. Biometano na Frota: Produção Própria e Logística Independente 
 
 ### 1.1. Contexto operacional
 
@@ -104,7 +132,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O principal desafio é o investimento inicial para escalar o sistema de purificação. Por isso, o caminho mais seguro é iniciar com um piloto em uma unidade, validar os números operacionais reais e, somente então, tomar a decisão de escalar.
 
-## 2. Organominerais como via de expansão, diferenciação e aumento de margem
+## <a name="c2"></a>2. Organominerais como via de expansão, diferenciação e aumento de margem
 
 &ensp; A ampliação da atuação da SoloBom para fertilizantes organominerais representa uma das vias mais consistentes para aumentar o valor agregado do portfólio, ampliar a competitividade comercial e reduzir a dependência de uma proposta baseada apenas no composto orgânico sólido. A empresa já possui uma base estratégica relevante para esse movimento: matéria-prima orgânica recorrente, origem rastreável vinculada à Mantiqueira Brasil, experiência em compostagem, presença em regiões agrícolas importantes e um produto atual com atributos técnicos associados à melhoria de solo, carbono orgânico, CTC, ácidos orgânicos e relação C:N equilibrada.
 
@@ -134,15 +162,15 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; A linha organomineral da SoloBom poderia atender diferentes perfis de clientes, desde produtores tecnificados até canais comerciais B2B. Os principais públicos potenciais são:
 
-| Cliente potencial                        | Interesse principal                                                                      | Oportunidade para a SoloBom                                      |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Grandes produtores de grãos**          | Produto mecanizável, escala, previsibilidade e custo por hectare                         | Linha organomineral granulada para soja, milho e algodão         |
-| **Produtores de café**                   | Solo estruturado, CTC, matéria orgânica, retenção hídrica e produtividade de longo prazo | Linha premium para culturas perenes em MG e SP                   |
-| **Produtores de cana-de-açúcar**         | Condicionamento do solo, matéria orgânica e aproveitamento em áreas extensivas           | Competir com subprodutos da cana e compostos orgânicos regionais |
-| **Cooperativas agrícolas**               | Produtos com confiabilidade técnica, margem comercial e suporte ao cooperado             | Canal para ganho de escala e credibilidade                       |
-| **Revendas agrícolas**                   | Portfólio complementar e produto com diferenciação                                       | Capilaridade comercial regional                                  |
-| **Produtores orgânicos certificados**    | Conformidade, rastreabilidade e certificação                                             | Expansão da linha SB Premium                                     |
-| **Produtores em transição regenerativa** | Soluções com apelo ambiental e melhoria da saúde do solo                                 | Posicionamento como tecnologia orgânica de solo                  |
+| Cliente potencial | Interesse principal | Oportunidade para a SoloBom |
+| :--- | :--- | :--- |
+| **Grandes produtores de grãos** | Produto mecanizável, escala, previsibilidade e custo por hectare | Linha organomineral granulada para soja, milho e algodão |
+| **Produtores de café** | Solo estruturado, CTC, matéria orgânica, retenção hídrica e produtividade de longo prazo | Linha premium para culturas perenes em MG e SP |
+| **Produtores de cana-de-açúcar** | Condicionamento do solo, matéria orgânica e aproveitamento em áreas extensivas | Competir com subprodutos da cana e compostos orgânicos regionais |
+| **Cooperativas agrícolas** | Produtos com confiabilidade técnica, margem comercial e suporte ao cooperado | Canal para ganho de escala e credibilidade |
+| **Revendas agrícolas** | Portfólio complementar e produto com diferenciação | Capilaridade comercial regional |
+| **Produtores orgânicos certificados** | Conformidade, rastreabilidade e certificação | Expansão da linha SB Premium |
+| **Produtores em transição regenerativa** | Soluções com apelo ambiental e melhoria da saúde do solo | Posicionamento como tecnologia orgânica de solo |
 
 &ensp; A venda para cooperativas e revendas é especialmente importante porque o organomineral precisa chegar ao produtor com recomendação técnica e linguagem comercial clara. Diferentemente de um composto vendido apenas por tonelada, o organomineral deve ser apresentado como parte de um programa de manejo, com indicação de dose, cultura, época de aplicação, custo por hectare e benefícios esperados.
 
@@ -154,19 +182,19 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Dessa forma, a SoloBom enfrenta pressões em três níveis. No primeiro, concorre com compostos orgânicos regionais, que podem competir por preço e proximidade logística. No segundo, disputa com organominerais granulados, que possuem maior facilidade de aplicação e maior aderência a grandes áreas. No terceiro, enfrenta a força dos fertilizantes minerais e das empresas de nutrição vegetal, que possuem canais comerciais robustos, marca consolidada e comunicação orientada à produtividade.
 
-&ensp; Para competir nesse ambiente, a SoloBom precisa transformar seus atributos técnicos em linguagem de valor. CTC, carbono orgânico, pH, ácidos orgânicos e relação C:N são argumentos relevantes, mas precisam ser traduzidos em benefícios objetivos para o produtor, como melhoria da estrutura do solo, maior retenção de nutrientes, estabilidade do manejo, complementaridade ao NPK e potencial de ganho econômico por hectare.
+&ensp; Para competir nesse ambiente, a SoloBom precisa transformar seus atributos técnicos em linguagem de valor. CTC, carbono orgânico, pH, ácidos orgânicos e relação C:N são argumentos relevantes, mas precisam ser traduzidos em benefícios objetivos para o produtor, como melhoria da estrutura do solo, maior retenção de nutrientes, estabilidade do manejo, complementaridade ao NPK e Docencial de ganho econômico por hectare.
 
 ### 2.5 Linhas de produto recomendadas
 
 &ensp; A estratégia mais promissora não seria criar um único organomineral genérico, mas desenvolver linhas segmentadas por cultura, região e perfil de cliente.
 
-| Linha sugerida             | Mercado prioritário                           | Proposta de valor                                                                                                      | Complexidade |
-| -------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **SB Organomineral Grãos** | MT, GO e MS                                   | Produto mecanizável para soja, milho e algodão, combinando fração orgânica rastreável e nutrição mineral               | Alta         |
-| **SB Organomineral Café**  | MG e SP                                       | Produto voltado a culturas perenes, com foco em solo, CTC, carbono orgânico, retenção hídrica e longevidade da lavoura | Média/alta   |
-| **SB Granulado Solo**      | Revendas e cooperativas                       | Produto com aplicação facilitada e maior aderência ao manejo convencional                                              | Média        |
-| **SB Premium Orgânico**    | Produtores orgânicos certificados             | Linha de maior valor agregado, com foco em conformidade, rastreabilidade e certificação                                | Média        |
-| **SB Recuperação de Solo** | Áreas degradadas ou em transição regenerativa | Solução voltada à reconstrução de matéria orgânica e melhoria da base produtiva                                        | Média        |
+| Linha sugerida | Mercado prioritário | Proposta de valor | Complexidade |
+| :--- | :--- | :--- | :---: |
+| **SB Organomineral Grãos** | MT, GO e MS | Produto mecanizável para soja, milho e algodão, combinando fração orgânica rastreável e nutrição mineral | Alta |
+| **SB Organomineral Café** | MG e SP | Produto voltado a culturas perenes, com foco em solo, CTC, carbono orgânico, retenção hídrica e longevidade da lavoura | Média/alta |
+| **SB Granulado Solo** | Revendas e cooperativas | Produto com aplicação facilitada e maior aderência ao manejo convencional | Média |
+| **SB Premium Orgânico** | Produtores orgânicos certificados | Linha de maior valor agregado, com foco em conformidade, rastreabilidade e certificação | Média |
+| **SB Recuperação de Solo** | Áreas degradadas ou em transição regenerativa | Solução voltada à reconstrução de matéria orgânica e melhoria da base produtiva | Média |
 
 &ensp; Essa segmentação permitiria que a SoloBom evitasse a armadilha de vender o mesmo produto para todos os públicos. Produtores de grãos tendem a priorizar escala, mecanização e custo por hectare. Produtores de café e hortifrúti podem valorizar mais qualidade do solo, retenção hídrica e resposta em culturas de maior valor. Produtores orgânicos valorizam certificação e conformidade. Já áreas degradadas demandam uma abordagem mais ligada à recuperação da capacidade produtiva do solo.
 
@@ -186,13 +214,10 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; A entrada no mercado de organominerais deve ocorrer em fases, reduzindo o risco de investimento industrial antes da validação técnica e comercial.
 
-- **Fase 1  - Validação técnica:** Nesta etapa, a SoloBom deve testar formulações, granulometria, estabilidade, compatibilidade entre a fração orgânica e os nutrientes minerais, umidade, concentração final, necessidade de aditivos, viabilidade de granulação ou peletização e enquadramento regulatório.
-
-- **Fase 2  - Validação agronômica:** A empresa deve implantar áreas demonstrativas comparando o composto SoloBom, um possível organomineral SoloBom, NPK convencional, cama de frango regional e organominerais concorrentes. Essa etapa é essencial para gerar prova de campo e sustentar a comunicação comercial.
-
-- **Fase 3  - Piloto comercial:** A SoloBom deve testar o produto com cooperativas, revendas e grandes produtores em regiões próximas às unidades de Campanha/MG e Primavera do Leste/MT. O objetivo é validar aceitação, preço, logística, margem e taxa de recompra.
-
-- **Fase 4  - Escala industrial:** Somente após validação técnica, agronômica e comercial, a empresa deve avaliar o CAPEX necessário para granulação, peletização, mistura mineral, ensaque, armazenagem e controle de qualidade.
+- **Fase 1 - Validação técnica:** Nesta etapa, a SoloBom deve testar formulações, granulometria, stability, compatibilidade entre a fração orgânica e os nutrientes minerais, umidade, concentração final, necessidade de aditivos, viabilidade de granulação ou peletização e enquadramento regulatório.
+- **Fase 2 - Validação agronômica:** A empresa deve implantar áreas demonstrativas comparando o composto SoloBom, um possível organomineral SoloBom, NPK convencional, cama de frango regional e organominerais concorrentes. Essa etapa é essencial para gerar prova de campo e sustentar a comunicação comercial.
+- **Fase 3 - Piloto comercial:** A SoloBom deve testar o produto com cooperativas, revendas e grandes produtores em regiões próximas às unidades de Campanha/MG e Primavera do Leste/MT. O objetivo é validar aceitação, preço, logística, margem e taxa de recompra.
+- **Fase 4 - Escala industrial:** Somente após validação técnica, agronômica e comercial, a empresa deve avaliar o CAPEX necessário para granulação, peletização, mistura mineral, ensaque, armazenagem e controle de qualidade.
 
 ### 2.8 Riscos e pontos de atenção
 
@@ -210,7 +235,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; A oportunidade mais forte está em transformar o esterco aviário rastreável da Mantiqueira em uma linha de produtos mais sofisticada, segmentada por cultura e vendida por valor agronômico. Dessa forma, a SoloBom pode capturar mais valor por tonelada de matéria-prima, fortalecer sua diferenciação e ocupar um espaço estratégico entre os compostos regionais de baixo custo e os fertilizantes minerais de alta escala.
 
-## 3. Substituição do Cavaco de Madeira por Maravalha
+## <a name="c3"></a>3. Substituição do Cavaco de Madeira por Maravalha
 
 ### 3.1. Contexto operacional
 
@@ -276,7 +301,6 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 | **Risco de Qualidade** | **Médio** | Ponto de atenção: exige rígida fiscalização contra tratamentos químicos. |
 | **Complexidade de Implantação** | **Média** | Exige a revalidação documental e auditoria técnica junto ao IBD. |
 
-
 ### 3.5. Caminho de implementação
 
 - **Etapa 1 - Mapeamento de Mercado:** Georreferenciar serrarias e indústrias madeireiras num raio de 50 km a 100 km das plantas de Campanha (MG) e Primavera do Leste (MT), levantando o volume mensal disponível.
@@ -297,7 +321,143 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O núcleo de valor desta iniciativa transcende a simples redução imediata de custos: ela consolida o casamento perfeito entre ganho econômico direto e economia circular prática. O projeto robustece a vitrine ESG da Mantiqueira Brasil perante o mercado financeiro, investidores institucionais e grandes clientes finais, sobretudo no ecossistema da agricultura regenerativa, onde a Solobom já carimba o mercado através de parcerias de sucesso como a estabelecida com a Fazenda Lagoinha.
 
-## 12. Fontes Ultilizadas
+## <a name="c4"></a>4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial 
+
+## <a name="c5"></a>5. Automação e Tecnologias de Reviramento de Leiras
+
+## <a name="c6"></a>6. Estratégia de Logística e Frete de Retorno para Distribuição
+
+## <a name="c7"></a>7. Certificações e Selos de Agricultura Sustentável e Regenerativa
+
+## <a name="c8"></a>8. Plano de Marketing Digital e Posicionamento de Marca B2B
+
+## <a name="c9"></a>9. Integração de Cadeia com Produtores Homologados
+
+## <a name="c10"></a>10. Governança e Compliance Ambiental na Gestão de Resíduos
+
+## <a name="c11"></a>11. Modelo por assinatura para produtores recorrentes
+
+&ensp; O modelo por assinatura representa uma oportunidade estratégica para a SoloBom aumentar a previsibilidade de receita, fidelizar clientes e reduzir a sazonalidade típica do mercado de compostos orgânicos. Diferentemente de uma assinatura mensal tradicional — mais comum em serviços digitais —, a proposta mais adequada ao agronegócio consiste em um modelo de fornecimento recorrente por safra, por ciclo produtivo ou por hectare contratado. Nesse formato, o produtor não compra apenas uma carga pontual de composto, mas adere a um programa contínuo de manejo de solo, com entregas programadas, suporte técnico, previsibilidade de preço e acompanhamento agronômico.
+
+&ensp; Essa estratégia faz sentido porque o mercado de compostos orgânicos é tradicionalmente nichado, fragmentado e sazonal, com forte concentração de vendas em períodos específicos de plantio. Ao criar contratos recorrentes, a SoloBom consegue transformar parte dessa demanda sazonal em uma carteira previsível de clientes, otimizando o planejamento produtivo, a logística de expedição, o fluxo de caixa e a taxa de ocupação da capacidade industrial das usinas. Para o produtor, o benefício central se traduz na garantia absoluta de abastecimento, no planejamento antecipado da adubação, na flexibilização do fluxo de pagamento e no acesso direto a uma recomendação técnica mais robusta e personalizada.
+
+### 11.1 Contexto de mercado e oportunidade setorial
+
+&ensp; O mercado agrícola brasileiro possui características altamente favoráveis para modelos de recorrência, desde que adaptados à lógica real de cada safra. O produtor rural já opera habitualmente com planejamento antecipado de insumos, compras programadas, contratos de fornecimento futuro, financiamento agrícola estruturado e pacotes tecnológicos de pacotes fechados (*barter*). Dessa forma, a iniciativa da SoloBom não deve ser comunicada como uma "mensalidade genérica", mas sim como um **Programa de Manejo Recorrente**.
+
+&ensp; O mercado de fertilizantes especiais, que movimenta dezenas de bilhões de reais por ano, reúne categorias como fertilizantes minerais especiais, orgânicos, organominerais, biofertilizantes, condicionadores de solo e inoculantes. Esse ambiente premia as soluções que conseguem demonstrar valor técnico e retorno econômico direto por hectare. Ao mesmo tempo, a forte dependência nacional de fertilizantes importados torna ainda mais relevante a busca por alternativas de produção nacional e por arranjos comerciais que ofereçam segurança, previsibilidade e estabilidade de custos ao produtor ao longo dos ciclos.
+
+> **Diretriz Estratégica:** Para a SoloBom, o modelo por assinatura funciona como uma barreira de diferenciação mercadológica. Enquanto concorrentes regionais de pequeno porte disputam exclusivamente o menor preço por tonelada de composto comum, e grandes indústrias disputam canais minerais, a SoloBom deixa de vender apenas "volume físico" e passa a comercializar uma solução integrada de construção de fertilidade de solo com acompanhamento e fidelização de longo prazo.
+
+---
+
+### 11.2 Formatos possíveis de assinatura
+
+&ensp; A estruturação do portfólio de assinaturas foi desenhada em formatos modulares para atender com precisão o perfil do produtor, a cultura atendida e a dinâmica regionalizada:
+
+| Modelo de Contrato | Como funcionaria na prática | Público-alvo prioritário | Benefício principal |
+| :--- | :--- | :--- | :--- |
+| **Assinatura por Safra** | Contratação programada de volume, logística de entrega e suporte técnico para um ciclo específico. | Grandes produtores de grãos (soja/milho) e cana-de-açúcar. | Previsibilidade de demanda industrial e otimização da frota logística. |
+| **Anual por Hectare** | Pagamento fixado por pacote anual de manejo biológico de solo, dimensionado pela área total útil. | Café, hortifrúti, fruticultura e culturas perenes. | Fidelização contínua e migração da venda para valor agronômico por área. |
+| **Técnica Premium** | Fornecimento do insumo casado com análises laboratoriais de solo, recomendações, visitas técnicas e relatórios. | Produtores de alta tecnologia e clientes focados em tetos de produtividade. | Elevação expressiva do *ticket médio* e blindagem contra concorrência. |
+| **Via Cooperativa** | Contrato de grande escala onde a cooperativa reserva volumes recorrentes para redistribuição. | Cooperativas agrícolas e redes de revendas estruturadas. | Ganho acelerado de escala e capilaridade comercial regional. |
+| **Recuperação de Solo** | Cronograma de médio/longo prazo focado na reconstrução biológica de áreas degradadas ou em conversão. | Produtores em transição regenerativa e projetos alinhados a fundos ESG. | Posicionamento sustentável de marca e contratos de longo prazo. |
+| **Orgânica Certificada** | Abastecimento contínuo e programado da linha SB Premium com garantia estrita de origem. | Produtores orgânicos certificados e cafés especiais de exportação. | Valorização da rastreabilidade e segurança em auditorias de certificação. |
+
+### 11.3 Disponibilidade geográfica e aderência regional
+
+&ensp; A viabilidade operacional e financeira do modelo por assinatura possui dependência direta da matriz geográfica. Como o composto orgânico sólido tradicional apresenta alto volume por unidade de nutriente, a SoloBom deve priorizar raios de atendimento econômico ao redor de suas usinas para garantir a competitividade do frete:
+
+* **Campanha (MG) e Sul de Minas:** Potencial considerado **Alto**. A proximidade física com a unidade fabril associada à forte concentração de lavouras de café, hortifrúti e cinturões orgânicos eleva a probabilidade estratégica de adoção de planos anuais baseados em valor de solo.
+* **Primavera do Leste (MT):** Potencial considerado **Médio/Alto**. Região dominada por grãos em larga escala e sistemas mecanizados. O foco aqui deve ser o modelo de assinatura por safra com entrega programada em grandes volumes para otimização de frota.
+* **Itanhandu (MG) e Eixo MG/SP:** Potencial considerado **Alto**. Cinturão estratégico caracterizado por culturas de alto valor econômico por hectare, forte demanda por condicionamento de solo e alta densidade de produtores de cafés especiais.
+* **Lorena (SP) e Vale do Paraíba:** Potencial considerado **Médio/Alto**. Proximidade com grandes eixos consumidores urbanos, presença de propriedades de médio porte e nichos de mercado agrícola de alta agregação de valor.
+* **Formosa (GO) e Entorno do DF:** Potencial considerado **Médio**. Mercado com forte presença de grãos e horticultura irrigada tecnificada, demandando validação logística prévia e estruturação de canais de distribuição parceiros.
+* **Mato Grosso do Sul:** Potencial considerado **Médio**. Mercado agropecuário de grãos em expansão, porém altamente dependente de parcerias com revendas locais para viabilizar a consolidação de cargas e reduzir o impacto do frete.
+* **Regiões Distantes das Unidades:** Potencial considerado **Baixo**. O custo logístico do frete de longa distância reduz severamente a margem de contribuição, tornando o modelo inviável frente a subprodutos orgânicos locais de baixo valor técnico.
+
+### 11.4 Clientes potenciais e probabilidade de adoção
+
+&ensp; O modelo por assinatura exige segmentação clara. A iniciativa possui maior tração com produtores que já compreendem o solo como um ativo biológico de longo prazo, apresentando baixa aderência em perfis de clientes que compram insumos exclusivamente por oportunidade de preço momentâneo.
+
+#### Matriz de Adoção Estimada por Segmento
+
+| Segmento de Cliente | Probabilidade de Adoção | Justificativa Estratégica |
+| :--- | :---: | :--- |
+| **Café em MG e SP** | **70% a 80%** | Cultura perene, forte apelo para melhoria de CTC e retenção hídrica, facilitando a venda de pacotes anuais por hectare. |
+| **Orgânicos Certificados** | **70% a 85%** | Necessidade crítica de fornecimento contínuo com rastreabilidade rigorosa e conformidade total com auditorias. |
+| **Hortifrúti (HF)** | **65% a 75%** | Ciclos de cultivo rápidos e intensivos, alto faturamento por hectare e demanda severa por solo biologicamente ativo. |
+| **Cooperativas Regionais** | **60% a 75%** | Excelente canal para consolidação de grandes volumes antecipados, exigindo negociação estruturada de margem comercial. |
+| **Revendas Agrícolas** | **55% a 70%** | Garantem capilaridade regional ao modelo, desde que munidas de suporte técnico de campo e margem de revenda atrativa. |
+| **Grandes Produtores de Grãos** | **45% a 60%** | Consumidores de grandes volumes, porém altamente sensíveis a preço por tonelada e focados em operacionalização 100% mecanizada. |
+| **Cana-de-Açúcar** | **40% a 55%** | Demanda em grande escala, mas enfrenta forte concorrência interna de subprodutos industriais das usinas (vinhaça e torta de filtro). |
+| **Produtores de Baixo Investimento** | **20% a 35%** | Baixíssima abertura a programas de manejo planejado; compram adubação pontual balizada apenas pelo menor preço bruto. |
+
+### 11.5 Proposta de valor da assinatura
+
+&ensp; A comunicação de mercado deve blindar o projeto contra a percepção de ser "apenas um parcelamento de notas". A proposta de valor sustenta-se em uma tríade de benefícios mútuos:
+
+* **Dimensão do Planejamento:** Garante ao produtor a entrega do insumo exato na janela ideal de plantio com custo travado e previsível. Para a SoloBom, equaliza o fluxo de caixa e estabiliza a programação da fábrica.
+* **Dimensão Técnica:** Eleva o patamar de eficiência da fazenda por meio de recomendações customizadas por talhão, época correta de aplicação e suporte agronômico. Para a SoloBom, retira o produto da vala comum de comparação por preço de balcão.
+* **Dimensão do Relacionamento:** Constrói um vínculo de parceria de longo prazo entre o agricultor e a marca. Para a SoloBom, maximiza o *Lifetime Value* (LTV), reduz o *churn* (cancelamento) e eleva de forma consistente o *ticket médio*.
+
+### 11.6 Estrutura de pacotes recomendada
+
+&ensp; Para capturar com máxima eficiência os diferentes níveis de prontidão tecnológica e disposição de pagamento do mercado, a estrutura comercial foi desenhada em níveis de serviço:
+
+* **SoloBom Essencial:** Focado em volume programado por safra, janelas de entrega previamente agendadas e condições comerciais exclusivas para o lote recorrente. Ideal para produtores comerciais de grãos e cana.
+* **SoloBom Técnico:** Soma o fornecimento físico do insumo a cronogramas de recomendação agronômica por cultura e suporte técnico com acompanhamento analítico remoto. Ideal para frentes de revenda e produtores tecnificados.
+* **SoloBom Premium:** Pacote de alto valor agregado contendo produto, coletas laboratoriais para análise detalhada de solo, visitas técnicas de monitoramento presencial e relatório anual de evolução biológica da área. Ideal para café, hortifrúti e fruticultura.
+* **SoloBom Cooperativas:** Modelo de contratação institucional de grande escala voltado para a reserva antecipada e programada de cotas de volume destinadas ao atendimento de cooperados integrados.
+* **SoloBom Regenerativo:** Programa focado no fornecimento contínuo de soluções para reconstrução de matéria orgânica, bioatividade e sequestro de carbono em áreas degradadas ou fazendas com metas estritas corporativas de ESG.
+
+### 11.7 Análise Estratégica do Modelo
+
+#### 11.7.1. Vantagens e Benefícios Financeiros
+- **Previsibilidade absoluta de receita:** Mitiga os picos e vales de faturamento decorrentes das oscilações tradicionais de mercado fora das janelas de plantio.
+- **Otimização da cadeia de suprimentos:** Permite a compra planejada de matérias-primas e estruturantes, reduzindo custos de armazenagem e riscos de quebra de estoque nas usinas.
+- **Eficiência logística e de frete:** Viabiliza o agendamento prévio de frotas de transporte em períodos de entressafra de frete, capturando as melhores tarifas de movimentação.
+- **Redução drástica do Custo de Aquisição de Clientes (CAC):** O esforço comercial concentra-se na assinatura inicial, diluindo custos de vendas ao longo de contratos plurianuais de fornecimento.
+
+#### 11.7.2. Riscos e pontos de atenção
+- **Barreira cultural do termo:** O agricultor tradicional possui forte resistência a conceitos de "assinatura". A mitigação exige adaptar o vocabulário comercial para termos como **"Plano de Fornecimento Programado"** ou **"Contrato de Manejo por Safra"**.
+- **Gestão de inadimplência:** Contratos de longo prazo exigem governança financeira rigorosa, análise prévia de crédito por safra e estruturas de recebíveis seguras (como CPR ou travas de produção).
+- **Gargalo de assistência de campo:** Pacotes técnicos demandam capilaridade de engenheiros agrônomos na ponta. A SoloBom deve usar consultores parceiros e equipes das próprias revendas/cooperativas para escalar o suporte sem inflar o custo fixo interno.
+
+#### 11.7.3 Avaliação comparativa
+
+##### O Cenário Atual vs. O Futuro do Projeto
+
+* **Como é hoje:** Comercialização baseada em vendas pontuais e reativas no balcão. Operação comercial exposta à forte sazonalidade agrícola, dependência de fretes de última hora com tarifas elevadas e risco de perda de clientes a cada nova safra por guerra de preços regionais.
+* **Proposta de Expansão (Assinaturas):** Contratação recorrente e planejada de volumes vinculada a programas de manejo. Consolidação de receita previsível, fidelização técnica de longo prazo do agricultor, blindagem contra concorrentes de preço e otimização total do fluxo logístico das usinas.
+
+##### Resumo dos Indicadores e Impacto
+
+| Indicador | Avaliação | Impacto / Justificativa |
+| :--- | :---: | :--- |
+| **Previsibilidade de Caixa** | **Alto** | Conversão de demanda sazonal em fluxo de receita programado por safra. |
+| **Fidelização de Clientes** | **Alto** | Criação de custos de mudança para o produtor através do suporte técnico casado. |
+| **Mitigação da Sazonalidade** | **Alto** | Permite o planejamento contínuo da fábrica e das frotas de transporte. |
+| **Complexidade Operacional** | **Média/Alta** | Ponto de atenção: exige governança de crédito rigorosa e logística impecável. |
+| **Necessidade de Equipe Técnica** | **Alta** | Demanda coordenação e treinamento de agrônomos na ponta do processo. |
+
+### 11.8 Caminho de implementação
+
+- **Etapa 1 - Piloto com Clientes Históricos:** Selecionar uma carteira restrita de produtores que já compram o fertilizante SoloBom de forma recorrente e migrá-los para o primeiro lote de contratos por safra com entrega programada e benefícios comerciais exclusivos de pioneirismo.
+- **Etapa 2 - Lançamento nos Segmentos de Alta Tração:** Desenhar e empacotar formalmente as ofertas focadas em Café, Hortifrúti e Orgânicos nas regiões polo do Sul de Minas e Eixo MG/SP, validando os níveis de preço e aceitação dos serviços técnicos.
+- **Etapa 3 - Homologação de Canais B2B:** Estruturar as primeiras rodadas de negociação de contratos de volume reservado com cooperativas agrícolas e grandes redes de revendas nas áreas de influência das fábricas.
+- **Etapa 4 - Integração de Portfólio Tecnológico:** Conectar o modelo de assinaturas às novas linhas de maior valor agregado da empresa (como os Organominerais Granulados), ampliando drasticamente o apelo de uso em grandes lavouras de grãos.
+- **Etapa 5 - Implementação do Dashboard de Sucesso do Cliente:** Instituir uma base de dados centralizada para monitoramento contínuo de indicadores por cliente, mapeando hectares cobertos, análises de solo periódicas, cronogramas de entrega e taxas de renovação contratual.
+
+### 11.9 Conclusão
+
+&ensp; O modelo por assinatura consolida a transição da SoloBom de uma fornecedora comum de insumos biológicos para uma parceira estratégica em tecnologia e construção de fertilidade de longo prazo. O sucesso da iniciativa reside na capacidade da equipe comercial em falar a língua da porteira para dentro: o agricultor não quer assinar um serviço, ele quer garantir a produtividade do seu talhão com custo controlado, suporte especialista e sem dores de cabeça logísticas na hora crítica do plantio. 
+
+&ensp; Ao implementar o modelo em fases estruturadas, iniciando por culturas perenes de alta rentabilidade nas proximidades de Campanha e Primavera do Leste, a SoloBom criará uma base de receita recorrente altamente blindada, neutralizando as pressões de commodities e fixando um novo padrão de relacionamento comercial no agronegócio de alta tecnologia.
+
+## <a name="c12"></a>12. Fontes Ultilizadas
+
+Seção 1:
 
 AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponível em: https://avinews.com/pt-br/na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
 
@@ -310,6 +470,10 @@ CANAL RURAL INTERLIGADOS. Biodigestor na suinocultura e avicultura: como transfo
 EMPRESA DE PESQUISA ENERGÉTICA (EPE). Panorama do biometano: setor sucroenergético. Ministério de Minas e Energia, dez. 2023. Disponível em: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-781/Panorama%20de%20Biometano.pdf. Acesso em: 8 jun. 2026.
 
 SOLOBOM. Apresentação SoloBom — Agricultura Regenerativa. Mantiqueira Brasil, [s.d.].
+
+---
+
+Seção 2: 
 
 ABISOLO. **Fertilizantes especiais apresentaram crescimento expressivo em 2024.** Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
 
@@ -325,3 +489,37 @@ MAPEAMENTO DE CONCORRENTES SOLOBOM. **Documento interno do projeto, 2026.**
 
 SOLOBOM. **Apresentação institucional SoloBom 2023.** Documento institucional fornecido no projeto, 2023.
 
+---
+
+Seção 3: 
+
+AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponivel em: https://avinews.com/pt-br na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
+
+AGRIMIDIA. Grupo Mantiqueira lanca seu primeiro relatorio de sustentabilidade. Agrimidia, 25 ago. 2023. Disponivel em: https://www.agrimidia.com.br/bem-estar-animal/grupo-mantiqueira-lanca-seu-primeiro-relatorio-de-sustentabilidade/. Acesso em: 8 jun. 2026.
+
+MANTIQUEIRA BRASIL. Carreiras. Mantiqueira Brasil, 2026. Disponivel em: https://mantiqueirabrasil.com.br/carreiras/. Acesso em: 8 jun. 2026.
+
+MF RURAL. Serragem maravalha em Minas Gerais. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/serragem-maravalha/estado/minas-gerais. Acesso em: 8 jun. 2026.
+
+MF RURAL. Cavaco biomassa. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/cavaco-biomassa. Acesso em: 8 jun. 2026.
+
+
+Seção 11: 
+
+ABISOLO. Fertilizantes especiais apresentaram crescimento expressivo em 2024. Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
+
+AGFEED. Mercado de fertilizantes especiais ganha 129 novas empresas em quatro anos. 2025.
+
+ANDA. Relatório sobre o mercado de fertilizantes. Associação Nacional para Difusão de Adubos, 2025.
+
+ANÁLISE COMPOSTO 2025. Relatório de ensaio LABFERT — fertilizante orgânico simples. Mantiqueira Alimentos Ltda., 2025.
+
+EMBRAPA. Materiais técnicos sobre fertilizantes organominerais, uso de resíduos orgânicos e tecnologias para nutrição vegetal.
+
+ENTENDIMENTO DO CASE — MANTIQUEIRA. Visão geral do problema e frentes de pesquisa para valorização do esterco aviário. Documento interno do projeto, 2026.
+
+MAPA. Plano Nacional de Fertilizantes 2022–2050. Ministério da Agricultura e Pecuária.
+
+MAPEAMENTO DE CONCORRENTES SOLOBOM. Documento interno do projeto, 2026.
+
+SOLOBOM. Apresentação institucional SoloBom 2023. Documento institucional fornecido no projeto, 2023.
