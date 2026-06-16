@@ -1,4 +1,4 @@
-# ANÁLISE ESTRATÉGICA - COMPOSTAGEM MANTIQUEIRA BRASIL
+# Análise Estratégica - Compostagem Mantiqueira Brasil
 
 ## Sumário
 
@@ -26,7 +26,7 @@
 
 [12. Fontes Ultilizadas](#c12)
 
-<br>
+<br />
 
 ## <a name="c1"></a>1. Biometano na Frota: Produção Própria e Logística Independente 
 
@@ -523,3 +523,5 @@ MAPA. Plano Nacional de Fertilizantes 2022–2050. Ministério da Agricultura e 
 MAPEAMENTO DE CONCORRENTES SOLOBOM. Documento interno do projeto, 2026.
 
 SOLOBOM. Apresentação institucional SoloBom 2023. Documento institucional fornecido no projeto, 2023.
+
+<br />

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Mapeamento da Cadeia de Valor do Biogás
+# Cadeia de Valor do Biogás
  
 *Cadeia do biogás a partir do esterco avícola — o destino alternativo do resíduo da Mantiqueira e a concorrência interna pela matéria-prima da SoloBom.*
 
