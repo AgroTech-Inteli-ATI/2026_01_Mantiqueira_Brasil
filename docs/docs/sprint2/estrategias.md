@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Análise Estratégica - Compostagem Mantiqueira Brasil
 
 ## Sumário
@@ -91,7 +95,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 - **Fase 2 depende de escala e distribuição:** A comercialização do excedente exige capacidade de armazenamento, compressão e logística de entrega para compradores externos, o que adiciona camadas de investimento e complexidade operacional.
 
-#### 1.4.3 Avaliação comparativa
+#### 1.4.3. Avaliação comparativa
 
 ##### O Cenário Atual vs. O Futuro do Projeto
 
@@ -174,7 +178,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; A venda para cooperativas e revendas é especialmente importante porque o organomineral precisa chegar ao produtor com recomendação técnica e linguagem comercial clara. Diferentemente de um composto vendido apenas por tonelada, o organomineral deve ser apresentado como parte de um programa de manejo, com indicação de dose, cultura, época de aplicação, custo por hectare e benefícios esperados.
 
-### 2.4 Análise competitiva
+### 2.4. Análise competitiva
 
 &ensp; A entrada em organominerais responde diretamente à pressão de concorrentes indiretos e substitutos. No mapeamento de concorrentes, a Santa Safra aparece como um player relevante por atuar com fertilizantes organominerais granulados, combinando NPK com fração orgânica em formato mecanizável. Esse tipo de produto apresenta maior aderência a grandes lavouras e canais de revenda, pois se aproxima da lógica operacional dos fertilizantes minerais tradicionais.
 
@@ -184,7 +188,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Para competir nesse ambiente, a SoloBom precisa transformar seus atributos técnicos em linguagem de valor. CTC, carbono orgânico, pH, ácidos orgânicos e relação C:N são argumentos relevantes, mas precisam ser traduzidos em benefícios objetivos para o produtor, como melhoria da estrutura do solo, maior retenção de nutrientes, estabilidade do manejo, complementaridade ao NPK e Docencial de ganho econômico por hectare.
 
-### 2.5 Linhas de produto recomendadas
+### 2.5. Linhas de produto recomendadas
 
 &ensp; A estratégia mais promissora não seria criar um único organomineral genérico, mas desenvolver linhas segmentadas por cultura, região e perfil de cliente.
 
@@ -198,7 +202,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Essa segmentação permitiria que a SoloBom evitasse a armadilha de vender o mesmo produto para todos os públicos. Produtores de grãos tendem a priorizar escala, mecanização e custo por hectare. Produtores de café e hortifrúti podem valorizar mais qualidade do solo, retenção hídrica e resposta em culturas de maior valor. Produtores orgânicos valorizam certificação e conformidade. Já áreas degradadas demandam uma abordagem mais ligada à recuperação da capacidade produtiva do solo.
 
-### 2.6 Estratégia comercial e de precificação
+### 2.6. Estratégia comercial e de precificação
 
 &ensp; A linha organomineral deve ser vendida por valor agronômico e por hectare, não apenas por tonelada. Essa mudança é essencial porque o produtor rural tende a comparar insumos pelo impacto no manejo e pelo retorno econômico esperado. Se a SoloBom vender organomineral apenas por tonelada, corre o risco de ser comparada com compostos regionais mais baratos ou com NPK convencional mais concentrado.
 
@@ -210,7 +214,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Além disso, a SoloBom pode desenvolver materiais comerciais por cultura, com informações sobre dose recomendada, época de aplicação, benefícios esperados, compatibilidade com o manejo mineral e comparação com alternativas disponíveis no mercado.
 
-### 2.7 Modelo de entrada recomendado
+### 2.7. Modelo de entrada recomendado
 
 &ensp; A entrada no mercado de organominerais deve ocorrer em fases, reduzindo o risco de investimento industrial antes da validação técnica e comercial.
 
@@ -219,7 +223,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 - **Fase 3 - Piloto comercial:** A SoloBom deve testar o produto com cooperativas, revendas e grandes produtores em regiões próximas às unidades de Campanha/MG e Primavera do Leste/MT. O objetivo é validar aceitação, preço, logística, margem e taxa de recompra.
 - **Fase 4 - Escala industrial:** Somente após validação técnica, agronômica e comercial, a empresa deve avaliar o CAPEX necessário para granulação, peletização, mistura mineral, ensaque, armazenagem e controle de qualidade.
 
-### 2.8 Riscos e pontos de atenção
+### 2.8. Riscos e pontos de atenção
 
 &ensp; O principal risco é o organomineral nascer sem posicionamento claro. Se o produto for percebido apenas como um composto mais caro ou como um NPK menos concentrado, sua aceitação comercial pode ser limitada. Para evitar isso, a proposta deve ser construída como:
 
@@ -229,7 +233,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Também há risco logístico. Mesmo em formato organomineral, o produto pode continuar tendo maior volume por hectare do que fertilizantes minerais convencionais. Assim, a SoloBom deve definir raios econômicos de atendimento por unidade e priorizar clientes com maior margem ou maior aderência técnica.
 
-### 2.9 Síntese estratégica
+### 2.9. Síntese estratégica
 
 &ensp; A expansão para organominerais pode permitir que a SoloBom evolua de fornecedora de composto orgânico para empresa de tecnologia orgânica de solo. Essa frente amplia o potencial de margem, melhora a aderência a grandes lavouras, fortalece a proposta de valor da empresa e responde à pressão competitiva de organominerais granulados e fertilizantes minerais.
 

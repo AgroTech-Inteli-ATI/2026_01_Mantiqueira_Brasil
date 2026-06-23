@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Matriz de Posicionamento Competitivo - SoloBom
 
 ## 1. Objetivo da matriz
