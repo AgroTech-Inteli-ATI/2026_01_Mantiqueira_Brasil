@@ -6,33 +6,32 @@ sidebar_position: 3
 
 ## Sumário
 
-[1. Biometano na Frota: Produção Própria e Logística Independente](#c1)
+[1. Biometano na Frota: Produção Própria e Logística Independente](#est1)
 
-[2. Organominerais como via de expansão, diferenciação e aumento de margem](#c2)
+[2. Organominerais como via de expansão, diferenciação e aumento de margem](#est2)
 
-[3. Substituição do Cavaco de Madeira por Maravalha](#c3)
+[3. Substituição do Cavaco de Madeira por Maravalha](#est3)
 
-[4. Programas com Recomendação, Laudo e Acompanhamento](#c4)
+[4. Programas com Recomendação, Laudo e Acompanhamento](#est4)
 
-[5. Linhas: Granulada, Peletizada e Organomineral](#c5)
+[5. Linhas: Granulada, Peletizada e Organomineral](#est5)
 
-[6. Estratégia de Logística e Frete de Retorno para Distribuição](#c6)
+[6. Estratégia de Logística e Frete de Retorno para Distribuição](#est6)
 
-[7. Estratégia de Distribuição por Raio Logístico](#c7)
+[7. Estratégia de Distribuição por Raio Logístico](#est7)
 
-[8. Plano de Marketing Digital e Posicionamento de Marca B2B](#c8)
+[8. Plano de Marketing Digital e Posicionamento de Marca B2B](#est8)
 
-[9. Digestato como Produto](#c9)
+[9. Digestato como Produto](#est9)
 
-[10. Governança e Compliance Ambiental na Gestão de Resíduos](#c10)
+[10. Governança e Compliance Ambiental na Gestão de Resíduos](#est10)
 
-[11. Modelo por assinatura para produtores recorrentes](#c11)
+[11. Modelo por assinatura para produtores recorrentes](#est11)
 
-[12. Fontes Ultilizadas](#c12)
+[12. Fontes Ultilizadas](#ref)
 
-<br />
 
-## <a name="c1"></a>1. Biometano na Frota: Produção Própria e Logística Independente 
+## <span id="est1"></span>1. Biometano na Frota: Produção Própria e Logística Independente 
 
 ### 1.1. Contexto operacional
 
@@ -136,7 +135,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O principal desafio é o investimento inicial para escalar o sistema de purificação. Por isso, o caminho mais seguro é iniciar com um piloto em uma unidade, validar os números operacionais reais e, somente então, tomar a decisão de escalar.
 
-## <a name="c2"></a>2. Organominerais como via de expansão, diferenciação e aumento de margem
+## <span id="est2"></span>2. Organominerais como via de expansão, diferenciação e aumento de margem
 
 &ensp; A ampliação da atuação da SoloBom para fertilizantes organominerais representa uma das vias mais consistentes para aumentar o valor agregado do portfólio, ampliar a competitividade comercial e reduzir a dependência de uma proposta baseada apenas no composto orgânico sólido. A empresa já possui uma base estratégica relevante para esse movimento: matéria-prima orgânica recorrente, origem rastreável vinculada à Mantiqueira Brasil, experiência em compostagem, presença em regiões agrícolas importantes e um produto atual com atributos técnicos associados à melhoria de solo, carbono orgânico, CTC, ácidos orgânicos e relação C:N equilibrada.
 
@@ -239,7 +238,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; A oportunidade mais forte está em transformar o esterco aviário rastreável da Mantiqueira em uma linha de produtos mais sofisticada, segmentada por cultura e vendida por valor agronômico. Dessa forma, a SoloBom pode capturar mais valor por tonelada de matéria-prima, fortalecer sua diferenciação e ocupar um espaço estratégico entre os compostos regionais de baixo custo e os fertilizantes minerais de alta escala.
 
-## <a name="c3"></a>3. Substituição do Cavaco de Madeira por Maravalha
+## <span id="est3"></span>3. Substituição do Cavaco de Madeira por Maravalha
 
 ### 3.1. Contexto operacional
 
@@ -327,7 +326,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 ---
 
-## <a name="c4"></a>4. Programas com Recomendação, Laudo e Acompanhamento 
+## <span id="est4"></span>4. Programas com Recomendação, Laudo e Acompanhamento 
 
 ### 4.1. Contexto e oportunidade
 
@@ -408,7 +407,7 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <a name="c5"></a>5. Linhas: Granulada, Peletizada e Organomineral
+## <span id="est5"></span>5. Linhas: Granulada, Peletizada e Organomineral
 
 ### 5.1. A Questão Central
 
@@ -471,11 +470,11 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <a name="c6"></a>6. Estratégia de Logística e Frete de Retorno para Distribuição
+## <span id="est6"></span>6. Estratégia de Logística e Frete de Retorno para Distribuição
 
 ---
 
-## <a name="c7"></a>7. Estratégia de Distribuição por Raio Logístico
+## <span id="est7"></span>7. Estratégia de Distribuição por Raio Logístico
 
 #### Objetivo
 
@@ -536,11 +535,11 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <a name="c8"></a>8. Plano de Marketing Digital e Posicionamento de Marca B2B
+## <span id="est8"></span>8. Plano de Marketing Digital e Posicionamento de Marca B2B
 
 ---
 
-## <a name="c9"></a>9. Digestato como Produto
+## <span id="est9"></span>9. Digestato como Produto
 
 &ensp; O digestato é o efluente resultante da digestão anaeróbica no interior de um biodigestor. Diferente do processo de compostagem aeróbica que a SoloBom opera hoje, a biodigestão ocorre em reator fechado, sem oxigênio, com tempo de retenção hidráulica de semanas e tem dois subprodutos: o biogás e o digestato. 
 
@@ -640,11 +639,11 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <a name="c10"></a>10. Governança e Compliance Ambiental na Gestão de Resíduos
+## <span id="est10"></span>10. Governança e Compliance Ambiental na Gestão de Resíduos
 
 ---
 
-## <a name="c11"></a>11. Modelo por assinatura para produtores recorrentes
+## <span id="est11"></span>11. Modelo por assinatura para produtores recorrentes
 
 &ensp; O modelo por assinatura representa uma oportunidade estratégica para a SoloBom aumentar a previsibilidade de receita, fidelizar clientes e reduzir a sazonalidade típica do mercado de compostos orgânicos. Diferentemente de uma assinatura mensal tradicional — mais comum em serviços digitais —, a proposta mais adequada ao agronegócio consiste em um modelo de fornecimento recorrente por safra, por ciclo produtivo ou por hectare contratado. Nesse formato, o produtor não compra apenas uma carga pontual de composto, mas adere a um programa contínuo de manejo de solo, com entregas programadas, suporte técnico, previsibilidade de preço e acompanhamento agronômico.
 
@@ -765,7 +764,7 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <a name="c12"></a>12. Fontes Ultilizadas
+## <span id="ref"></span>12. Fontes Ultilizadas
 
 ### Seção 1:
 
@@ -874,5 +873,3 @@ MAPA. Plano Nacional de Fertilizantes 2022–2050. Ministério da Agricultura e 
 MAPEAMENTO DE CONCORRENTES SOLOBOM. Documento interno do projeto, 2026.
 
 SOLOBOM. Apresentação institucional SoloBom 2023. Documento institucional fornecido no projeto, 2023.
-
-<br />
