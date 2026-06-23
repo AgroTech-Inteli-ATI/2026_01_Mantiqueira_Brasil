@@ -14,7 +14,7 @@ sidebar_position: 3
 
 [4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial](#c4)
 
-[5. Automação e Tecnologias de Reviramento de Leiras](#c5)
+[5. Linhas: Granulada, Peletizada e Organomineral](#c5)
 
 [6. Estratégia de Logística e Frete de Retorno para Distribuição](#c6)
 
@@ -22,7 +22,7 @@ sidebar_position: 3
 
 [8. Plano de Marketing Digital e Posicionamento de Marca B2B](#c8)
 
-[9. Integração de Cadeia com Produtores Homologados](#c9)
+[9. Digestato como Produto](#c9)
 
 [10. Governança e Compliance Ambiental na Gestão de Resíduos](#c10)
 
@@ -330,7 +330,66 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 ---
 
-## <a name="c5"></a>5. Automação e Tecnologias de Reviramento de Leiras
+## <a name="c5"></a>5. Linhas: Granulada, Peletizada e Organomineral
+
+### 5.1. A Questão Central
+
+&ensp; A questão central não é qual formato produzir. É se a SoloBom vai competir verticalmente na cadeia de valor, e o que isso custa aos clientes atuais.
+
+### 5.2. O Cenário Atual: Cliente vs. Concorrente
+
+&ensp; Hoje a SoloBom vende composto orgânico bruto. A Santa Safra aparece no mapeamento de concorrentes como concorrente indireta e, ao mesmo tempo, na lista de clientes ativos. Isso quer dizer que ela compra o composto da SoloBom como matéria-prima, blenda com NPK mineral, granula e vende como organomineral de maior valor. 
+
+&ensp; **A SoloBom está sendo fornecedora upstream de quem concorre com ela no mesmo mercado.**
+
+&ensp; Desenvolver linhas granuladas, peletizadas e organominerais significa capturar essa margem. Mas significa também:
+- Perder a receita de venda de composto bruto para a Santa Safra
+- Criar um concorrente direto onde hoje há um cliente
+- Incorrer em capex de equipamentos industriais
+
+&ensp; **Sem os números da Santa Safra** — volume que ela compra, preço que paga, margem que captura — **qualquer decisão de integração vertical é especulativa.**
+
+
+### 5.3. O Peletizado: Menor Conflito, Maior Diferenciação
+
+&ensp; O peletizado é o caminho com menor conflito de canal e maior diferenciação imediata. 
+
+&ensp; **Localização estratégica:** Campanha MG está no Sul de Minas, no cinturão cafeeiro. A SoloBom já tem o case da Fazenda Lagoinha com cafés especiais e agricultura regenerativa. A certificação IBD do SB Premium cria uma barreira de entrada que os concorrentes regionais de cama de frango não têm.
+
+&ensp; **Vantagem agrícola:** O produto peletizado vai no sulco de plantio, reduz volatilização de N e é compatível com os requisitos de rastreabilidade do orgânico certificado. Esse mercado é de menor volume que grãos, mas de margem mais alta, e a SoloBom já está na porta dele.
+
+&ensp;**O problema operacional:** O produto atual é fluído. O laudo de maio de 2025 classifica o material como "Fluído", e a análise de granulometria separada mostra uma distribuição de pó grosso: 64,9% passa em 2mm. Não tem estrutura para peletização sem ajuste de processo industrial.
+
+
+### 5.4. O Granulado: Volume Mas Alto Conflito
+
+&ensp; O granulado para grandes lavouras faz sentido geograficamente em Primavera do Leste MT. A unidade tem 65 mil ton/ano de capacidade instalada e está cercada de soja, milho e algodão.
+
+&ensp; **O problema agronômico:** O produto atual tem N 1,3%, P 2,6%, K 2,5%. Esses teores são baixos demais para competir no mercado de fertilizantes para grãos sem enriquecimento mineral. 
+
+&ensp; Para produzir um organomineral granulado viável para soja, a SoloBom precisaria:
+- Comprar fontes minerais de NPK
+- Blendá-las com o composto
+- Granular o resultado
+
+&ensp; **As consequências:** Isso a transforma parcialmente em distribuidora de mineral, sujeita à volatilidade de preço de commodity, e dilui os diferenciais do composto puro — os ácidos húmicos, a CTC elevada, o carbono orgânico. É o formato que gera mais conflito com a Santa Safra e exige o maior capex.
+
+
+### 5.5. Formosa GO: Oportunidade de Piloto
+
+&ensp; Formosa GO é suspeita. A unidade tem cerca de 490 mil galinhas mas produz apenas 3 mil ton/ano de composto, contra 62 e 65 mil nas unidades de MG e MT. 
+
+&ensp; Isso indica uma unidade mais nova ou subutilizada — e **potencialmente o lugar certo para pilotar um novo formato antes de escalar.**
+
+### 5.6. O Crescimento da Mantiqueira: Força que Muda o Jogo
+
+&ensp; O crescimento da Mantiqueira Brasil é uma variável que força a mão:
+
+- **Lorena SP:** projetada para 3,5 milhões de aves até 2029
+- **Formosa GO:** indo a 1 milhão
+- **São João SC:** indo a 1 milhão
+
+&ensp; **O volume de esterco disponível vai aumentar substancialmente.** Se a SoloBom não desenvolver produtos que absorvam esse volume com mais valor, vai acabar pressionando preço no mercado de composto bruto.
 
 ---
 
@@ -346,7 +405,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 ---
 
-## <a name="c9"></a>9. Integração de Cadeia com Produtores Homologados
+## <a name="c9"></a>9. Digestato como Produto
 
 &ensp; O digestato é o efluente resultante da digestão anaeróbica no interior de um biodigestor. Diferente do processo de compostagem aeróbica que a SoloBom opera hoje, a biodigestão ocorre em reator fechado, sem oxigênio, com tempo de retenção hidráulica de semanas e tem dois subprodutos: o biogás e o digestato. 
 
@@ -616,6 +675,30 @@ MANTIQUEIRA BRASIL. Carreiras. Mantiqueira Brasil, 2026. Disponivel em: https://
 MF RURAL. Serragem maravalha em Minas Gerais. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/serragem-maravalha/estado/minas-gerais. Acesso em: 8 jun. 2026.
 
 MF RURAL. Cavaco biomassa. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/cavaco-biomassa. Acesso em: 8 jun. 2026.
+
+### Seção 5:
+
+**ASSOCIAÇÃO BRASILEIRA DAS INDÚSTRIAS DE TECNOLOGIA EM NUTRIÇÃO VEGETAL (ABISOLO).** Fertilizantes Especiais apresentaram crescimento expressivo em 2024. São Paulo, 30 maio 2025. Disponível em: [https://www.abisolo.com.br/releases/fertilizantes-especiais-apresentaram-crescimento-expressivo-em-2024/](https://www.abisolo.com.br/releases/fertilizantes-especiais-apresentaram-crescimento-expressivo-em-2024/). Acesso em: 11 jun. 2026.
+
+**ASSOCIAÇÃO NACIONAL PARA DIFUSÃO DE ADUBOS (ANDA).** Relatório sobre o mercado de fertilizantes: janeiro a dezembro de 2024. São Paulo, mar. 2025. Disponível em: [https://anda.org.br/wp-content/uploads/2025/03/Comentarios.pdf](https://anda.org.br/wp-content/uploads/2025/03/Comentarios.pdf). Acesso em: 11 jun. 2026.
+
+**BRASIL.** Ministério da Agricultura, Pecuária e Abastecimento. Instrução Normativa SDA nº 61, de 8 de julho de 2020. Estabelece as regras sobre definições, exigências, especificações, garantias, tolerâncias, registro, embalagem e rotulagem dos fertilizantes orgânicos e dos biofertilizantes, destinados à agricultura. Diário Oficial da União, Brasília, 9 jul. 2020. Disponível em: [https://www.legisweb.com.br/legislacao/?id=398558](https://www.legisweb.com.br/legislacao/?id=398558). Acesso em: 11 jun. 2026.
+
+**CAMPO E NEGÓCIOS.** Fertilizantes organominerais e sua aplicação na olericultura. 15 maio 2025. Disponível em: [https://campoenegocios.com/fertilizantes-organominerais-e-sua-aplicacao-na-olericultura/](https://campoenegocios.com/fertilizantes-organominerais-e-sua-aplicacao-na-olericultura/). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Fertilizante organomineral. Embrapa Suínos e Aves, Concórdia, [2024]. Disponível em: [https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/fertilizante-organomineral](https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/fertilizante-organomineral). Acesso em: 11 jun. 2026.
+
+**FEDERAÇÃO DAS COOPERATIVAS AGROPECUÁRIAS DO ESTADO DO RIO GRANDE DO SUL (FECOAGRO).** Cresce a opção pela eficiência e sustentabilidade das adubações com fertilizantes organominerais. Porto Alegre, 29 maio 2024. Disponível em: [https://www.fecoagro.coop.br/cresce-a-opcao-pela-eficiencia-e-sustentabilidade-das-adubacoes-com-fertilizantes-organominerais/](https://www.fecoagro.coop.br/cresce-a-opcao-pela-eficiencia-e-sustentabilidade-das-adubacoes-com-fertilizantes-organominerais/). Acesso em: 11 jun. 2026.
+
+**LABFERT ANÁLISES.** Relatório de Ensaios nº 20084469: fertilizante orgânico simples. Cliente: Mantiqueira Alimentos Ltda. Uberaba, 30 maio 2025. Laudo laboratorial.
+
+**MANTIQUEIRA BRASIL.** Apresentação institucional Mantiqueira Brasil. São Paulo, maio 2026. Apresentação corporativa interna.
+
+**SOLOBOM.** Apresentação SoloBom – Agricultura regenerativa. Campanha, [2024]. Apresentação interna.
+
+**SOLOBOM.** Mapeamento de concorrentes SoloBom. [S.l.], 2025. Documento interno.
+
+**SOLOBOM.** Apresentação institucional SoloBom 2023. Campanha, 2023. Apresentação interna.
 
 ### Seção 9:
 
