@@ -321,19 +321,130 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O núcleo de valor desta iniciativa transcende a simples redução imediata de custos: ela consolida o casamento perfeito entre ganho econômico direto e economia circular prática. O projeto robustece a vitrine ESG da Mantiqueira Brasil perante o mercado financeiro, investidores institucionais e grandes clientes finais, sobretudo no ecossistema da agricultura regenerativa, onde a Solobom já carimba o mercado através de parcerias de sucesso como a estabelecida com a Fazenda Lagoinha.
 
+---
 ## <a name="c4"></a>4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial 
+
+---
 
 ## <a name="c5"></a>5. Automação e Tecnologias de Reviramento de Leiras
 
+---
+
 ## <a name="c6"></a>6. Estratégia de Logística e Frete de Retorno para Distribuição
+
+---
 
 ## <a name="c7"></a>7. Certificações e Selos de Agricultura Sustentável e Regenerativa
 
+---
+
 ## <a name="c8"></a>8. Plano de Marketing Digital e Posicionamento de Marca B2B
+
+---
 
 ## <a name="c9"></a>9. Integração de Cadeia com Produtores Homologados
 
+&ensp; O digestato é o efluente resultante da digestão anaeróbica no interior de um biodigestor. Diferente do processo de compostagem aeróbica que a SoloBom opera hoje, a biodigestão ocorre em reator fechado, sem oxigênio, com tempo de retenção hidráulica de semanas e tem dois subprodutos: o biogás e o digestato. 
+
+&ensp; Para uma empresa com o volume de esterco de galinhas poedeiras que a Mantiqueira Brasil gera, e com a trajetória de expansão que tem pela frente, **o digestato não é uma hipótese remota, é um subproduto inevitável se a decisão de instalar biodigestores for tomada.**
+
+
+### 9.1. Por Que o Tema é Relevante para a Mantiqueira
+
+&ensp; A avicultura e a suinocultura geram anualmente cerca de **8 milhões de toneladas de cama de aviário no Brasil**. Esses resíduos contêm aproximadamente:
+
+- 680 mil toneladas de N
+- 660 mil toneladas de P₂O₅
+- 440 mil toneladas de K₂O
+
+&ensp; Isso representa cerca de **27%, 21% e 12% do total anual consumido pela agricultura brasileira.**
+
+&ensp; A Mantiqueira, com 17,9 milhões de galinhas hoje e expansão projetada para mais de 8 milhões de aves adicionais até 2029, está entre os maiores geradores individuais desse insumo no país. O esterco de galinhas poedeiras tem alta concentração de nutrientes em relação a outros dejetos animais, o que o torna matéria-prima de qualidade para biodigestão.
+
+
+### 9.2. O Que o Processo Produz e Como Funciona
+
+&ensp; O biodigestor é uma câmara destinada à digestão anaeróbia da matéria orgânica. Por meio dessa digestão, são produzidos:
+
+- Gases (metano e dióxido de carbono)
+- Digestato gerado durante a fermentação
+
+&ensp; O biofertilizante resultante possui pH na faixa alcalina, aproximadamente 7,5, podendo ser usado como corretivo de pH do solo, além de não propagar mau cheiro. 
+
+**Ponto crítico:** As fases sólida e líquida do biofertilizante precisam ser separadas para serem utilizadas.
+
+&ensp; Essa separação é o ponto de partida para qualquer estratégia de produto. A fração líquida e a fração sólida têm perfis nutricionais e aplicações distintas, e o modelo de negócio ideal trabalha com as duas.
+
+
+### 9.3. Fração Líquida: N Disponível e Fertirrigação
+
+&ensp; A fração líquida do digestato é rica em nitrogênio amoniacal, a forma mais imediatamente disponível para as plantas. Isso a posiciona como fertilizante de ação rápida, aplicável via fertirrigação em lavouras de alta produtividade.
+
+&ensp; **Vantagens sobre o esterco bruto:**
+- Estabilidade microbiológica
+- pH corrigido
+- Redução de patógenos
+
+&ensp; **O problema logístico:** O produto precisa ser aplicado rapidamente após a separação ou acidificado para evitar perdas de N por volatilização de amônia, que podem chegar a **50% do N total** se não houver controle adequado.
+
+&ensp; Isso exige:
+- Caminhão tanque
+- Sistema de dutos
+- Parcerias com produtores dentro de um raio logístico reduzido (tipicamente 30 a 60 km da unidade produtora)
+
+
+### 9.4. Fração Sólida: Base para Organomineral Granulado
+
+&ensp; Os sólidos que sedimentam no biodigestor devem ser processados fisicamente para reduzir a umidade e adicionados de fontes minerais de nutrientes para a formulação de fertilizantes organominerais. Uma vez obtida essa mistura, o material pode ser transformado em grânulos, permitindo sua utilização como fertilizantes.
+
+&ensp; **Essa é a rota de maior valor agregado para o digestato sólido.** Em vez de vender a fração sólida como fertilizante orgânico bruto, o que competiria diretamente com o composto atual da SoloBom, a empresa poderia processá-la como base orgânica de um organomineral granulado, blendando com fontes minerais de NPK.
+
+&ensp; **O resultado:** Um produto mecanizável, com teores declarados de nutrientes e aplicação direta em plantadeiras, exatamente o formato que o mercado de grãos consome.
+
+
+### 9.5. O Que se Perde em Relação ao Produto Atual
+
+&ensp; É importante nomear o que muda. O composto atual da SoloBom tem:
+
+- Ácidos húmicos: 5,5%
+- Ácidos fúlvicos: 6,87%
+- Carbono orgânico: 17 a 23%
+- CTC: 605 mmolc/kg
+
+&ensp; Esses atributos são produto do processo de compostagem aeróbica prolongada, que promove a humificação da matéria orgânica. 
+
+&ensp; **Na biodigestão anaeróbia:**
+- Parte do carbono é consumido na geração de metano
+- A humificação não ocorre na mesma extensão
+- O digestato tende a ter menor teor de ácidos húmicos e menor carbono orgânico total que um composto aeróbico de qualidade equivalente
+
+&ensp; **Isso não invalida o produto, invalida apenas a equivalência direta.** O digestato e o composto são produtos diferentes, para mercados parcialmente diferentes:
+
+- **Composto:** Condicionador de solo com liberação lenta, adequado para clientes que priorizam saúde de solo no longo prazo
+- **Digestato sólido granulado:** Organomineral de eficiência nutricional imediata, adequado para grandes lavouras que buscam produtividade na safra
+
+&ensp; A SoloBom pode operar os dois sem que um canibaliza o outro, desde que o posicionamento comercial seja distinto.
+
+
+### 9.6. Regulatório
+
+&ensp; A fração sólida do digestato pode ser registrada como fertilizante orgânico simples sob a **IN 61/2020**, que exige:
+
+- Carbono orgânico mínimo
+- Relação C:N abaixo de 20:1
+- Ausência de Salmonella
+- Ausência de ovos viáveis de helmintos
+- Limites para metais pesados
+
+&ensp; A **Lei 15.070/2024** criou registro simplificado para produtos considerados de baixo risco, isentando alguns de registro ou permitindo processos administrativos simplificados. O esterco de galinhas poedeiras, pela origem controlada e rastreável que a Mantiqueira garante, tem histórico de aprovação nesse enquadramento.
+
+&ensp; **A fração líquida é mais complexa de registrar como produto comercial** — tende a ser aplicada diretamente na lavoura pelo próprio produtor, o que exige um modelo de prestação de serviço ou locação de equipamento de aplicação, não apenas venda de produto.
+
+---
+
 ## <a name="c10"></a>10. Governança e Compliance Ambiental na Gestão de Resíduos
+
+---
 
 ## <a name="c11"></a>11. Modelo por assinatura para produtores recorrentes
 
@@ -341,7 +452,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; Essa estratégia faz sentido porque o mercado de compostos orgânicos é tradicionalmente nichado, fragmentado e sazonal, com forte concentração de vendas em períodos específicos de plantio. Ao criar contratos recorrentes, a SoloBom consegue transformar parte dessa demanda sazonal em uma carteira previsível de clientes, otimizando o planejamento produtivo, a logística de expedição, o fluxo de caixa e a taxa de ocupação da capacidade industrial das usinas. Para o produtor, o benefício central se traduz na garantia absoluta de abastecimento, no planejamento antecipado da adubação, na flexibilização do fluxo de pagamento e no acesso direto a uma recomendação técnica mais robusta e personalizada.
 
-### 11.1 Contexto de mercado e oportunidade setorial
+### 11.1. Contexto de mercado e oportunidade setorial
 
 &ensp; O mercado agrícola brasileiro possui características altamente favoráveis para modelos de recorrência, desde que adaptados à lógica real de cada safra. O produtor rural já opera habitualmente com planejamento antecipado de insumos, compras programadas, contratos de fornecimento futuro, financiamento agrícola estruturado e pacotes tecnológicos de pacotes fechados (*barter*). Dessa forma, a iniciativa da SoloBom não deve ser comunicada como uma "mensalidade genérica", mas sim como um **Programa de Manejo Recorrente**.
 
@@ -349,9 +460,8 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 > **Diretriz Estratégica:** Para a SoloBom, o modelo por assinatura funciona como uma barreira de diferenciação mercadológica. Enquanto concorrentes regionais de pequeno porte disputam exclusivamente o menor preço por tonelada de composto comum, e grandes indústrias disputam canais minerais, a SoloBom deixa de vender apenas "volume físico" e passa a comercializar uma solução integrada de construção de fertilidade de solo com acompanhamento e fidelização de longo prazo.
 
----
 
-### 11.2 Formatos possíveis de assinatura
+### 11.2. Formatos possíveis de assinatura
 
 &ensp; A estruturação do portfólio de assinaturas foi desenhada em formatos modulares para atender com precisão o perfil do produtor, a cultura atendida e a dinâmica regionalizada:
 
@@ -364,7 +474,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 | **Recuperação de Solo** | Cronograma de médio/longo prazo focado na reconstrução biológica de áreas degradadas ou em conversão. | Produtores em transição regenerativa e projetos alinhados a fundos ESG. | Posicionamento sustentável de marca e contratos de longo prazo. |
 | **Orgânica Certificada** | Abastecimento contínuo e programado da linha SB Premium com garantia estrita de origem. | Produtores orgânicos certificados e cafés especiais de exportação. | Valorização da rastreabilidade e segurança em auditorias de certificação. |
 
-### 11.3 Disponibilidade geográfica e aderência regional
+### 11.3. Disponibilidade geográfica e aderência regional
 
 &ensp; A viabilidade operacional e financeira do modelo por assinatura possui dependência direta da matriz geográfica. Como o composto orgânico sólido tradicional apresenta alto volume por unidade de nutriente, a SoloBom deve priorizar raios de atendimento econômico ao redor de suas usinas para garantir a competitividade do frete:
 
@@ -376,7 +486,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 * **Mato Grosso do Sul:** Potencial considerado **Médio**. Mercado agropecuário de grãos em expansão, porém altamente dependente de parcerias com revendas locais para viabilizar a consolidação de cargas e reduzir o impacto do frete.
 * **Regiões Distantes das Unidades:** Potencial considerado **Baixo**. O custo logístico do frete de longa distância reduz severamente a margem de contribuição, tornando o modelo inviável frente a subprodutos orgânicos locais de baixo valor técnico.
 
-### 11.4 Clientes potenciais e probabilidade de adoção
+### 11.4. Clientes potenciais e probabilidade de adoção
 
 &ensp; O modelo por assinatura exige segmentação clara. A iniciativa possui maior tração com produtores que já compreendem o solo como um ativo biológico de longo prazo, apresentando baixa aderência em perfis de clientes que compram insumos exclusivamente por oportunidade de preço momentâneo.
 
@@ -393,7 +503,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 | **Cana-de-Açúcar** | **40% a 55%** | Demanda em grande escala, mas enfrenta forte concorrência interna de subprodutos industriais das usinas (vinhaça e torta de filtro). |
 | **Produtores de Baixo Investimento** | **20% a 35%** | Baixíssima abertura a programas de manejo planejado; compram adubação pontual balizada apenas pelo menor preço bruto. |
 
-### 11.5 Proposta de valor da assinatura
+### 11.5. Proposta de valor da assinatura
 
 &ensp; A comunicação de mercado deve blindar o projeto contra a percepção de ser "apenas um parcelamento de notas". A proposta de valor sustenta-se em uma tríade de benefícios mútuos:
 
@@ -401,7 +511,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 * **Dimensão Técnica:** Eleva o patamar de eficiência da fazenda por meio de recomendações customizadas por talhão, época correta de aplicação e suporte agronômico. Para a SoloBom, retira o produto da vala comum de comparação por preço de balcão.
 * **Dimensão do Relacionamento:** Constrói um vínculo de parceria de longo prazo entre o agricultor e a marca. Para a SoloBom, maximiza o *Lifetime Value* (LTV), reduz o *churn* (cancelamento) e eleva de forma consistente o *ticket médio*.
 
-### 11.6 Estrutura de pacotes recomendada
+### 11.6. Estrutura de pacotes recomendada
 
 &ensp; Para capturar com máxima eficiência os diferentes níveis de prontidão tecnológica e disposição de pagamento do mercado, a estrutura comercial foi desenhada em níveis de serviço:
 
@@ -411,7 +521,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 * **SoloBom Cooperativas:** Modelo de contratação institucional de grande escala voltado para a reserva antecipada e programada de cotas de volume destinadas ao atendimento de cooperados integrados.
 * **SoloBom Regenerativo:** Programa focado no fornecimento contínuo de soluções para reconstrução de matéria orgânica, bioatividade e sequestro de carbono em áreas degradadas ou fazendas com metas estritas corporativas de ESG.
 
-### 11.7 Análise Estratégica do Modelo
+### 11.7. Análise Estratégica do Modelo
 
 #### 11.7.1. Vantagens e Benefícios Financeiros
 - **Previsibilidade absoluta de receita:** Mitiga os picos e vales de faturamento decorrentes das oscilações tradicionais de mercado fora das janelas de plantio.
@@ -424,7 +534,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 - **Gestão de inadimplência:** Contratos de longo prazo exigem governança financeira rigorosa, análise prévia de crédito por safra e estruturas de recebíveis seguras (como CPR ou travas de produção).
 - **Gargalo de assistência de campo:** Pacotes técnicos demandam capilaridade de engenheiros agrônomos na ponta. A SoloBom deve usar consultores parceiros e equipes das próprias revendas/cooperativas para escalar o suporte sem inflar o custo fixo interno.
 
-#### 11.7.3 Avaliação comparativa
+#### 11.7.3. Avaliação comparativa
 
 ##### O Cenário Atual vs. O Futuro do Projeto
 
@@ -441,7 +551,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 | **Complexidade Operacional** | **Média/Alta** | Ponto de atenção: exige governança de crédito rigorosa e logística impecável. |
 | **Necessidade de Equipe Técnica** | **Alta** | Demanda coordenação e treinamento de agrônomos na ponta do processo. |
 
-### 11.8 Caminho de implementação
+### 11.8. Caminho de implementação
 
 - **Etapa 1 - Piloto com Clientes Históricos:** Selecionar uma carteira restrita de produtores que já compram o fertilizante SoloBom de forma recorrente e migrá-los para o primeiro lote de contratos por safra com entrega programada e benefícios comerciais exclusivos de pioneirismo.
 - **Etapa 2 - Lançamento nos Segmentos de Alta Tração:** Desenhar e empacotar formalmente as ofertas focadas em Café, Hortifrúti e Orgânicos nas regiões polo do Sul de Minas e Eixo MG/SP, validando os níveis de preço e aceitação dos serviços técnicos.
@@ -449,15 +559,17 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 - **Etapa 4 - Integração de Portfólio Tecnológico:** Conectar o modelo de assinaturas às novas linhas de maior valor agregado da empresa (como os Organominerais Granulados), ampliando drasticamente o apelo de uso em grandes lavouras de grãos.
 - **Etapa 5 - Implementação do Dashboard de Sucesso do Cliente:** Instituir uma base de dados centralizada para monitoramento contínuo de indicadores por cliente, mapeando hectares cobertos, análises de solo periódicas, cronogramas de entrega e taxas de renovação contratual.
 
-### 11.9 Conclusão
+### 11.9. Conclusão
 
 &ensp; O modelo por assinatura consolida a transição da SoloBom de uma fornecedora comum de insumos biológicos para uma parceira estratégica em tecnologia e construção de fertilidade de longo prazo. O sucesso da iniciativa reside na capacidade da equipe comercial em falar a língua da porteira para dentro: o agricultor não quer assinar um serviço, ele quer garantir a produtividade do seu talhão com custo controlado, suporte especialista e sem dores de cabeça logísticas na hora crítica do plantio. 
 
 &ensp; Ao implementar o modelo em fases estruturadas, iniciando por culturas perenes de alta rentabilidade nas proximidades de Campanha e Primavera do Leste, a SoloBom criará uma base de receita recorrente altamente blindada, neutralizando as pressões de commodities e fixando um novo padrão de relacionamento comercial no agronegócio de alta tecnologia.
 
+---
+
 ## <a name="c12"></a>12. Fontes Ultilizadas
 
-Seção 1:
+### Seção 1:
 
 AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponível em: https://avinews.com/pt-br/na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
 
@@ -471,9 +583,8 @@ EMPRESA DE PESQUISA ENERGÉTICA (EPE). Panorama do biometano: setor sucroenergé
 
 SOLOBOM. Apresentação SoloBom — Agricultura Regenerativa. Mantiqueira Brasil, [s.d.].
 
----
 
-Seção 2: 
+### Seção 2: 
 
 ABISOLO. **Fertilizantes especiais apresentaram crescimento expressivo em 2024.** Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
 
@@ -489,9 +600,8 @@ MAPEAMENTO DE CONCORRENTES SOLOBOM. **Documento interno do projeto, 2026.**
 
 SOLOBOM. **Apresentação institucional SoloBom 2023.** Documento institucional fornecido no projeto, 2023.
 
----
 
-Seção 3: 
+### Seção 3: 
 
 AVINEWS BRASIL. Na Mantiqueira, mais de 300 mil toneladas de esterco de poedeiras vira adubo orgânico. AviNews, 14 maio 2024. Disponivel em: https://avinews.com/pt-br na-mantiqueira-mais-de-300-mil-toneladas-de-esterco-de-poedeiras-vira-adubo-organico/. Acesso em: 8 jun. 2026.
 
@@ -503,8 +613,27 @@ MF RURAL. Serragem maravalha em Minas Gerais. MF Rural, 2025. Disponivel em: htt
 
 MF RURAL. Cavaco biomassa. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/cavaco-biomassa. Acesso em: 8 jun. 2026.
 
+### Seção 9:
 
-Seção 11: 
+**BRASIL.** Lei nº 15.070, de 2 de dezembro de 2024. Dispõe sobre a pesquisa, desenvolvimento, produção, registro, embalagem, rotulagem, armazenagem, transporte, comercialização e uso dos bioinsumos destinados à agricultura. Diário Oficial da União, Brasília, 3 dez. 2024. Disponível em: [https://agroadvance.com.br/blog-lei-de-bioinsumos-nova-legislacao/](https://agroadvance.com.br/blog-lei-de-bioinsumos-nova-legislacao/). Acesso em: 11 jun. 2026.
+
+**BRASIL.** Ministério da Agricultura, Pecuária e Abastecimento. Instrução Normativa SDA nº 61, de 8 de julho de 2020. Estabelece as regras sobre definições, exigências, especificações, garantias, tolerâncias, registro, embalagem e rotulagem dos fertilizantes orgânicos e dos biofertilizantes, destinados à agricultura. Diário Oficial da União, Brasília, 9 jul. 2020. Disponível em: [https://www.legisweb.com.br/legislacao/?id=398558](https://www.legisweb.com.br/legislacao/?id=398558). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Digestato. Embrapa Suínos e Aves — Portal BiogásFert, Concórdia, [2024]. Disponível em: [https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/dejetos-fertilizantes/fertilizante-fluido/digestato](https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/dejetos-fertilizantes/fertilizante-fluido/digestato). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Fertilizante organomineral. Embrapa Suínos e Aves — Portal BiogásFert, Concórdia, [2024]. Disponível em: [https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/fertilizante-organomineral](https://www.embrapa.br/en/suinos-e-aves/biogasfert/fertilizantes/fertilizante-organomineral). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Novo sistema aumenta a produção de biogás a partir de resíduos de frutas e verduras. Fortaleza, 9 set. 2025. Disponível em: [https://www.embrapa.br/en/busca-de-noticias/-/noticia/102907014/novo-sistema-aumenta-a-producao-de-biogas-a-partir-de-residuos-de-frutas-e-verduras](https://www.embrapa.br/en/busca-de-noticias/-/noticia/102907014/novo-sistema-aumenta-a-producao-de-biogas-a-partir-de-residuos-de-frutas-e-verduras). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Pequenos bovinocultores podem economizar R$ 1,45 bi anuais com biodigestores. Brasília, dez. 2023. Disponível em: [https://www.embrapa.br/en/busca-de-noticias/-/noticia/85557022/pequenos-bovinocultores-podem-economizar-r-145-bi-anuais-com-biodigestores](https://www.embrapa.br/en/busca-de-noticias/-/noticia/85557022/pequenos-bovinocultores-podem-economizar-r-145-bi-anuais-com-biodigestores). Acesso em: 11 jun. 2026.
+
+**EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA (EMBRAPA).** Tratamento de dejetos animais. Portal Hub Tech Familiar — Mudanças Climáticas, [2024]. Disponível em: [https://www.hubtechfamiliar-h.cnptia.embrapa.br/web/mudancas-climaticas/mitigacao/tratamento-de-dejetos-animais](https://www.hubtechfamiliar-h.cnptia.embrapa.br/web/mudancas-climaticas/mitigacao/tratamento-de-dejetos-animais). Acesso em: 11 jun. 2026.
+
+**NICOLOSO, Rodrigo da Silveira.** Uso do digestato como fertilizante. In: FUNDAMENTOS da digestão anaeróbia, purificação do biogás, uso e tratamento do digestato. Concórdia: Embrapa Suínos e Aves, 2019. cap. 5. Disponível em: [https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1109216/1/final9157.pdf](https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1109216/1/final9157.pdf). Acesso em: 11 jun. 2026.
+
+**SANTOS, J. et al.** Montagem de biodigestor de pequena escala para produção de biogás e biofertilizante utilizando substratos de galinhas poedeiras em uma propriedade avícola. ResearchGate, mar. 2025. Disponível em: [https://www.researchgate.net/publication/389645973](https://www.researchgate.net/publication/389645973). Acesso em: 11 jun. 2026.
+
+### Seção 11: 
 
 ABISOLO. Fertilizantes especiais apresentaram crescimento expressivo em 2024. Campinas: Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal, 2025.
 
