@@ -477,6 +477,63 @@ O modelo é composto por quatro etapas principais:
 
 ## <a name="c7"></a>7. Estratégia de Distribuição por Raio Logístico
 
+#### Objetivo
+
+&ensp; Definir uma estratégia de distribuição baseada em raios logísticos economicamente viáveis para cada unidade da SoloBom, maximizando a competitividade do produto e preservando as margens da operação.
+
+### 7.1. Contexto
+
+&ensp; A logística exerce papel fundamental na competitividade dos fertilizantes orgânicos. Diferentemente dos fertilizantes minerais, que possuem alta concentração de nutrientes, os compostos orgânicos apresentam menor densidade de valor, exigindo o transporte de maiores volumes para entrega da mesma quantidade de nutrientes. Como consequência, o custo do frete possui impacto significativo sobre o preço final do produto.
+
+&ensp; A operação da SoloBom já possui uma vantagem estrutural na logística de entrada, uma vez que as usinas estão localizadas próximas às granjas fornecedoras de esterco. Dessa forma, o principal desafio passa a ser a logística de saída, ou seja, a distribuição do composto até as propriedades rurais consumidoras.
+
+### 7.2. Fundamentação da Estratégia
+
+&ensp; Estudos do setor apontam que existe um limite econômico para a comercialização de fertilizantes orgânicos, determinado pela relação entre custo logístico, preço de venda e margem desejada. Pesquisas da UFV identificaram raios econômicos variando entre aproximadamente 155 km e 226 km, dependendo das características do produto e do transporte utilizado.
+
+&ensp; Além disso, dados do setor de transporte demonstram que o frete pode representar parcela significativa do custo final da operação, tornando essencial a definição de áreas prioritárias de atuação para cada unidade produtiva.
+
+&ensp; Outro fator relevante é a utilização de fretes de retorno. Caminhões que realizam entregas de grãos, ovos ou outros produtos agrícolas e retornam sem carga podem ser utilizados para reduzir custos logísticos e ampliar a área economicamente atendida pela empresa.
+
+### 7.3. Aplicação por Unidade
+
+#### 7.3.1. Primavera do Leste (MT)
+
+&ensp; A unidade está inserida em uma região com forte presença das culturas de soja, milho e algodão. Mato Grosso concentra aproximadamente 23% do consumo nacional de fertilizantes, representando um mercado de grande potencial. Por outro lado, as longas distâncias características da região aumentam a relevância da gestão logística e da utilização de fretes de retorno.
+
+#### 7.3.2. Campanha e Itanhandu (MG)
+
+&ensp; As unidades atendem regiões com forte presença de café, cana-de-açúcar, leite e hortifrúti. Essas culturas apresentam maior valor agregado, permitindo maior absorção dos custos logísticos e ampliando o potencial de alcance comercial da SoloBom.
+
+#### 7.3.3. Lorena (SP)
+
+&ensp; A região possui concentração de culturas como cana-de-açúcar, café, citros e hortifrúti, além de proximidade com importantes mercados consumidores. A valorização de produtos certificados e sustentáveis também pode favorecer a comercialização dos compostos orgânicos da empresa.
+
+### 7.4. Modelo de Distribuição
+
+&ensp; Como diretriz inicial, recomenda-se segmentar a atuação comercial em faixas de distância:
+
+| Faixa de Distância | Direcionamento Comercial                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| Até 150 km         | Prioridade para venda direta, captura integral da margem e maior proximidade com o cliente |
+| 150 a 300 km       | Utilização de distribuidores, revendas e aproveitamento de fretes de retorno               |
+| Acima de 300 km    | Atuação restrita a clientes estratégicos ou produtos com maior valor agregado              |
+
+&ensp; Esses limites devem ser posteriormente calibrados com dados reais de custos logísticos, preços praticados e margens da operação.
+
+### 7.5. Critérios para Expansão
+
+&ensp; A abertura de novas unidades deve considerar simultaneamente dois fatores:
+
+* Disponibilidade de matéria-prima suficiente para abastecimento da usina;
+* Existência de demanda agrícola relevante dentro do raio econômico de distribuição.
+
+&ensp; Dessa forma, a viabilidade de expansão depende da interseção entre oferta de matéria-prima e mercado consumidor, e não apenas da presença isolada de um desses elementos.
+
+### 7.6. Sinergia com Programas de Relacionamento
+
+&ensp; A implementação de programas de recomendação, laudo e acompanhamento pode ampliar o raio econômico de atuação da SoloBom. Ao deslocar a percepção de valor do cliente do preço por tonelada para os resultados agronômicos obtidos na propriedade, a empresa reduz a sensibilidade ao custo do frete e fortalece sua capacidade de competir em mercados mais distantes.
+
 ---
 
 ## <a name="c8"></a>8. Plano de Marketing Digital e Posicionamento de Marca B2B
