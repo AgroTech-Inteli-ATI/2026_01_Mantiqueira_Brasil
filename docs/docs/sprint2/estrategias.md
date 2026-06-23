@@ -12,13 +12,13 @@ sidebar_position: 3
 
 [3. Substituição do Cavaco de Madeira por Maravalha](#c3)
 
-[4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial](#c4)
+[4. Programas com Recomendação, Laudo e Acompanhamento](#c4)
 
 [5. Linhas: Granulada, Peletizada e Organomineral](#c5)
 
 [6. Estratégia de Logística e Frete de Retorno para Distribuição](#c6)
 
-[7. Certificações e Selos de Agricultura Sustentável e Regenerativa](#c7)
+[7. Estratégia de Distribuição por Raio Logístico](#c7)
 
 [8. Plano de Marketing Digital e Posicionamento de Marca B2B](#c8)
 
@@ -326,7 +326,85 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 &ensp; O núcleo de valor desta iniciativa transcende a simples redução imediata de custos: ela consolida o casamento perfeito entre ganho econômico direto e economia circular prática. O projeto robustece a vitrine ESG da Mantiqueira Brasil perante o mercado financeiro, investidores institucionais e grandes clientes finais, sobretudo no ecossistema da agricultura regenerativa, onde a Solobom já carimba o mercado através de parcerias de sucesso como a estabelecida com a Fazenda Lagoinha.
 
 ---
-## <a name="c4"></a>4. Expansão de Capacidade Produtiva e Otimização de Layout Industrial 
+
+## <a name="c4"></a>4. Programas com Recomendação, Laudo e Acompanhamento 
+
+### 4.1. Contexto e oportunidade
+
+&ensp; A SoloBom perdeu seu cliente cativo interno com a saída da divisão agrícola da Mantiqueira e passou a depender integralmente do mercado externo para comercialização dos seus produtos. Nesse contexto, torna-se necessário desenvolver mecanismos que aumentem a retenção de clientes e reduzam a dependência de vendas pontuais baseadas exclusivamente em preço.
+
+&ensp; Além disso, o mercado de fertilizantes orgânicos apresenta forte volatilidade. Segundo dados da ABISOLO utilizados na pesquisa, o segmento apresentou retração significativa em 2024 e crescimento expressivo em 2025, acompanhando as oscilações do mercado de fertilizantes inorgânicos. Esse comportamento demonstra que parte da demanda atual é conjuntural e depende das condições do mercado.
+
+&ensp; Diante desse cenário, uma oportunidade estratégica para a SoloBom é deixar de vender apenas toneladas de composto orgânico e passar a comercializar programas de manejo e acompanhamento, focados nos resultados obtidos pelo produtor ao longo do tempo.
+
+### 4.2. Proposta estratégica
+
+&ensp; A proposta consiste na criação de programas estruturados que integrem diagnóstico, recomendação técnica e acompanhamento de resultados, transformando a relação comercial em uma parceria contínua com o produtor.
+
+O modelo é composto por quatro etapas principais:
+
+#### 4.2.1. Diagnóstico
+
+&ensp; Realização de laudos e análises voltadas para indicadores relacionados à qualidade do solo, como matéria orgânica (MO), capacidade de troca catiônica (CTC) e fertilidade.
+
+&ensp; Essa etapa gera informações específicas da propriedade e permite uma recomendação mais adequada para cada realidade produtiva.
+
+#### 4.2.2. Recomendação
+
+&ensp; Com base nos resultados obtidos, são definidas recomendações de uso por talhão e cultura, permitindo que a discussão comercial deixe de ser baseada exclusivamente no preço por tonelada e passe a considerar o resultado agronômico esperado.
+
+#### 4.2.3. Acompanhamento
+
+&ensp; Monitoramento dos resultados ao longo das safras por meio de visitas técnicas e indicadores de desempenho (KPIs), permitindo acompanhar a evolução da área e demonstrar o retorno obtido pelo produtor.
+
+#### 4.2.4. Renovação
+
+&ensp; Utilização dos resultados obtidos para replanejamento da safra seguinte, fortalecendo o relacionamento com o cliente e criando recorrência comercial.
+
+### 4.3. Referências de mercado
+
+&ensp; A pesquisa identificou iniciativas semelhantes já utilizadas no agronegócio brasileiro, entre elas:
+
+* Programas de Assistência Técnica e Gerencial (ATeG) do SENAR;
+* Consultorias agronômicas independentes;
+* Plataformas de assistência técnica digital, como a ManejeBem.
+
+&ensp; Enquanto esse tipo de abordagem já é comum em segmentos ligados a fertilizantes minerais e consultorias especializadas, ainda é pouco explorado no mercado de fertilizantes orgânicos, criando uma oportunidade de diferenciação para a SoloBom.
+
+### 4.4. Tese de valor
+
+&ensp; A implementação dos programas gera benefícios estratégicos para a empresa:
+
+* Redução da competição baseada exclusivamente em preço por tonelada;
+* Comparação baseada em resultado por hectare;
+* Aumento da retenção de clientes e da recorrência comercial;
+* Transformação dos atributos técnicos e certificações em resultados mensuráveis;
+* Fortalecimento do relacionamento com contas estratégicas e projetos ligados à agricultura regenerativa.
+
+### 4.5. Estrutura recomendada dos programas
+
+| Programa         | Características                                                               | Público-alvo                                             |
+| ---------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Essencial**    | Laudo de solo e recomendação técnica                                          | Produtores médios e clientes de primeira compra          |
+| **Acompanhado**  | Laudo, recomendação, visitas e indicadores por safra                          | Produtores de soja, milho, café e cana                   |
+| **Regenerativo** | Plano plurianual com monitoramento de matéria orgânica, CTC e rastreabilidade | Contas estratégicas, projetos ESG e produtores orgânicos |
+
+### 4.6. Riscos e pontos de atenção
+
+* Necessidade de equipe técnica para acompanhamento em campo;
+* Resultados relacionados à qualidade do solo tendem a ocorrer no médio e longo prazo;
+* Possível atrito com canais de revenda que já oferecem suporte técnico próprio;
+* Necessidade de concentração geográfica de clientes para viabilizar o atendimento.
+
+### 4.7. Caminho de implementação
+
+* **Etapa 1 – Projeto-piloto:** selecionar uma microrregião com concentração de clientes para implementação inicial do programa.
+* **Etapa 2 – Avaliação:** medir indicadores como renovação dos contratos e disposição de pagamento pelos serviços oferecidos.
+* **Etapa 3 – Expansão:** após validação do modelo, ampliar a iniciativa para outras regiões de atuação da SoloBom.
+
+### 4.8. Conclusão
+
+&ensp; Os programas de recomendação, laudo e acompanhamento representam uma oportunidade para a SoloBom transformar uma demanda conjuntural em uma relação comercial de longo prazo. Ao migrar da venda baseada apenas em volume para uma proposta focada em resultados agronômicos, a empresa fortalece sua diferenciação, aumenta a retenção de clientes e cria uma base mais estável para crescimento futuro.
 
 ---
 
@@ -397,7 +475,7 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 ---
 
-## <a name="c7"></a>7. Certificações e Selos de Agricultura Sustentável e Regenerativa
+## <a name="c7"></a>7. Estratégia de Distribuição por Raio Logístico
 
 ---
 
