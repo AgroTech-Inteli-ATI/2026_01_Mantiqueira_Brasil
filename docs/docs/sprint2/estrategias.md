@@ -810,6 +810,18 @@ MF RURAL. Serragem maravalha em Minas Gerais. MF Rural, 2025. Disponivel em: htt
 
 MF RURAL. Cavaco biomassa. MF Rural, 2025. Disponivel em: https://www.mfrural.com.br/busca/cavaco-biomassa. Acesso em: 8 jun. 2026.
 
+### Seção 4:
+
+ABISOLO (Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal). Anuário 2026: Relatório de Inteligência de Mercado. São Paulo: ABISOLO, 2026. Disponível em: [https://www.abisolo.com.br/anuario/](https://www.abisolo.com.br/anuario/).
+
+MANEJEBEM. ATER Digital: Plataformas digitais para assistência técnica agrícola. Florianópolis: ManejeBem, 2026. Disponível em: [https://manejebem.com/plataformas-digitais-para-assistencia-tecnica-agricola/](https://manejebem.com/plataformas-digitais-para-assistencia-tecnica-agricola/).
+
+SENAR (Serviço Nacional de Aprendizagem Rural). Metodologia de Assistência Técnica e Gerencial (ATeG). Brasília: CNA/SENAR, 2024. Disponível em: [https://cnabrasil.org.br/assistencia-tecnica-e-gerencial](https://cnabrasil.org.br/assistencia-tecnica-e-gerencial).
+
+BUNGE BRASIL. Iniciativas de Agricultura Regenerativa e Cadeias Sustentáveis de Suprimentos. São Paulo, 2025. Disponível em: [https://www.bunge.com.br/](https://www.bunge.com.br/Sustentabilidade).
+
+GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Disponível em: [https://mantiqueirabrasil.com.br/sustentabilidade/](https://mantiqueirabrasil.com.br/sustentabilidade/).
+
 ### Seção 5:
 
 **ASSOCIAÇÃO BRASILEIRA DAS INDÚSTRIAS DE TECNOLOGIA EM NUTRIÇÃO VEGETAL (ABISOLO).** Fertilizantes Especiais apresentaram crescimento expressivo em 2024. São Paulo, 30 maio 2025. Disponível em: [https://www.abisolo.com.br/releases/fertilizantes-especiais-apresentaram-crescimento-expressivo-em-2024/](https://www.abisolo.com.br/releases/fertilizantes-especiais-apresentaram-crescimento-expressivo-em-2024/). Acesso em: 11 jun. 2026.
@@ -833,6 +845,18 @@ MF RURAL. Cavaco biomassa. MF Rural, 2025. Disponivel em: https://www.mfrural.co
 **SOLOBOM.** Mapeamento de concorrentes SoloBom. [S.l.], 2025. Documento interno.
 
 **SOLOBOM.** Apresentação institucional SoloBom 2023. Campanha, 2023. Apresentação interna.
+
+### Seção 7:
+
+ESALQ-LOG (Grupo de Pesquisa e Extensão em Logística Agroindustrial). Sifreca: Sistema de Informações de Fretes (Indicador Semanal de Fertilizantes). Piracicaba: USP/ESALQ, 2026. Disponível em: [https://sifreca.esalq.usp.br/mercado/fertilizantes](https://sifreca.esalq.usp.br/mercado/fertilizantes).
+
+UNIVERSIDADE FEDERAL DE VIÇOSA (UFV). Repositório Institucional Locus: Teses e Dissertações em Economia Aplicada e Engenharia Agrícola. Viçosa: UFV, 2023. Disponível em: [https://locus.ufv.br/handle/123456789/1](https://locus.ufv.br/handle/123456789/1).
+
+ANTT (Agência Nacional de Transportes Terrestres). Tabela de Frete Rodoviário e Custos Operacionais. Brasília: Ministério dos Transportes, 2025. Disponível em: [https://calculadorafrete.antt.gov.br/](https://calculadorafrete.antt.gov.br/).
+
+BUNGE BRASIL. Iniciativas de Agricultura Regenerativa e Cadeias Sustentáveis de Suprimentos. São Paulo, 2025. Disponível em: [https://www.bunge.com.br/](https://www.bunge.com.br/Sustentabilidade).
+
+GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Disponível em: [https://mantiqueirabrasil.com.br/sustentabilidade/](https://mantiqueirabrasil.com.br/sustentabilidade/).
 
 ### Seção 9:
 
