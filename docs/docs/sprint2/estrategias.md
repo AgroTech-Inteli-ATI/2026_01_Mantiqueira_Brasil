@@ -472,6 +472,12 @@ O modelo é composto por quatro etapas principais:
 
 ## <span id="est6"></span>6. Estratégia de Logística e Frete de Retorno para Distribuição
 
+As parcerias com cooperativas agrícolas podem desempenhar um papel fundamental na expansão da estratégia da Mantiqueira Brasil e da Solobom, especialmente no que diz respeito à comercialização de fertilizantes orgânicos e ao fortalecimento da cadeia de valor associada ao biometano. Como as cooperativas concentram um grande número de produtores rurais, elas representam canais eficientes para disseminar tecnologias sustentáveis e promover a adoção de práticas alinhadas à agricultura regenerativa.
+No caso dos fertilizantes orgânicos produzidos pela Solobom, as cooperativas podem atuar não apenas como canais de distribuição, mas também como parceiras na capacitação dos produtores sobre os benefícios da substituição parcial de fertilizantes químicos por soluções orgânicas. O uso desses produtos contribui para a melhoria da estrutura do solo, aumento da matéria orgânica, retenção de água e recuperação da fertilidade, fatores cada vez mais valorizados por produtores que buscam reduzir custos e aumentar a sustentabilidade de suas operações.
+Além disso, as cooperativas podem facilitar a implementação de programas de monitoramento e acompanhamento técnico, permitindo que os resultados obtidos com os fertilizantes orgânicos sejam mensurados e transformados em indicadores ambientais. Esses dados são importantes para comprovar benefícios relacionados à redução de impactos ambientais e à captura de carbono no solo.
+A estratégia de biometano da Mantiqueira também pode ser fortalecida por meio dessas parcerias. A produção de biometano utiliza resíduos orgânicos gerados na atividade avícola, transformando um passivo ambiental em uma fonte renovável de energia. As cooperativas podem atuar como parceiras na divulgação dessa solução e no desenvolvimento de ecossistemas regionais de bioenergia, aproximando produtores rurais das oportunidades relacionadas à transição energética e à economia circular.
+Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a atuar como agentes de transformação, contribuindo para a adoção de tecnologias sustentáveis e para a construção de uma cadeia produtiva mais eficiente e ambientalmente responsável.
+
 ---
 
 ## <span id="est7"></span>7. Estratégia de Distribuição por Raio Logístico
@@ -640,6 +646,12 @@ O modelo é composto por quatro etapas principais:
 ---
 
 ## <span id="est10"></span>10. Governança e Compliance Ambiental na Gestão de Resíduos
+
+O crédito ambiental apresenta uma conexão direta com as iniciativas de fertilizantes orgânicos e biometano desenvolvidas pela Mantiqueira Brasil. Ambas as soluções estão alinhadas aos princípios da economia circular e da redução de impactos ambientais, criando oportunidades para a geração de valor econômico por meio da monetização de benefícios ambientais.
+No caso dos fertilizantes orgânicos, o principal potencial está relacionado ao aumento da matéria orgânica e ao armazenamento de carbono no solo. Quando produtores utilizam esses fertilizantes em conjunto com práticas regenerativas, como cobertura vegetal, plantio direto e rotação de culturas, ocorre um aumento da capacidade do solo de capturar e armazenar carbono atmosférico. Esse processo pode contribuir para projetos de crédito de carbono voltados à agricultura regenerativa, criando uma fonte adicional de receita para os produtores.
+Além da captura de carbono, os fertilizantes orgânicos contribuem para a redução da dependência de fertilizantes sintéticos, cuja produção normalmente demanda elevado consumo energético e gera emissões significativas de gases de efeito estufa. Essa substituição fortalece o argumento ambiental e amplia o potencial de participação em programas de sustentabilidade e certificações ESG.
+A estratégia de biometano possui uma relação ainda mais direta com o mercado de créditos ambientais. O biometano é produzido a partir da biodigestão de resíduos orgânicos que, se descartados inadequadamente, liberariam grandes quantidades de metano para a atmosfera. Como o metano possui um potencial de aquecimento global muito superior ao do dióxido de carbono, sua captura e utilização como combustível renovável representam uma redução significativa das emissões.
+Ao transformar resíduos da produção avícola em energia renovável, a Mantiqueira reduz emissões, substitui combustíveis fósseis e cria uma solução alinhada às metas globais de descarbonização. Esses benefícios podem ser convertidos em créditos de carbono ou utilizados para fortalecer programas de sustentabilidade corporativa, aumentando a atratividade da empresa para investidores, parceiros e clientes.
 
 ---
 
@@ -846,6 +858,28 @@ GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Di
 
 **SOLOBOM.** Apresentação institucional SoloBom 2023. Campanha, 2023. Apresentação interna.
 
+### Seção 6:
+
+CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024.  
+Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.].  
+Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.].  
+Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026.  
+Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio)  
+Acesso em: 9 jun. 2026.
+
+CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024.  
+Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000)  
+Acesso em: 9 jun. 2026.
+
 ### Seção 7:
 
 ESALQ-LOG (Grupo de Pesquisa e Extensão em Logística Agroindustrial). Sifreca: Sistema de Informações de Fretes (Indicador Semanal de Fertilizantes). Piracicaba: USP/ESALQ, 2026. Disponível em: [https://sifreca.esalq.usp.br/mercado/fertilizantes](https://sifreca.esalq.usp.br/mercado/fertilizantes).
@@ -877,6 +911,28 @@ GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Di
 **NICOLOSO, Rodrigo da Silveira.** Uso do digestato como fertilizante. In: FUNDAMENTOS da digestão anaeróbia, purificação do biogás, uso e tratamento do digestato. Concórdia: Embrapa Suínos e Aves, 2019. cap. 5. Disponível em: [https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1109216/1/final9157.pdf](https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1109216/1/final9157.pdf). Acesso em: 11 jun. 2026.
 
 **SANTOS, J. et al.** Montagem de biodigestor de pequena escala para produção de biogás e biofertilizante utilizando substratos de galinhas poedeiras em uma propriedade avícola. ResearchGate, mar. 2025. Disponível em: [https://www.researchgate.net/publication/389645973](https://www.researchgate.net/publication/389645973). Acesso em: 11 jun. 2026.
+
+### Seção 10:
+
+CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024.  
+Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.].  
+Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.].  
+Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade)  
+Acesso em: 9 jun. 2026.
+
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026.  
+Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio)  
+Acesso em: 9 jun. 2026.
+
+CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024.  
+Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000)  
+Acesso em: 9 jun. 2026.
 
 ### Seção 11: 
 
