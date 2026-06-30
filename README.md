@@ -79,7 +79,7 @@ O projeto busca:
 **Objetivo:** Consolidar recomendações estratégicas e desenvolver o MVP analítico.
 
 **Entregáveis:**
-- Valuation simplificado;
+- Análise financeira simplificada;
 - Relatório estratégico final;
 - Recomendações estruturadas de crescimento;
 - Dashboard interativo com visualizações estratégicas.
