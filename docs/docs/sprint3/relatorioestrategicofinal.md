@@ -1,14 +1,22 @@
-# 1. Sumário Executivo
+---
+sidebar_position: 6
+---
 
-A SoloBom emerge de uma oportunidade única de mercado: a transformação de um fluxo contínuo de resíduos orgânicos gerados pela cadeia avícola da Mantiqueira Brasil em fertilizantes de alto valor agronômico. Este relatório consolida os dois documentos estratégicos analisados, o **Estudo Estratégico Detalhado** e o **Plano Estratégico Consolidado**, em um conjunto unificado de diretrizes para orientar a diretoria na tomada de decisões de curto, médio e longo prazo.
+# Relatório Estratégico Final
 
-A empresa opera a partir de três plantas-âncora (**Campanha/MG**, **Primavera do Leste/MT** e **Lorena/SP**), cada uma inserida em um ecossistema agrícola distinto, exigindo estratégias comerciais e de produto diferenciadas. O grande desafio, e ao mesmo tempo o principal ativo, é a natureza contínua da produção versus a sazonalidade intensa da demanda agrícola.
+## 1. Contexto
 
-# 2. Síntese das Análises Realizadas
+&ensp; A SoloBom emerge de uma oportunidade única de mercado: a transformação de um fluxo contínuo de resíduos orgânicos gerados pela cadeia avícola da Mantiqueira Brasil em fertilizantes de alto valor agronômico. Este relatório consolida os dois documentos estratégicos analisados, o **Estudo Estratégico Detalhado** e o **Plano Estratégico Consolidado**, em um conjunto unificado de diretrizes para orientar a diretoria na tomada de decisões de curto, médio e longo prazo.
 
-## 2.1 Diagnóstico Logístico: O Raio Econômico como Fundação
+&ensp; A empresa opera a partir de três plantas-âncora (**Campanha/MG**, **Primavera do Leste/MT** e **Lorena/SP**), cada uma inserida em um ecossistema agrícola distinto, exigindo estratégias comerciais e de produto diferenciadas. O grande desafio, e ao mesmo tempo o principal ativo, é a natureza contínua da produção versus a sazonalidade intensa da demanda agrícola.
 
-O custo do frete por unidade nutricional transportada é o principal limitador competitivo dos fertilizantes orgânicos frente aos minerais. A análise identificou três zonas de atuação determinadas pela equação:
+---
+
+## 2. Síntese das Análises Realizadas
+
+### 2.1 Diagnóstico Logístico: O Raio Econômico como Fundação
+
+&ensp; O custo do frete por unidade nutricional transportada é o principal limitador competitivo dos fertilizantes orgânicos frente aos minerais. A análise identificou três zonas de atuação determinadas pela equação:
 
 > **Raio Máximo Econômico (km)** = (Preço de Mercado − Custo de Produção − Margem Mínima) ÷ Custo de Frete/ton·km
 
@@ -18,11 +26,11 @@ O custo do frete por unidade nutricional transportada é o principal limitador c
 | Zona 2 Secundária | 80–220 km | Organominerais Farelados + Compostos Premium | Cooperativas + Distribuidores | Média-Alta |
 | Zona 3 Expansão | 220 km+ | Organominerais Peletizados / Granulados | Grandes Redes + Key Accounts B2B | Média (volume) |
 
-O Plano Consolidado adota limites de **150 km / 300 km**, convergindo com a lógica dos três anéis acima.
+&ensp; O Plano Consolidado adota limites de **150 km / 300 km**, convergindo com a lógica dos três anéis acima.
 
-O fator determinante para ampliar qualquer raio é a industrialização do produto: compostos peletizados possuem umidade abaixo de **12%**, *shelf life* de até **24 meses** e alta densidade física, diluindo o custo logístico por tonelada de nutriente transportado.
+&ensp; O fator determinante para ampliar qualquer raio é a industrialização do produto: compostos peletizados possuem umidade abaixo de **12%**, *shelf life* de até **24 meses** e alta densidade física, diluindo o custo logístico por tonelada de nutriente transportado.
 
-### Validação financeira do raio econômico
+#### Validação financeira do raio econômico
 
 **Cenários de Sensibilidade à Distância de Entrega (frete R$ 0,45/t·km):**
 
@@ -34,11 +42,11 @@ O fator determinante para ampliar qualquer raio é a industrialização do produ
 
 > **Conclusão:** somente o raio de aproximadamente **100 km** sustenta EBITDA positivo. A partir de **200 km**, o frete supera a margem e o resultado torna-se negativo em todos os indicadores. Para vender além do raio primário com rentabilidade, é necessário repassar o frete ao cliente (**FOB**), elevar o preço de venda ou reduzir o custo logístico por meio da peletização e do aproveitamento de fretes de retorno.
 
----
 
-## 2.2 Mapeamento de Mercado: Dois Ecossistemas, Duas Lógicas
 
-### Campanha/MG — Eixo Sul de Minas
+### 2.2 Mapeamento de Mercado: Dois Ecossistemas, Duas Lógicas
+
+#### Campanha/MG — Eixo Sul de Minas
 
 - Alta densidade de cafeicultura de montanha.
 - Horticultura intensiva e cooperativas fortes.
@@ -46,7 +54,7 @@ O fator determinante para ampliar qualquer raio é a industrialização do produ
 - **Argumento comercial:** carbono, rastreabilidade e qualidade da bebida.
 - **Produto ideal:** Composto Orgânico Farelo / Organomineral Enriquecido.
 
-### Primavera do Leste/MT — Eixo Cerrado
+#### Primavera do Leste/MT — Eixo Cerrado
 
 - Latifúndios de soja, milho safrinha e algodão.
 - Mecanização total, com baixa tolerância a produtos fora do padrão.
@@ -54,9 +62,8 @@ O fator determinante para ampliar qualquer raio é a industrialização do produ
 - **Argumento comercial:** eficiência do fósforo e proteção contra fixação no Cerrado.
 - **Produto ideal:** Organomineral Granulado/Peletizado com laudo técnico.
 
----
 
-## 2.3 Calendário Agrícola e Janela Comercial
+### 2.3 Calendário Agrícola e Janela Comercial
 
 | Cultura | Região | Janela de Compra do Produtor | Ação Comercial SoloBom |
 |----------|--------|------------------------------|------------------------|
@@ -67,11 +74,10 @@ O fator determinante para ampliar qualquer raio é a industrialização do produ
 | Hortifrúti | MG | Ciclos contínuos (12 meses) | Parceria com cooperativas e revendas locais |
 | Pastagens | MT / MG | Setembro a Novembro | Digestato líquido no raio primário (≤ 80 km) |
 
-As campanhas comerciais da SoloBom devem antecipar-se em, no mínimo, **60 dias** à janela de compra do produtor, priorizando contratos programados com entrega escalonada ao longo do ano.
+&ensp; As campanhas comerciais da SoloBom devem antecipar-se em, no mínimo, **60 dias** à janela de compra do produtor, priorizando contratos programados com entrega escalonada ao longo do ano.
 
----
 
-## 2.4 Análise Competitiva
+### 2.4 Análise Competitiva
 
 | Concorrente | Região | Ameaça Principal | Contraponto SoloBom |
 |--------------|--------|------------------|---------------------|
@@ -80,11 +86,13 @@ As campanhas comerciais da SoloBom devem antecipar-se em, no mínimo, **60 dias*
 | Players nacionais (Superbac, GeoBio, EcoFértil) | MT | Marcas fortes e financiamento ao produtor | Customização local e agilidade logística da planta em Primavera do Leste |
 | Biofábricas *on-farm* (compostagem própria) | MT | Custo marginal interno muito baixo | Escala industrial com granulometria homogênea para plantadeiras de precisão |
 
-# 3. Análise Financeira Projetada 2025–2030
+---
 
-## 3.1 Investimento (CAPEX)
+## 3. Análise Financeira Projetada 2025–2030
 
-O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10 anos:
+### 3.1 Investimento (CAPEX)
+
+&ensp; O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10 anos:
 
 | Item | Valor |
 |------|------|
@@ -97,9 +105,8 @@ O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10
 | Contingência (10%) | R$ 1.090.000 |
 | **CAPEX Total** | **R$ 11.990.000** |
 
----
 
-## 3.2 Estrutura de Financiamento (Dívida)
+### 3.2 Estrutura de Financiamento (Dívida)
 
 | Parâmetro | Valor |
 |------------|------|
@@ -111,16 +118,15 @@ O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10
 | Tempo de Amortização | 4 anos (2027–2030) |
 | Amortização anual | R$ 2.098.250/ano |
 
-### Cronograma da dívida
+#### Cronograma da dívida
 
 | Ano | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 |-----|------|------|------|------|------|------|
 | Dívida Final | R$ 8.393.000 | R$ 8.393.000 | R$ 6.294.750 | R$ 4.196.500 | R$ 2.098.250 | R$ 0 |
 | Juros pagos | R$ 0 | R$ 1.594.670 | R$ 1.594.670 | R$ 1.196.003 | R$ 797.335 | R$ 398.668 |
 
----
 
-## 3.3 Demonstração de Resultados Projetada (DRE)
+### 3.3 Demonstração de Resultados Projetada (DRE)
 
 | Indicador | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 |-----------|------|------|------|------|------|------|
@@ -145,9 +151,9 @@ O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10
 | Lucro Líquido | R$ 2.559.674 | R$ 845.281 | R$ 980.535 | R$ 1.384.996 | R$ 1.795.817 | R$ 2.213.284 |
 | Margem Líquida | 6,4% | 2,0% | 2,3% | 3,1% | 3,8% | 4,5% |
 
----
 
-## 3.4 Sensibilidade: Impacto do Raio de Entrega no Resultado
+
+### 3.4 Sensibilidade: Impacto do Raio de Entrega no Resultado
 
 | Cenário | 100 km | 200 km | 300 km |
 |----------|--------|--------|--------|
@@ -156,152 +162,150 @@ O projeto requer um investimento total de **R$ 11,99M**, com depreciação em 10
 | EBITDA acumulado | +R$ 8,26M | –R$ 28,01M | –R$ 64,28M |
 | Lucro líquido acumulado | –R$ 3,72M | –R$ 39,59M | –R$ 75,86M |
 
-**Conclusão:** dobrar a distância média de entrega de 100 km para 200 km destrói aproximadamente **R$ 36,3M de EBITDA acumulado em 6 anos**, sendo o raio econômico o principal fator de viabilidade do projeto.
+&ensp; **Conclusão:** dobrar a distância média de entrega de 100 km para 200 km destrói aproximadamente **R$ 36,3M de EBITDA acumulado em 6 anos**, sendo o raio econômico o principal fator de viabilidade do projeto.
 
-# 4. Principais Insights do Projeto
+## 4. Principais Insights do Projeto
 
-## Insight 1: O produto não é o fertilizante; é a solução de solo
+### Insight 1: O produto não é o fertilizante; é a solução de solo
 
-O posicionamento como vendedor de "toneladas de composto" cria uma guerra de preços com a cama de frango in natura. O reposicionamento como parceiro de "programas de fertilidade", com diagnóstico de solo, recomendação customizada e laudo de ROI, eleva o valor percebido e gera barreiras de saída para o cliente. A taxa de retenção projetada com o modelo consultivo supera 85%.
+&ensp; O posicionamento como vendedor de "toneladas de composto" cria uma guerra de preços com a cama de frango in natura. O reposicionamento como parceiro de "programas de fertilidade", com diagnóstico de solo, recomendação customizada e laudo de ROI, eleva o valor percebido e gera barreiras de saída para o cliente. A taxa de retenção projetada com o modelo consultivo supera 85%.
 
----
 
-## Insight 2: A peletização é a chave que desbloqueia o crescimento
+### Insight 2: A peletização é a chave que desbloqueia o crescimento
 
-Compostos farelados são economicamente viáveis apenas no raio primário (≤ 80–150 km). A transformação em organomineral peletizado/granulado reduz a umidade para menos de 12%, estende o shelf life para 24 meses e aumenta a densidade física, três fatores que simultaneamente ampliam o raio econômico, permitem estocagem regulatória durante a entressafra e abrem o mercado de grandes produtores mecanizados do Cerrado.
+&ensp; Compostos farelados são economicamente viáveis apenas no raio primário (≤ 80–150 km). A transformação em organomineral peletizado/granulado reduz a umidade para menos de 12%, estende o shelf life para 24 meses e aumenta a densidade física, três fatores que simultaneamente ampliam o raio econômico, permitem estocagem regulatória durante a entressafra e abrem o mercado de grandes produtores mecanizados do Cerrado.
 
----
 
-## Insight 3: As cooperativas são o melhor canal de entrada em MG
+### Insight 3: As cooperativas são o melhor canal de entrada em MG
 
-No Sul de Minas, a cooperativa é o principal agente de crédito e confiança do produtor. Parceiros como Cooxupé, Minasul e Coopama funcionam como multiplicadores de capilaridade, eliminando a necessidade de uma grande força de vendas própria na fase inicial. A lógica de barter (fertilizante entregue na entressafra trocado por promessa de grãos futuros) resolve simultaneamente o problema de sazonalidade e o de acesso ao produtor.
+&ensp; No Sul de Minas, a cooperativa é o principal agente de crédito e confiança do produtor. Parceiros como Cooxupé, Minasul e Coopama funcionam como multiplicadores de capilaridade, eliminando a necessidade de uma grande força de vendas própria na fase inicial. A lógica de barter (fertilizante entregue na entressafra trocado por promessa de grãos futuros) resolve simultaneamente o problema de sazonalidade e o de acesso ao produtor.
 
----
 
-## Insight 4: A sazonalidade é gerenciável com três alavancas complementares
+### Insight 4: A sazonalidade é gerenciável com três alavancas complementares
 
-Nenhuma alavanca isolada resolve o descasamento produção-demanda. A solução está na combinação de:
+&ensp; Nenhuma alavanca isolada resolve o descasamento produção-demanda. A solução está na combinação de:
 
 1. Contratos de assinatura anual com descontos progressivos para entregas fora do pico  
 2. Industrialização avançada para converter excedente em produto estocável  
 3. Estocagem descentralizada nos armazéns satélites ociosos das cooperativas  
 
-Isso libera o pátio da fábrica e antecipa o desafio logístico antes do apagão de fretes do pico da safra.
+&ensp; Isso libera o pátio da fábrica e antecipa o desafio logístico antes do apagão de fretes do pico da safra.
+
+
+### Insight 5: A planta de Lorena/SP é um ativo subutilizado na análise
+
+&ensp; Os documentos analisados focam principalmente em Campanha/MG e Primavera do Leste/MT. A unidade de Lorena/SP está posicionada em um dos mercados mais exigentes e bem pagadores do Brasil: citricultura, café, cana e hortifruticultura do interior paulista, todos com alto nível de adoção de certificações sustentáveis (IBD, Ecocert). Essa planta merece estratégia dedicada na fase de médio prazo.
+
+
+### Insight 6: O biogás/biometano transforma a empresa em plataforma circular
+
+&ensp; A integração da planta de biogás, gerando energia a partir do mesmo esterco que alimenta a compostagem, reposiciona a empresa como case de economia circular completa. O digestato resultante é um fertilizante fluido premium com alta eficiência agronômica. A rastreabilidade do carbono absorvido pelo solo via insumos abre a possibilidade de geração de créditos de carbono, criando uma segunda linha de receita para produtores parceiros, especialmente relevante para exportadores de café premium de MG.
 
 ---
 
-## Insight 5: A planta de Lorena/SP é um ativo subutilizado na análise
+## 5. Recomendações Estratégicas
 
-Os documentos analisados focam principalmente em Campanha/MG e Primavera do Leste/MT. A unidade de Lorena/SP está posicionada em um dos mercados mais exigentes e bem pagadores do Brasil: citricultura, café, cana e hortifruticultura do interior paulista, todos com alto nível de adoção de certificações sustentáveis (IBD, Ecocert). Essa planta merece estratégia dedicada na fase de médio prazo.
 
----
+### 5.1. HORIZONTE 1: Curto Prazo (0 a 6 meses)
 
-## Insight 6: O biogás/biometano transforma a empresa em plataforma circular
+#### Consolidação e Eficiência de Raio
 
-A integração da planta de biogás, gerando energia a partir do mesmo esterco que alimenta a compostagem, reposiciona a empresa como case de economia circular completa. O digestato resultante é um fertilizante fluido premium com alta eficiência agronômica. A rastreabilidade do carbono absorvido pelo solo via insumos abre a possibilidade de geração de créditos de carbono, criando uma segunda linha de receita para produtores parceiros, especialmente relevante para exportadores de café premium de MG.
+##### R1. Restringir o foco geográfico ao raio primário de cada planta  
 
-# 5. Recomendações Estratégicas
+&ensp; Concentrar 100% do esforço comercial e operacional nas zonas de até 80–150 km ao redor de Campanha e Primavera do Leste. Nenhum investimento em rotas longas com produto farelado. A margem operacional positiva imediata é condição para financiar as fases seguintes.
 
----
+##### R2. Fechar acordos de balcão com cooperativas próximas (MG)  
 
-# HORIZONTE 1: Curto Prazo (0 a 6 meses)
+&ensp; Prioridade: Coopama (Machado) e filiais da Minasul (Sul de MG). Objetivo: escoar o estoque inicial de composto farelado e iniciar o relacionamento institucional que será fundamental para os contratos de barter no médio prazo.
 
-## Consolidação e Eficiência de Raio
 
-### R1. Restringir o foco geográfico ao raio primário de cada planta  
-Concentrar 100% do esforço comercial e operacional nas zonas de até 80–150 km ao redor de Campanha e Primavera do Leste. Nenhum investimento em rotas longas com produto farelado. A margem operacional positiva imediata é condição para financiar as fases seguintes.
+##### R3. Instalar áreas de validação técnica (talhões demonstrativos)  
 
----
+&ensp; Selecionar 2 a 4 produtores líderes de opinião (Key Opinion Leaders) em café (MG) e soja (MT) para instalar experimentos lado a lado (organomineral SoloBom vs fertilizante mineral padrão). Os laudos de resultados serão o principal ativo de vendas nos meses 6 a 18.
 
-### R2. Fechar acordos de balcão com cooperativas próximas (MG)  
-Prioridade: Coopama (Machado) e filiais da Minasul (Sul de MG). Objetivo: escoar o estoque inicial de composto farelado e iniciar o relacionamento institucional que será fundamental para os contratos de barter no médio prazo.
 
----
+##### R4. Implementar dashboard logístico de margem por região  
 
-### R3. Instalar áreas de validação técnica (talhões demonstrativos)  
-Selecionar 2 a 4 produtores líderes de opinião (Key Opinion Leaders) em café (MG) e soja (MT) para instalar experimentos lado a lado (organomineral SoloBom vs fertilizante mineral padrão). Os laudos de resultados serão o principal ativo de vendas nos meses 6 a 18.
+&ensp; Criar controle de raio econômico real por planta, considerando: preço médio de venda, custo do frete por rota, preço dos concorrentes minerais, disponibilidade de fretes de retorno e margem obtida por cliente. Esse painel deve ser atualizado mensalmente e orientar todas as decisões de expansão territorial.
 
----
 
-### R4. Implementar dashboard logístico de margem por região  
-Criar controle de raio econômico real por planta, considerando: preço médio de venda, custo do frete por rota, preço dos concorrentes minerais, disponibilidade de fretes de retorno e margem obtida por cliente. Esse painel deve ser atualizado mensalmente e orientar todas as decisões de expansão territorial.
+### 5.2. HORIZONTE 2: Médio Prazo (6 a 18 meses)
 
----
+#### Industrialização Avançada e Capilaridade B2B
 
-# HORIZONTE 2: Médio Prazo (6 a 18 meses)
+##### R5. Iniciar a linha de organominerais peletizados/granulados  
 
-## Industrialização Avançada e Capilaridade B2B
+&ensp; Esta é a recomendação de maior impacto do portfólio. A peletização encerra a dependência exclusiva do produto farelado de baixa densidade, amplia o raio econômico para 220+ km, habilita a entrada no mercado de grandes produtores mecanizados do MT e cria um produto estocável para gestão da sazonalidade.
 
-### R5. Iniciar a linha de organominerais peletizados/granulados  
-Esta é a recomendação de maior impacto do portfólio. A peletização encerra a dependência exclusiva do produto farelado de baixa densidade, amplia o raio econômico para 220+ km, habilita a entrada no mercado de grandes produtores mecanizados do MT e cria um produto estocável para gestão da sazonalidade.
+&ensp; Sobre a decisão estratégica: a prioridade de investimento deve ser a planta de Campanha/MG, pois o café premium oferece maior valor por tonelada e menor sensibilidade a preço, gerando aprendizado industrial com margem protetora antes da expansão no Cerrado.
 
-Sobre a decisão estratégica: a prioridade de investimento deve ser a planta de Campanha/MG, pois o café premium oferece maior valor por tonelada e menor sensibilidade a preço, gerando aprendizado industrial com margem protetora antes da expansão no Cerrado.
 
----
+##### R6. Ativar estratégia anti-sazonalidade em três pilares simultâneos  
 
-### R6. Ativar estratégia anti-sazonalidade em três pilares simultâneos  
-Implementar em paralelo:  
-(a) modelo de "Assinatura de Fertilidade SoloBom" com contratos anuais e entregas mensais fixas;  
-(b) conversão do excedente de composto em peletizado para estocagem regulatória;  
-(c) negociação de armazenagem nos armazéns satélites ociosos de cooperativas parceiras.
+&ensp; Implementar em paralelo:  
 
----
+a) modelo de "Assinatura de Fertilidade SoloBom" com contratos anuais e entregas mensais fixas;  
+b) conversão do excedente de composto em peletizado para estocagem regulatória;  
+c) negociação de armazenagem nos armazéns satélites ociosos de cooperativas parceiras.
 
-### R7. Estruturar rede de revendas e distribuidores no raio secundário  
-Em MG: expansão via cooperativas no raio de 80–220 km.  
-Em MT: ativação de redes privadas (Lavoro, Sinagro, Fiagril) para garantir capilaridade imediata sem necessidade de equipe própria em campo.
 
----
+##### R7. Estruturar rede de revendas e distribuidores no raio secundário  
 
-### R8. Lançar o Protocolo de Atendimento Técnico SoloBom  
-Estruturar o processo consultivo em quatro etapas:  
+- Em MG: expansão via cooperativas no raio de 80–220 km.  
+- Em MT: ativação de redes privadas (Lavoro, Sinagro, Fiagril) para garantir capilaridade imediata sem necessidade de equipe própria em campo.
+
+
+##### R8. Lançar o Protocolo de Atendimento Técnico SoloBom  
+
+&ensp; Estruturar o processo consultivo em quatro etapas:  
 1. Diagnóstico químico + biológico do solo (BioAS/Embrapa)  
 2. Receita agronômica customizada  
 3. Acompanhamento pós-aplicação  
 4. Laudo de ROI na colheita  
 
-Capacitar agrônomos de cooperativas parceiras para aplicação do protocolo. Este será o principal diferencial competitivo frente à concorrência baseada em preço.
+&ensp; Capacitar agrônomos de cooperativas parceiras para aplicação do protocolo. Este será o principal diferencial competitivo frente à concorrência baseada em preço.
+
+
+### 5.3. HORIZONTE 3: Longo Prazo (18 a 36 meses)
+
+#### Plataforma Circular Plena e Moeda Verde
+
+
+##### R9. Consolidar planta de biogás/biometano como pilar energético e de produto  
+
+&ensp; O digestato deve integrar o portfólio como fertilizante fluido premium e base para novas formulações organominerais. A geração de biometano reduz custo energético e melhora o raio econômico da operação.
+
+
+##### R10. Desenvolver programa de rastreabilidade de carbono 
+
+&ensp; Posicionar o fertilizante como ferramenta para captura de valor em exportações agrícolas. Criar protocolo de mensuração de carbono no solo e buscar parcerias com certificadoras (IBD, Ecocert, Verra) para geração de créditos de carbono.
+
+&ensp; Foco inicial: cafeicultores de MG exportadores para mercados premium.
+
+
+##### R11. Definir novas unidades industriais com modelo georreferenciado  
+
+&ensp; Decisão de expansão baseada em três fatores:  
+
+a) disponibilidade de matéria-prima orgânica  
+b) concentração de demanda agrícola de alto valor  
+c) viabilidade logística (diesel, frete de retorno, armazenagem)  
+
+&ensp; O dashboard logístico (R4) será base analítica central.
+
+
+##### R12. Desenvolver estratégia dedicada para Lorena/SP  
+
+&ensp; A planta de Lorena deve ter estratégia própria focada em citricultura, café, cana e hortifruticultura do interior paulista, mercados com alta disposição a pagar por certificações sustentáveis.
+
+&ensp; Essa unidade pode se tornar referência nacional em produtos certificados (IBD/Ecocert) a partir do médio prazo.
 
 ---
 
-# HORIZONTE 3: Longo Prazo (18 a 36 meses)
+## 6. Matriz de Prioridades e KPIs
 
-## Plataforma Circular Plena e Moeda Verde
 
----
-
-### R9. Consolidar planta de biogás/biometano como pilar energético e de produto  
-O digestato deve integrar o portfólio como fertilizante fluido premium e base para novas formulações organominerais. A geração de biometano reduz custo energético e melhora o raio econômico da operação.
-
----
-
-### R10. Desenvolver programa de rastreabilidade de carbono  
-Posicionar o fertilizante como ferramenta para captura de valor em exportações agrícolas. Criar protocolo de mensuração de carbono no solo e buscar parcerias com certificadoras (IBD, Ecocert, Verra) para geração de créditos de carbono.
-
-Foco inicial: cafeicultores de MG exportadores para mercados premium.
-
----
-
-### R11. Definir novas unidades industriais com modelo georreferenciado  
-Decisão de expansão baseada em três fatores:  
-(a) disponibilidade de matéria-prima orgânica  
-(b) concentração de demanda agrícola de alto valor  
-(c) viabilidade logística (diesel, frete de retorno, armazenagem)  
-
-O dashboard logístico (R4) será base analítica central.
-
----
-
-### R12. Desenvolver estratégia dedicada para Lorena/SP  
-A planta de Lorena deve ter estratégia própria focada em citricultura, café, cana e hortifruticultura do interior paulista, mercados com alta disposição a pagar por certificações sustentáveis.
-
-Essa unidade pode se tornar referência nacional em produtos certificados (IBD/Ecocert) a partir do médio prazo.
-
-# 6. Matriz de Prioridades e KPIs
-
----
-
-## 6.1 Matriz de Recomendações por Horizonte e Impacto
+### 6.1 Matriz de Recomendações por Horizonte e Impacto
 
 | Recomendação | Horizonte | Impacto | Complexidade | Prioridade |
 |--------------|----------|---------|--------------|------------|
@@ -318,9 +322,8 @@ Essa unidade pode se tornar referência nacional em produtos certificados (IBD/E
 | R11: Novas usinas georreferenciadas | 18–36m | Muito Alto | Alta | ★★★★☆ |
 | R12: Estratégia Lorena/SP | 6–18m | Alto | Média | ★★★★☆ |
 
----
 
-## 6.2 Indicadores de Acompanhamento (KPIs)
+### 6.2 Indicadores de Acompanhamento (KPIs)
 
 | Indicador | Objetivo | Frequência |
 |------------|----------|-------------|
@@ -333,12 +336,14 @@ Essa unidade pode se tornar referência nacional em produtos certificados (IBD/E
 | Volume de contratos de assinatura ativa | Mitigar sazonalidade | Mensal |
 | Receita por unidade produtiva | Comparar eficiência entre plantas | Mensal |
 
-# 7. Conclusão
+---
 
-A SoloBom possui todos os elementos para se tornar uma referência nacional em fertilidade orgânica e economia circular: matéria-prima abundante e de origem rastreável, localização estratégica próxima a dois dos mais importantes mercados agrícolas do Brasil e uma proposta de valor genuinamente diferenciada em relação aos fertilizantes minerais convencionais.
+## 7. Conclusão
 
-A peletização, prevista para o Horizonte 2, é o único mecanismo que amplia esse raio com rentabilidade, e por isso representa o investimento de maior retorno estratégico do portfólio.
+&ensp; A SoloBom possui todos os elementos para se tornar uma referência nacional em fertilidade orgânica e economia circular: matéria-prima abundante e de origem rastreável, localização estratégica próxima a dois dos mais importantes mercados agrícolas do Brasil e uma proposta de valor genuinamente diferenciada em relação aos fertilizantes minerais convencionais.
 
-O horizonte de 36 meses descrito neste relatório não é apenas um plano de vendas, mas a construção de uma plataforma circular completa, onde fertilizante, energia e créditos de carbono se integram em um modelo de negócio resiliente, com receitas diversificadas e uma proposta alinhada às demandas crescentes dos mercados internacionais por rastreabilidade, sustentabilidade e eficiência de carbono.
+&ensp; A peletização, prevista para o Horizonte 2, é o único mecanismo que amplia esse raio com rentabilidade, e por isso representa o investimento de maior retorno estratégico do portfólio.
 
-A SoloBom não compete no mercado de fertilizantes. Ela está criando o mercado de soluções de solo circulares, com uma janela única para liderar esse movimento no Brasil.
+&ensp; O horizonte de 36 meses descrito neste relatório não é apenas um plano de vendas, mas a construção de uma plataforma circular completa, onde fertilizante, energia e créditos de carbono se integram em um modelo de negócio resiliente, com receitas diversificadas e uma proposta alinhada às demandas crescentes dos mercados internacionais por rastreabilidade, sustentabilidade e eficiência de carbono.
+
+&ensp; A SoloBom não compete no mercado de fertilizantes. Ela está criando o mercado de soluções de solo circulares, com uma janela única para liderar esse movimento no Brasil.

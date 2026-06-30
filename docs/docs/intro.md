@@ -153,7 +153,7 @@ Dessa forma, torna-se relevante desenvolver uma análise estruturada do mercado 
   </div>
 
   <div style={{ margin: 10, textAlign: 'center' }}>
-      <img src={require("@site/static/img/team/paulo.png").default} style={{ borderRadius: '12px', width: 120 }} alt="Mateus Galatro" />
+      <img src={require("@site/static/img/team/mateus.jpeg").default} style={{ borderRadius: '12px', width: 108 }} alt="Mateus Galatro" />
       <br />
       <sub><b>Mateus Galatro</b></sub>
   </div>

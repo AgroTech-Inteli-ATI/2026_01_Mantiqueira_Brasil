@@ -16,19 +16,17 @@ sidebar_position: 3
 
 [5. Linhas: Granulada, Peletizada e Organomineral](#est5)
 
-[6. Estratégia de Logística e Frete de Retorno para Distribuição](#est6)
+[6. Parcerias com Coorperativas](#est6)
 
 [7. Estratégia de Distribuição por Raio Logístico](#est7)
 
-[8. Plano de Marketing Digital e Posicionamento de Marca B2B](#est8)
+[8. Digestato como Produto](#est8)
 
-[9. Digestato como Produto](#est9)
+[9. Governança e Compliance Ambiental na Gestão de Resíduos](#est9)
 
-[10. Governança e Compliance Ambiental na Gestão de Resíduos](#est10)
+[10. Modelo por assinatura para produtores recorrentes](#est10)
 
-[11. Modelo por assinatura para produtores recorrentes](#est11)
-
-[12. Fontes Ultilizadas](#ref)
+[11. Fontes Ultilizadas](#ref)
 
 
 ## <span id="est1"></span>1. Biometano na Frota: Produção Própria e Logística Independente 
@@ -135,6 +133,8 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 
 &ensp; O principal desafio é o investimento inicial para escalar o sistema de purificação. Por isso, o caminho mais seguro é iniciar com um piloto em uma unidade, validar os números operacionais reais e, somente então, tomar a decisão de escalar.
 
+---
+
 ## <span id="est2"></span>2. Organominerais como via de expansão, diferenciação e aumento de margem
 
 &ensp; A ampliação da atuação da SoloBom para fertilizantes organominerais representa uma das vias mais consistentes para aumentar o valor agregado do portfólio, ampliar a competitividade comercial e reduzir a dependência de uma proposta baseada apenas no composto orgânico sólido. A empresa já possui uma base estratégica relevante para esse movimento: matéria-prima orgânica recorrente, origem rastreável vinculada à Mantiqueira Brasil, experiência em compostagem, presença em regiões agrícolas importantes e um produto atual com atributos técnicos associados à melhoria de solo, carbono orgânico, CTC, ácidos orgânicos e relação C:N equilibrada.
@@ -237,6 +237,8 @@ Geração de créditos de carbono: a certificação no RenovaBio permite emitir 
 &ensp; A expansão para organominerais pode permitir que a SoloBom evolua de fornecedora de composto orgânico para empresa de tecnologia orgânica de solo. Essa frente amplia o potencial de margem, melhora a aderência a grandes lavouras, fortalece a proposta de valor da empresa e responde à pressão competitiva de organominerais granulados e fertilizantes minerais.
 
 &ensp; A oportunidade mais forte está em transformar o esterco aviário rastreável da Mantiqueira em uma linha de produtos mais sofisticada, segmentada por cultura e vendida por valor agronômico. Dessa forma, a SoloBom pode capturar mais valor por tonelada de matéria-prima, fortalecer sua diferenciação e ocupar um espaço estratégico entre os compostos regionais de baixo custo e os fertilizantes minerais de alta escala.
+
+---
 
 ## <span id="est3"></span>3. Substituição do Cavaco de Madeira por Maravalha
 
@@ -470,13 +472,29 @@ O modelo é composto por quatro etapas principais:
 
 ---
 
-## <span id="est6"></span>6. Estratégia de Logística e Frete de Retorno para Distribuição
+## <span id="est6"></span>6. Parcerias com Cooperativas
 
-As parcerias com cooperativas agrícolas podem desempenhar um papel fundamental na expansão da estratégia da Mantiqueira Brasil e da Solobom, especialmente no que diz respeito à comercialização de fertilizantes orgânicos e ao fortalecimento da cadeia de valor associada ao biometano. Como as cooperativas concentram um grande número de produtores rurais, elas representam canais eficientes para disseminar tecnologias sustentáveis e promover a adoção de práticas alinhadas à agricultura regenerativa.
-No caso dos fertilizantes orgânicos produzidos pela Solobom, as cooperativas podem atuar não apenas como canais de distribuição, mas também como parceiras na capacitação dos produtores sobre os benefícios da substituição parcial de fertilizantes químicos por soluções orgânicas. O uso desses produtos contribui para a melhoria da estrutura do solo, aumento da matéria orgânica, retenção de água e recuperação da fertilidade, fatores cada vez mais valorizados por produtores que buscam reduzir custos e aumentar a sustentabilidade de suas operações.
-Além disso, as cooperativas podem facilitar a implementação de programas de monitoramento e acompanhamento técnico, permitindo que os resultados obtidos com os fertilizantes orgânicos sejam mensurados e transformados em indicadores ambientais. Esses dados são importantes para comprovar benefícios relacionados à redução de impactos ambientais e à captura de carbono no solo.
-A estratégia de biometano da Mantiqueira também pode ser fortalecida por meio dessas parcerias. A produção de biometano utiliza resíduos orgânicos gerados na atividade avícola, transformando um passivo ambiental em uma fonte renovável de energia. As cooperativas podem atuar como parceiras na divulgação dessa solução e no desenvolvimento de ecossistemas regionais de bioenergia, aproximando produtores rurais das oportunidades relacionadas à transição energética e à economia circular.
-Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a atuar como agentes de transformação, contribuindo para a adoção de tecnologias sustentáveis e para a construção de uma cadeia produtiva mais eficiente e ambientalmente responsável.
+### 6.1. Contexto
+
+&ensp; As cooperativas agrícolas podem desempenhar um papel estratégico na expansão da Mantiqueira Brasil e da SoloBom, especialmente na comercialização de fertilizantes orgânicos e no fortalecimento da cadeia de valor associada ao biometano. Por concentrarem um grande número de produtores rurais, essas organizações representam canais eficientes para disseminar tecnologias sustentáveis e incentivar práticas alinhadas à agricultura regenerativa.
+
+### 6.2. Aplicação aos Fertilizantes Orgânicos
+
+&ensp; No contexto dos fertilizantes orgânicos produzidos pela SoloBom, as cooperativas podem atuar não apenas como canais de distribuição, mas também como parceiras na capacitação dos produtores sobre os benefícios da substituição parcial de fertilizantes químicos por soluções orgânicas.
+
+&ensp; O uso desses produtos contribui para a melhoria da estrutura do solo, aumento da matéria orgânica, maior retenção de água e recuperação da fertilidade, fatores cada vez mais valorizados por produtores que buscam reduzir custos e aumentar a sustentabilidade de suas operações.
+
+&ensp; Além disso, as cooperativas podem apoiar a implementação de programas de monitoramento e acompanhamento técnico, permitindo que os resultados obtidos com os fertilizantes orgânicos sejam mensurados e convertidos em indicadores ambientais. Esses dados são importantes para demonstrar benefícios relacionados à redução de impactos ambientais e ao aumento da captura de carbono no solo.
+
+### 6.3. Aplicação ao Biometano
+
+&ensp; A estratégia de biometano da Mantiqueira também pode ser fortalecida por meio dessas parcerias. A produção de biometano utiliza resíduos orgânicos gerados na atividade avícola, transformando um passivo ambiental em uma fonte renovável de energia.
+
+&ensp; Nesse contexto, as cooperativas podem atuar como parceiras na divulgação dessa solução e no desenvolvimento de ecossistemas regionais de bioenergia, aproximando produtores rurais das oportunidades relacionadas à transição energética e à economia circular.
+
+### 6.4. Potencial Estratégico
+
+&ensp; Mais do que canais comerciais, as cooperativas podem atuar como agentes de transformação, contribuindo para a adoção de tecnologias sustentáveis e para a construção de uma cadeia produtiva mais eficiente e ambientalmente responsável. Essa atuação fortalece a distribuição dos produtos da SoloBom, amplia a disseminação de práticas regenerativas e favorece a integração entre produção agrícola, geração de energia renovável e sustentabilidade.
 
 ---
 
@@ -541,18 +559,14 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 
 ---
 
-## <span id="est8"></span>8. Plano de Marketing Digital e Posicionamento de Marca B2B
-
----
-
-## <span id="est9"></span>9. Digestato como Produto
+## <span id="est8"></span>8. Digestato como Produto
 
 &ensp; O digestato é o efluente resultante da digestão anaeróbica no interior de um biodigestor. Diferente do processo de compostagem aeróbica que a SoloBom opera hoje, a biodigestão ocorre em reator fechado, sem oxigênio, com tempo de retenção hidráulica de semanas e tem dois subprodutos: o biogás e o digestato. 
 
 &ensp; Para uma empresa com o volume de esterco de galinhas poedeiras que a Mantiqueira Brasil gera, e com a trajetória de expansão que tem pela frente, **o digestato não é uma hipótese remota, é um subproduto inevitável se a decisão de instalar biodigestores for tomada.**
 
 
-### 9.1. Por Que o Tema é Relevante para a Mantiqueira
+### 8.1. Por Que o Tema é Relevante para a Mantiqueira
 
 &ensp; A avicultura e a suinocultura geram anualmente cerca de **8 milhões de toneladas de cama de aviário no Brasil**. Esses resíduos contêm aproximadamente:
 
@@ -565,7 +579,7 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 &ensp; A Mantiqueira, com 17,9 milhões de galinhas hoje e expansão projetada para mais de 8 milhões de aves adicionais até 2029, está entre os maiores geradores individuais desse insumo no país. O esterco de galinhas poedeiras tem alta concentração de nutrientes em relação a outros dejetos animais, o que o torna matéria-prima de qualidade para biodigestão.
 
 
-### 9.2. O Que o Processo Produz e Como Funciona
+### 8.2. O Que o Processo Produz e Como Funciona
 
 &ensp; O biodigestor é uma câmara destinada à digestão anaeróbia da matéria orgânica. Por meio dessa digestão, são produzidos:
 
@@ -579,7 +593,7 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 &ensp; Essa separação é o ponto de partida para qualquer estratégia de produto. A fração líquida e a fração sólida têm perfis nutricionais e aplicações distintas, e o modelo de negócio ideal trabalha com as duas.
 
 
-### 9.3. Fração Líquida: N Disponível e Fertirrigação
+### 8.3. Fração Líquida: N Disponível e Fertirrigação
 
 &ensp; A fração líquida do digestato é rica em nitrogênio amoniacal, a forma mais imediatamente disponível para as plantas. Isso a posiciona como fertilizante de ação rápida, aplicável via fertirrigação em lavouras de alta produtividade.
 
@@ -596,7 +610,7 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 - Parcerias com produtores dentro de um raio logístico reduzido (tipicamente 30 a 60 km da unidade produtora)
 
 
-### 9.4. Fração Sólida: Base para Organomineral Granulado
+### 8.4. Fração Sólida: Base para Organomineral Granulado
 
 &ensp; Os sólidos que sedimentam no biodigestor devem ser processados fisicamente para reduzir a umidade e adicionados de fontes minerais de nutrientes para a formulação de fertilizantes organominerais. Uma vez obtida essa mistura, o material pode ser transformado em grânulos, permitindo sua utilização como fertilizantes.
 
@@ -605,7 +619,7 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 &ensp; **O resultado:** Um produto mecanizável, com teores declarados de nutrientes e aplicação direta em plantadeiras, exatamente o formato que o mercado de grãos consome.
 
 
-### 9.5. O Que se Perde em Relação ao Produto Atual
+### 8.5. O Que se Perde em Relação ao Produto Atual
 
 &ensp; É importante nomear o que muda. O composto atual da SoloBom tem:
 
@@ -629,7 +643,7 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 &ensp; A SoloBom pode operar os dois sem que um canibaliza o outro, desde que o posicionamento comercial seja distinto.
 
 
-### 9.6. Regulatório
+### 8.6. Regulatório
 
 &ensp; A fração sólida do digestato pode ser registrada como fertilizante orgânico simples sob a **IN 61/2020**, que exige:
 
@@ -645,23 +659,47 @@ Dessa forma, as cooperativas deixam de ser apenas canais comerciais e passam a a
 
 ---
 
-## <span id="est10"></span>10. Governança e Compliance Ambiental na Gestão de Resíduos
+## <span id="est9"></span>9. Governança e Compliance Ambiental na Gestão de Resíduos
 
-O crédito ambiental apresenta uma conexão direta com as iniciativas de fertilizantes orgânicos e biometano desenvolvidas pela Mantiqueira Brasil. Ambas as soluções estão alinhadas aos princípios da economia circular e da redução de impactos ambientais, criando oportunidades para a geração de valor econômico por meio da monetização de benefícios ambientais.
-No caso dos fertilizantes orgânicos, o principal potencial está relacionado ao aumento da matéria orgânica e ao armazenamento de carbono no solo. Quando produtores utilizam esses fertilizantes em conjunto com práticas regenerativas, como cobertura vegetal, plantio direto e rotação de culturas, ocorre um aumento da capacidade do solo de capturar e armazenar carbono atmosférico. Esse processo pode contribuir para projetos de crédito de carbono voltados à agricultura regenerativa, criando uma fonte adicional de receita para os produtores.
-Além da captura de carbono, os fertilizantes orgânicos contribuem para a redução da dependência de fertilizantes sintéticos, cuja produção normalmente demanda elevado consumo energético e gera emissões significativas de gases de efeito estufa. Essa substituição fortalece o argumento ambiental e amplia o potencial de participação em programas de sustentabilidade e certificações ESG.
-A estratégia de biometano possui uma relação ainda mais direta com o mercado de créditos ambientais. O biometano é produzido a partir da biodigestão de resíduos orgânicos que, se descartados inadequadamente, liberariam grandes quantidades de metano para a atmosfera. Como o metano possui um potencial de aquecimento global muito superior ao do dióxido de carbono, sua captura e utilização como combustível renovável representam uma redução significativa das emissões.
-Ao transformar resíduos da produção avícola em energia renovável, a Mantiqueira reduz emissões, substitui combustíveis fósseis e cria uma solução alinhada às metas globais de descarbonização. Esses benefícios podem ser convertidos em créditos de carbono ou utilizados para fortalecer programas de sustentabilidade corporativa, aumentando a atratividade da empresa para investidores, parceiros e clientes.
+### 9.1. Contexto
+
+&ensp; O crédito ambiental apresenta uma conexão direta com as iniciativas de fertilizantes orgânicos e biometano desenvolvidas pela Mantiqueira Brasil. Ambas as soluções estão alinhadas aos princípios da economia circular e da redução de impactos ambientais, criando oportunidades para geração de valor econômico por meio da monetização de benefícios ambientais.
+
+### 9.2. Potencial dos Fertilizantes Orgânicos
+
+&ensp; Nos fertilizantes orgânicos, o principal potencial está relacionado ao aumento da matéria orgânica e ao armazenamento de carbono no solo. Quando utilizados em conjunto com práticas regenerativas, como cobertura vegetal, plantio direto e rotação de culturas, esses fertilizantes contribuem para ampliar a capacidade do solo de capturar e armazenar carbono atmosférico.
+
+&ensp; Esse processo pode viabilizar projetos de crédito de carbono voltados à agricultura regenerativa, criando uma fonte adicional de receita para os produtores.
+
+&ensp; Além da captura de carbono, os fertilizantes orgânicos reduzem a dependência de fertilizantes sintéticos, cuja produção demanda elevado consumo energético e gera emissões significativas de gases de efeito estufa. Essa substituição fortalece o posicionamento ambiental da empresa e amplia o potencial de participação em programas de sustentabilidade e certificações ESG.
+
+### 9.3. Potencial do Biometano
+
+&ensp; A estratégia de biometano possui uma relação ainda mais direta com o mercado de créditos ambientais. O biometano é produzido por meio da biodigestão de resíduos orgânicos que, se descartados inadequadamente, liberariam grandes quantidades de metano para a atmosfera.
+
+&ensp; Como o metano possui potencial de aquecimento global significativamente superior ao dióxido de carbono, sua captura e utilização como combustível renovável representam uma redução relevante das emissões.
+
+&ensp; Ao transformar resíduos da produção avícola em energia renovável, a Mantiqueira reduz emissões, substitui combustíveis fósseis e cria uma solução alinhada às metas globais de descarbonização. Esses benefícios podem ser convertidos em créditos de carbono ou utilizados para fortalecer programas de sustentabilidade corporativa, aumentando a atratividade da empresa para investidores, parceiros e clientes.
+
+### 9.4. Visão Estratégica Integrada
+
+&ensp; A integração entre fertilizantes orgânicos, biometano, cooperativas e créditos ambientais cria um modelo de negócio baseado na economia circular.
+
+&ensp; Nesse modelo, os resíduos gerados pela produção de ovos são transformados em biometano e biofertilizantes. Os fertilizantes orgânicos são distribuídos aos produtores por meio de cooperativas, promovendo a recuperação dos solos e a agricultura regenerativa. Como resultado, há redução de emissões, aumento do sequestro de carbono e melhoria dos indicadores ambientais das propriedades rurais.
+
+&ensp; Esses benefícios podem ser monitorados e convertidos em créditos ambientais, gerando novas fontes de receita para produtores, cooperativas e para o próprio ecossistema da Mantiqueira.
+
+&ensp; Assim, a empresa deixa de atuar apenas como produtora de ovos ou fornecedora de insumos agrícolas e passa a se posicionar como uma plataforma de sustentabilidade, energia renovável e regeneração do solo, capturando valor em múltiplos elos da cadeia do agronegócio. Essa abordagem está alinhada às principais tendências globais de ESG, economia circular e agricultura de baixo carbono.
 
 ---
 
-## <span id="est11"></span>11. Modelo por assinatura para produtores recorrentes
+## <span id="est10"></span>10. Modelo por assinatura para produtores recorrentes
 
 &ensp; O modelo por assinatura representa uma oportunidade estratégica para a SoloBom aumentar a previsibilidade de receita, fidelizar clientes e reduzir a sazonalidade típica do mercado de compostos orgânicos. Diferentemente de uma assinatura mensal tradicional — mais comum em serviços digitais —, a proposta mais adequada ao agronegócio consiste em um modelo de fornecimento recorrente por safra, por ciclo produtivo ou por hectare contratado. Nesse formato, o produtor não compra apenas uma carga pontual de composto, mas adere a um programa contínuo de manejo de solo, com entregas programadas, suporte técnico, previsibilidade de preço e acompanhamento agronômico.
 
 &ensp; Essa estratégia faz sentido porque o mercado de compostos orgânicos é tradicionalmente nichado, fragmentado e sazonal, com forte concentração de vendas em períodos específicos de plantio. Ao criar contratos recorrentes, a SoloBom consegue transformar parte dessa demanda sazonal em uma carteira previsível de clientes, otimizando o planejamento produtivo, a logística de expedição, o fluxo de caixa e a taxa de ocupação da capacidade industrial das usinas. Para o produtor, o benefício central se traduz na garantia absoluta de abastecimento, no planejamento antecipado da adubação, na flexibilização do fluxo de pagamento e no acesso direto a uma recomendação técnica mais robusta e personalizada.
 
-### 11.1. Contexto de mercado e oportunidade setorial
+### 10.1. Contexto de mercado e oportunidade setorial
 
 &ensp; O mercado agrícola brasileiro possui características altamente favoráveis para modelos de recorrência, desde que adaptados à lógica real de cada safra. O produtor rural já opera habitualmente com planejamento antecipado de insumos, compras programadas, contratos de fornecimento futuro, financiamento agrícola estruturado e pacotes tecnológicos de pacotes fechados (*barter*). Dessa forma, a iniciativa da SoloBom não deve ser comunicada como uma "mensalidade genérica", mas sim como um **Programa de Manejo Recorrente**.
 
@@ -670,7 +708,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 > **Diretriz Estratégica:** Para a SoloBom, o modelo por assinatura funciona como uma barreira de diferenciação mercadológica. Enquanto concorrentes regionais de pequeno porte disputam exclusivamente o menor preço por tonelada de composto comum, e grandes indústrias disputam canais minerais, a SoloBom deixa de vender apenas "volume físico" e passa a comercializar uma solução integrada de construção de fertilidade de solo com acompanhamento e fidelização de longo prazo.
 
 
-### 11.2. Formatos possíveis de assinatura
+### 10.2. Formatos possíveis de assinatura
 
 &ensp; A estruturação do portfólio de assinaturas foi desenhada em formatos modulares para atender com precisão o perfil do produtor, a cultura atendida e a dinâmica regionalizada:
 
@@ -683,7 +721,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 | **Recuperação de Solo** | Cronograma de médio/longo prazo focado na reconstrução biológica de áreas degradadas ou em conversão. | Produtores em transição regenerativa e projetos alinhados a fundos ESG. | Posicionamento sustentável de marca e contratos de longo prazo. |
 | **Orgânica Certificada** | Abastecimento contínuo e programado da linha SB Premium com garantia estrita de origem. | Produtores orgânicos certificados e cafés especiais de exportação. | Valorização da rastreabilidade e segurança em auditorias de certificação. |
 
-### 11.3. Disponibilidade geográfica e aderência regional
+### 10.3. Disponibilidade geográfica e aderência regional
 
 &ensp; A viabilidade operacional e financeira do modelo por assinatura possui dependência direta da matriz geográfica. Como o composto orgânico sólido tradicional apresenta alto volume por unidade de nutriente, a SoloBom deve priorizar raios de atendimento econômico ao redor de suas usinas para garantir a competitividade do frete:
 
@@ -695,7 +733,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 * **Mato Grosso do Sul:** Potencial considerado **Médio**. Mercado agropecuário de grãos em expansão, porém altamente dependente de parcerias com revendas locais para viabilizar a consolidação de cargas e reduzir o impacto do frete.
 * **Regiões Distantes das Unidades:** Potencial considerado **Baixo**. O custo logístico do frete de longa distância reduz severamente a margem de contribuição, tornando o modelo inviável frente a subprodutos orgânicos locais de baixo valor técnico.
 
-### 11.4. Clientes potenciais e probabilidade de adoção
+### 10.4. Clientes potenciais e probabilidade de adoção
 
 &ensp; O modelo por assinatura exige segmentação clara. A iniciativa possui maior tração com produtores que já compreendem o solo como um ativo biológico de longo prazo, apresentando baixa aderência em perfis de clientes que compram insumos exclusivamente por oportunidade de preço momentâneo.
 
@@ -712,7 +750,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 | **Cana-de-Açúcar** | **40% a 55%** | Demanda em grande escala, mas enfrenta forte concorrência interna de subprodutos industriais das usinas (vinhaça e torta de filtro). |
 | **Produtores de Baixo Investimento** | **20% a 35%** | Baixíssima abertura a programas de manejo planejado; compram adubação pontual balizada apenas pelo menor preço bruto. |
 
-### 11.5. Proposta de valor da assinatura
+### 10.5. Proposta de valor da assinatura
 
 &ensp; A comunicação de mercado deve blindar o projeto contra a percepção de ser "apenas um parcelamento de notas". A proposta de valor sustenta-se em uma tríade de benefícios mútuos:
 
@@ -720,7 +758,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 * **Dimensão Técnica:** Eleva o patamar de eficiência da fazenda por meio de recomendações customizadas por talhão, época correta de aplicação e suporte agronômico. Para a SoloBom, retira o produto da vala comum de comparação por preço de balcão.
 * **Dimensão do Relacionamento:** Constrói um vínculo de parceria de longo prazo entre o agricultor e a marca. Para a SoloBom, maximiza o *Lifetime Value* (LTV), reduz o *churn* (cancelamento) e eleva de forma consistente o *ticket médio*.
 
-### 11.6. Estrutura de pacotes recomendada
+### 10.6. Estrutura de pacotes recomendada
 
 &ensp; Para capturar com máxima eficiência os diferentes níveis de prontidão tecnológica e disposição de pagamento do mercado, a estrutura comercial foi desenhada em níveis de serviço:
 
@@ -730,20 +768,20 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 * **SoloBom Cooperativas:** Modelo de contratação institucional de grande escala voltado para a reserva antecipada e programada de cotas de volume destinadas ao atendimento de cooperados integrados.
 * **SoloBom Regenerativo:** Programa focado no fornecimento contínuo de soluções para reconstrução de matéria orgânica, bioatividade e sequestro de carbono em áreas degradadas ou fazendas com metas estritas corporativas de ESG.
 
-### 11.7. Análise Estratégica do Modelo
+### 10.7. Análise Estratégica do Modelo
 
-#### 11.7.1. Vantagens e Benefícios Financeiros
+#### 10.7.1. Vantagens e Benefícios Financeiros
 - **Previsibilidade absoluta de receita:** Mitiga os picos e vales de faturamento decorrentes das oscilações tradicionais de mercado fora das janelas de plantio.
 - **Otimização da cadeia de suprimentos:** Permite a compra planejada de matérias-primas e estruturantes, reduzindo custos de armazenagem e riscos de quebra de estoque nas usinas.
 - **Eficiência logística e de frete:** Viabiliza o agendamento prévio de frotas de transporte em períodos de entressafra de frete, capturando as melhores tarifas de movimentação.
 - **Redução drástica do Custo de Aquisição de Clientes (CAC):** O esforço comercial concentra-se na assinatura inicial, diluindo custos de vendas ao longo de contratos plurianuais de fornecimento.
 
-#### 11.7.2. Riscos e pontos de atenção
+#### 10.7.2. Riscos e pontos de atenção
 - **Barreira cultural do termo:** O agricultor tradicional possui forte resistência a conceitos de "assinatura". A mitigação exige adaptar o vocabulário comercial para termos como **"Plano de Fornecimento Programado"** ou **"Contrato de Manejo por Safra"**.
 - **Gestão de inadimplência:** Contratos de longo prazo exigem governança financeira rigorosa, análise prévia de crédito por safra e estruturas de recebíveis seguras (como CPR ou travas de produção).
 - **Gargalo de assistência de campo:** Pacotes técnicos demandam capilaridade de engenheiros agrônomos na ponta. A SoloBom deve usar consultores parceiros e equipes das próprias revendas/cooperativas para escalar o suporte sem inflar o custo fixo interno.
 
-#### 11.7.3. Avaliação comparativa
+#### 10.7.3. Avaliação comparativa
 
 ##### O Cenário Atual vs. O Futuro do Projeto
 
@@ -760,7 +798,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 | **Complexidade Operacional** | **Média/Alta** | Ponto de atenção: exige governança de crédito rigorosa e logística impecável. |
 | **Necessidade de Equipe Técnica** | **Alta** | Demanda coordenação e treinamento de agrônomos na ponta do processo. |
 
-### 11.8. Caminho de implementação
+### 10.8. Caminho de implementação
 
 - **Etapa 1 - Piloto com Clientes Históricos:** Selecionar uma carteira restrita de produtores que já compram o fertilizante SoloBom de forma recorrente e migrá-los para o primeiro lote de contratos por safra com entrega programada e benefícios comerciais exclusivos de pioneirismo.
 - **Etapa 2 - Lançamento nos Segmentos de Alta Tração:** Desenhar e empacotar formalmente as ofertas focadas em Café, Hortifrúti e Orgânicos nas regiões polo do Sul de Minas e Eixo MG/SP, validando os níveis de preço e aceitação dos serviços técnicos.
@@ -768,7 +806,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 - **Etapa 4 - Integração de Portfólio Tecnológico:** Conectar o modelo de assinaturas às novas linhas de maior valor agregado da empresa (como os Organominerais Granulados), ampliando drasticamente o apelo de uso em grandes lavouras de grãos.
 - **Etapa 5 - Implementação do Dashboard de Sucesso do Cliente:** Instituir uma base de dados centralizada para monitoramento contínuo de indicadores por cliente, mapeando hectares cobertos, análises de solo periódicas, cronogramas de entrega e taxas de renovação contratual.
 
-### 11.9. Conclusão
+### 10.9. Conclusão
 
 &ensp; O modelo por assinatura consolida a transição da SoloBom de uma fornecedora comum de insumos biológicos para uma parceira estratégica em tecnologia e construção de fertilidade de longo prazo. O sucesso da iniciativa reside na capacidade da equipe comercial em falar a língua da porteira para dentro: o agricultor não quer assinar um serviço, ele quer garantir a produtividade do seu talhão com custo controlado, suporte especialista e sem dores de cabeça logísticas na hora crítica do plantio. 
 
@@ -776,7 +814,7 @@ Ao transformar resíduos da produção avícola em energia renovável, a Mantiqu
 
 ---
 
-## <span id="ref"></span>12. Fontes Ultilizadas
+## <span id="ref"></span>11. Fontes Ultilizadas
 
 ### Seção 1:
 
@@ -860,25 +898,15 @@ GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Di
 
 ### Seção 6:
 
-CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024.  
-Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/)  
-Acesso em: 9 jun. 2026.
+CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024. Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.].  
-Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.].  Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.].  
-Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.]. Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026.  
-Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026. Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio). Acesso em: 9 jun. 2026.
 
-CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024.  
-Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000)  
-Acesso em: 9 jun. 2026.
+CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024. Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000). Acesso em: 9 jun. 2026.
 
 ### Seção 7:
 
@@ -914,25 +942,15 @@ GRUPO MANTIQUEIRA. Relatórios de Sustentabilidade e Governança Corporativa. Di
 
 ### Seção 10:
 
-CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024.  
-Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/)  
-Acesso em: 9 jun. 2026.
+CENTRO DE INTELIGÊNCIA EM ORGÂNICOS. Agricultura: Mantiqueira BR é pioneira na oferta de produtos orgânicos. Rio de Janeiro, 30 abr. 2024. Disponível em: [https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/](https://ciorganicos.com.br/biblioteca/agricultura-mantiqueira-br-e-pioneira-na-oferta-de-produtos-organicos/). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.].  
-Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Quem somos. Maringá, [s.d.]. Disponível em: [https://www.cocamar.com.br/](https://www.cocamar.com.br/). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.].  
-Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Sustentabilidade. Maringá, [s.d.]. Disponível em: [https://www.cocamar.com.br/sustentabilidade](https://www.cocamar.com.br/sustentabilidade). Acesso em: 9 jun. 2026.
 
-COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026.  
-Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio)  
-Acesso em: 9 jun. 2026.
+COCAMAR COOPERATIVA AGROINDUSTRIAL. Relatório de Sustentabilidade 2025. Maringá, 31 mar. 2026. Disponível em: [https://www.cocamar.com.br/sustentabilidade/relatorio](https://www.cocamar.com.br/sustentabilidade/relatorio). Acesso em: 9 jun. 2026.
 
-CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024.  
-Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000)  
-Acesso em: 9 jun. 2026.
+CAPETZ, Margaret; SHARMA, Swati; PADILHA, Rafael; et al. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots. arXiv, 2024. Disponível em: [https://arxiv.org/abs/2401.00000](https://arxiv.org/abs/2401.00000). Acesso em: 9 jun. 2026.
 
 ### Seção 11: 
 
